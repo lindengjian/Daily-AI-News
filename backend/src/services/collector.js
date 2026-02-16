@@ -5,29 +5,39 @@ import db from '../db/index.js';
 import summarizer from '../services/summarizer.js';
 import config from '../config/index.js';
 
-async function collectNews() {
+async function collectNews(options = {}) {
+  const onProgress = typeof options.onProgress === 'function' ? options.onProgress : null;
+  const report = (payload) => {
+    if (onProgress) onProgress(payload);
+  };
+
   console.log('[Collector] 开始采集新闻...');
   const allItems = [];
   const targetCount = 10;
+  report({ stage: 'start', message: '开始采集', percent: 0 });
   
   if (config.crawlers.bilibili) {
     console.log('[Collector] 采集 Bilibili (AI模型/新技术)...');
+    report({ stage: 'bilibili', message: '采集中：Bilibili', percent: 10 });
     const bilibiliVideos = await bilibiliCrawler.getBilibiliVideos('AI模型发布', 8);
     allItems.push(...bilibiliVideos);
   }
   
   if (config.crawlers.youtube) {
     console.log('[Collector] 采集 YouTube (AI新技术)...');
+    report({ stage: 'youtube', message: '采集中：YouTube', percent: 30 });
     const youtubeVideos = await youtubeCrawler.getYoutubeVideos('AI model release announcement', 5, { days: 2 });
     allItems.push(...youtubeVideos);
   }
   
   if (config.crawlers.github) {
     console.log('[Collector] 采集 GitHub (AI开源项目)...');
+    report({ stage: 'github', message: '采集中：GitHub', percent: 40 });
     const githubProjects = await githubCrawler.getGithubTrending(3);
     allItems.push(...githubProjects);
   }
   
+  report({ stage: 'dedupe', message: '去重与筛选', percent: 55 });
   const existingItems = db.all('SELECT source_url FROM news');
   const existingUrls = new Set(existingItems.map(row => row.source_url));
   
@@ -36,13 +46,16 @@ async function collectNews() {
     .slice(0, targetCount);
   
   console.log(`[Collector] 获取到 ${newItems.length} 条新内容`);
+  report({ stage: 'picked', message: `获得 ${newItems.length} 条新内容`, percent: 60, total: newItems.length, done: 0 });
   
+  let done = 0;
   for (const item of newItems) {
     let summary = '';
     
     if (item.media_type === 'video' && config.minimax.apiKey) {
       try {
         console.log(`[Collector] 生成摘要: ${item.title}`);
+        report({ stage: 'summarize', message: `生成摘要：${item.title}`, percent: 60 + Math.floor((done / Math.max(newItems.length, 1)) * 30), total: newItems.length, done });
         summary = await summarizer.summarize(item.title, item.content || '');
         item.summary = summary;
       } catch (error) {
@@ -72,9 +85,13 @@ async function collectNews() {
     } catch (error) {
       console.error(`[Collector] 保存失败: ${error.message}`);
     }
+
+    done += 1;
+    report({ stage: 'save', message: `已保存 ${done}/${newItems.length}`, percent: 60 + Math.floor((done / Math.max(newItems.length, 1)) * 35), total: newItems.length, done });
   }
   
   console.log(`[Collector] 采集完成！新增 ${newItems.length} 条`);
+  report({ stage: 'done', message: '采集完成', percent: 100, total: newItems.length, done: newItems.length, count: newItems.length });
   return newItems.length;
 }
 

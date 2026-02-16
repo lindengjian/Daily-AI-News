@@ -73,4 +73,13 @@ export function triggerCollect() {
   return api.post('/news/collect');
 }
 
+export function getCollectStatus() {
+  if (import.meta.env.PROD) {
+    const err = new Error('Not supported in production');
+    err.response = { status: 400 };
+    return Promise.reject(err);
+  }
+  return api.get('/news/collect/status');
+}
+
 export default api;

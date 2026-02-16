@@ -1,6 +1,7 @@
 import { Router } from 'express';
 import collector from '../services/collector.js';
 import axios from 'axios';
+import collectManager from '../services/collectManager.js';
 
 const router = Router();
 
@@ -90,8 +91,19 @@ router.get('/news/:id', (req, res) => {
 
 router.post('/news/collect', async (req, res) => {
   try {
-    const count = await collector.collectNews();
-    res.json({ success: true, count });
+    const result = collectManager.start();
+    if (!result.ok && result.code === 'COLLECTED_TODAY') {
+      return res.status(409).json({ success: false, code: 'COLLECTED_TODAY', message: '今天已经采集过了，请明天再试', status: result.status });
+    }
+    res.status(202).json({ success: true, status: result.status });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+router.get('/news/collect/status', (req, res) => {
+  try {
+    res.json({ success: true, status: collectManager.status() });
   } catch (error) {
     res.status(500).json({ error: error.message });
   }

@@ -82,13 +82,47 @@
         </button>
       </div>
     </div>
+
+    <div v-if="collectModalOpen" class="collect-overlay" @click.self="closeCollectModal">
+      <div class="collect-modal">
+        <div class="collect-head">
+          <div class="collect-title">采集进度</div>
+          <button class="collect-close" @click="closeCollectModal">×</button>
+        </div>
+
+        <div class="collect-body">
+          <div class="collect-status">
+            <div class="collect-message">{{ collectMessage }}</div>
+            <div class="collect-meta">
+              <span v-if="collectDay">日期：{{ collectDay }}</span>
+              <span v-if="collectTotal">进度：{{ collectDone }}/{{ collectTotal }}</span>
+            </div>
+          </div>
+
+          <div class="collect-bar">
+            <div class="collect-bar-track">
+              <div class="collect-bar-fill" :style="{ width: `${collectPercent}%` }"></div>
+            </div>
+            <div class="collect-bar-percent">{{ collectPercent }}%</div>
+          </div>
+
+          <div class="collect-log">
+            <div v-for="(line, idx) in collectLog" :key="idx" class="collect-log-line">{{ line }}</div>
+          </div>
+        </div>
+
+        <div class="collect-foot">
+          <button class="btn btn-outline" @click="closeCollectModal">关闭</button>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <script setup>
-import { ref, watch, onMounted } from 'vue';
+import { ref, watch, onMounted, computed } from 'vue';
 import { useRouter } from 'vue-router';
-import { getNewsList, triggerCollect } from '@/api/index';
+import { getNewsList, triggerCollect, getCollectStatus } from '@/api/index';
 
 const router = useRouter();
 const isProd = import.meta.env.PROD;
@@ -109,6 +143,11 @@ const sources = [
 
 const totalPages = ref(0);
 const thumbErrorMap = ref({});
+
+const collectModalOpen = ref(false);
+const collectStatus = ref(null);
+const collectLog = ref([]);
+let collectTimer = null;
 
 async function fetchNews() {
   loading.value = true;
@@ -132,17 +171,90 @@ async function fetchNews() {
 }
 
 async function handleCollect() {
+  collectModalOpen.value = true;
+  collectLog.value = [];
+  collectStatus.value = { stage: 'checking', message: '检查采集状态', percent: 0, running: true };
+
   loading.value = true;
   try {
     const { data } = await triggerCollect();
-    console.log('采集完成:', data);
-    await fetchNews();
+    if (data?.status) {
+      collectStatus.value = data.status;
+      pushCollectLog(data.status.message || '开始采集');
+      startCollectPolling();
+    } else {
+      pushCollectLog('开始采集');
+      startCollectPolling();
+    }
   } catch (error) {
-    console.error('采集失败:', error);
+    if (error?.response?.status === 409 && error?.response?.data?.code === 'COLLECTED_TODAY') {
+      collectStatus.value = error.response.data.status || { running: false, percent: 100, stage: 'blocked', message: '今天已经采集过了，请明天再试' };
+      pushCollectLog('今天已经采集过了，请明天再试');
+    } else {
+      collectStatus.value = { running: false, percent: 100, stage: 'error', message: '采集失败' };
+      pushCollectLog('采集失败');
+      console.error('采集失败:', error);
+    }
   } finally {
     loading.value = false;
   }
 }
+
+function startCollectPolling() {
+  if (collectTimer) clearInterval(collectTimer);
+  collectTimer = setInterval(async () => {
+    try {
+      const { data } = await getCollectStatus();
+      const s = data?.status;
+      if (!s) return;
+      const prev = collectStatus.value;
+      collectStatus.value = s;
+      if (s.message && (!prev || prev.message !== s.message)) {
+        pushCollectLog(s.message);
+      }
+      if (s.running === false) {
+        clearInterval(collectTimer);
+        collectTimer = null;
+        if (s.stage === 'done') {
+          pushCollectLog(`采集完成，新增 ${s.count || 0} 条`);
+          await fetchNews();
+        }
+      }
+    } catch (e) {
+      clearInterval(collectTimer);
+      collectTimer = null;
+      pushCollectLog('获取进度失败');
+    }
+  }, 1000);
+}
+
+function pushCollectLog(line) {
+  const ts = new Date().toLocaleTimeString('zh-CN', { hour12: false });
+  const next = [...collectLog.value, `[${ts}] ${line}`];
+  collectLog.value = next.slice(-30);
+}
+
+function closeCollectModal() {
+  collectModalOpen.value = false;
+  if (collectTimer) {
+    clearInterval(collectTimer);
+    collectTimer = null;
+  }
+}
+
+const collectPercent = computed(() => {
+  const p = Number(collectStatus.value?.percent ?? 0);
+  if (Number.isNaN(p)) return 0;
+  return Math.max(0, Math.min(100, Math.round(p)));
+});
+
+const collectMessage = computed(() => {
+  return collectStatus.value?.message || '等待中';
+});
+
+const collectTotal = computed(() => Number(collectStatus.value?.total || 0));
+const collectDone = computed(() => Number(collectStatus.value?.done || 0));
+const collectDay = computed(() => collectStatus.value?.day || '');
 
 function goToDetail(id) {
   router.push(`/detail/${id}`);
@@ -216,6 +328,133 @@ onMounted(() => {
   font-size: 28px;
   font-weight: 700;
   color: #333;
+}
+
+.collect-overlay {
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(1200px 600px at 50% 20%, rgba(102, 126, 234, 0.18), rgba(0, 0, 0, 0.55));
+  backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  z-index: 50;
+}
+
+.collect-modal {
+  width: min(560px, 100%);
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  border-radius: 16px;
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.collect-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.15), rgba(118, 75, 162, 0.12));
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.collect-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #222;
+  letter-spacing: 0.2px;
+}
+
+.collect-close {
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  color: #333;
+}
+
+.collect-body {
+  padding: 16px;
+}
+
+.collect-status {
+  display: grid;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.collect-message {
+  font-size: 14px;
+  font-weight: 600;
+  color: #222;
+}
+
+.collect-meta {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: #666;
+}
+
+.collect-bar {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.collect-bar-track {
+  height: 10px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+
+.collect-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  box-shadow: 0 10px 18px rgba(102, 126, 234, 0.25);
+  transition: width 0.35s ease;
+}
+
+.collect-bar-percent {
+  font-size: 12px;
+  font-weight: 700;
+  color: #444;
+  min-width: 42px;
+  text-align: right;
+}
+
+.collect-log {
+  height: 180px;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  background: rgba(255, 255, 255, 0.65);
+  padding: 10px 12px;
+  overflow: auto;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 12px;
+  color: #2a2a2a;
+}
+
+.collect-log-line {
+  padding: 2px 0;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.06);
+}
+
+.collect-foot {
+  padding: 12px 16px 16px;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .btn {
