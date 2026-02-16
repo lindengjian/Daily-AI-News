@@ -103,6 +103,7 @@ async function normalizeItem(item) {
 
 async function collectRaw() {
   const results = [];
+  const stats = { bilibili: 0, youtube: 0, github: 0 };
 
   const bilibili = process.env.CRAWL_BILIBILI !== 'false';
   const youtube = process.env.CRAWL_YOUTUBE !== 'false';
@@ -110,26 +111,29 @@ async function collectRaw() {
 
   if (bilibili) {
     const items = await bilibiliCrawler.getBilibiliVideos('AI模型发布', 6);
+    stats.bilibili = Array.isArray(items) ? items.length : 0;
     results.push(...items);
   }
 
   if (youtube) {
     const items = await youtubeCrawler.getYoutubeVideos('AI model release announcement', 6, { days: 2 });
+    stats.youtube = Array.isArray(items) ? items.length : 0;
     results.push(...items);
   }
 
   if (github) {
     const items = await githubCrawler.getGithubTrending(4);
+    stats.github = Array.isArray(items) ? items.length : 0;
     results.push(...items);
   }
 
-  return results;
+  return { results, stats };
 }
 
 async function main() {
   await ensureDirs();
 
-  const raw = await collectRaw();
+  const { results: raw, stats } = await collectRaw();
   const dedup = new Map();
   for (const it of raw) {
     if (it && it.source_url && !dedup.has(it.source_url)) dedup.set(it.source_url, it);
@@ -139,6 +143,21 @@ async function main() {
   const normalized = [];
   for (const it of picked) {
     normalized.push(await normalizeItem(it));
+  }
+
+  if (normalized.length === 0) {
+    let existingCount = 0;
+    try {
+      const prev = JSON.parse(await fs.readFile(outputPath, 'utf8'));
+      existingCount = Array.isArray(prev?.items) ? prev.items.length : 0;
+    } catch {}
+
+    const reason =
+      `本次采集结果为空（bilibili=${stats.bilibili}, youtube=${stats.youtube}, github=${stats.github}）。` +
+      `通常是 CI 环境被目标站点风控/限流，或 GitHub Search API 422。` +
+      (existingCount > 0 ? `为避免覆盖已有数据（现有 ${existingCount} 条），本次直接失败退出。` : '当前也没有历史数据可用。');
+
+    throw new Error(reason);
   }
 
   const payload = {

@@ -30,6 +30,7 @@ jobs:
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
           MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
+          GITHUB_TOKEN: ${{ github.token }}
           CRAWL_BILIBILI: "true"
           CRAWL_YOUTUBE: "true"
           CRAWL_GITHUB: "true"
@@ -41,4 +42,3 @@ jobs:
           git add frontend/public/data/news.json frontend/public/thumbs
           git commit -m "chore: update daily news" || exit 0
           git push
-

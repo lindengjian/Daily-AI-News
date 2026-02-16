@@ -32,13 +32,15 @@ async function getGithubTrending(limit = 5) {
   
   try {
     const since = 'daily';
-    const query = 'AI OR llm OR "machine learning" OR "deep learning" OR gpt OR "image generation" OR "video generation" OR multimodal';
-    const url = `${GITHUB_API}/search/repositories?q=${encodeURIComponent(query)}+created:>${getDateSince(since)}&sort=stars&order=desc&per_page=30`;
+    const createdSince = getDateSince(since);
+    const q = `(ai OR llm OR gpt OR "machine learning" OR "deep learning" OR multimodal OR "image generation" OR "video generation") created:>=${createdSince}`;
+    const url = `${GITHUB_API}/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=30`;
     
     const response = await axios.get(url, {
       headers: {
         'User-Agent': 'Daily-AI-News/1.0',
-        'Accept': 'application/vnd.github.v3+json'
+        'Accept': 'application/vnd.github.v3+json',
+        ...(process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {})
       },
       timeout: 15000
     });
@@ -75,7 +77,9 @@ async function getGithubTrending(limit = 5) {
       }
     }
   } catch (error) {
-    console.error('[GitHub] 采集失败:', error.message);
+    const status = error?.response?.status;
+    const msg = error?.response?.data?.message || error?.message;
+    console.error('[GitHub] 采集失败:', status ? `HTTP ${status}` : '', msg);
   }
   
   return projects;
