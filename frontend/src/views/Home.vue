@@ -3,7 +3,7 @@
     <div class="container">
       <div class="page-header">
         <h1 class="page-title">最新AI资讯</h1>
-        <div class="header-actions">
+        <div v-if="!isProd" class="header-actions">
           <button @click="handleCollect" class="btn btn-primary" :disabled="loading">
             {{ loading ? '收集中...' : '手动采集' }}
           </button>
@@ -91,6 +91,7 @@ import { useRouter } from 'vue-router';
 import { getNewsList, triggerCollect } from '@/api/index';
 
 const router = useRouter();
+const isProd = import.meta.env.PROD;
 
 const newsList = ref([]);
 const loading = ref(false);
@@ -159,6 +160,9 @@ function getSourceIcon(source) {
 function getThumbnailSrc(item) {
   if (!item?.thumbnail) return '';
   if (item.source === 'bilibili') {
+    if (typeof item.thumbnail === 'string' && item.thumbnail.startsWith('/thumbs/')) {
+      return item.thumbnail;
+    }
     return `/api/proxy/image?url=${encodeURIComponent(item.thumbnail)}`;
   }
   return item.thumbnail;

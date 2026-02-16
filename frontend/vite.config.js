@@ -3,6 +3,9 @@ import vue from '@vitejs/plugin-vue';
 import { fileURLToPath, URL } from 'node:url';
 
 export default defineConfig({
+  base: process.env.GITHUB_PAGES === 'true' && process.env.GITHUB_REPOSITORY
+    ? `/${process.env.GITHUB_REPOSITORY.split('/')[1]}/`
+    : '/',
   plugins: [vue()],
   resolve: {
     alias: {

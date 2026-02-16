@@ -6,7 +6,7 @@ export default {
   dbPath: process.env.DB_PATH || './data/news.db',
   minimax: {
     apiKey: process.env.MINIMAX_API_KEY || '',
-    baseUrl: process.env.MINIMAX_BASE_URL || 'https://api.minimax.chat'
+    baseUrl: process.env.MINIMAX_BASE_URL || 'https://api.minimaxi.com/anthropic'
   },
   crawlers: {
     bilibili: process.env.CRAWL_BILIBILI !== 'false',
