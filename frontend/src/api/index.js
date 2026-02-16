@@ -5,6 +5,13 @@ const api = axios.create({
   timeout: 15000
 });
 
+function assetUrl(p) {
+  const base = import.meta.env.BASE_URL || '/';
+  const cleaned = String(p || '').replace(/^\/+/, '');
+  if (base.endsWith('/')) return `${base}${cleaned}`;
+  return `${base}/${cleaned}`;
+}
+
 let staticCache = null;
 let staticCacheAt = 0;
 
@@ -12,7 +19,7 @@ async function loadStaticNews() {
   const now = Date.now();
   if (staticCache && now - staticCacheAt < 30000) return staticCache;
 
-  const resp = await fetch('/data/news.json', { cache: 'no-store' });
+  const resp = await fetch(assetUrl('data/news.json'), { cache: 'no-store' });
   if (!resp.ok) {
     throw new Error(`load static news failed: ${resp.status}`);
   }

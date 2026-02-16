@@ -301,11 +301,23 @@ function getSourceIcon(source) {
 
 function getThumbnailSrc(item) {
   if (!item?.thumbnail) return '';
+  const base = import.meta.env.BASE_URL || '/';
+  const toAsset = (p) => {
+    const cleaned = String(p || '').replace(/^\/+/, '');
+    if (base.endsWith('/')) return `${base}${cleaned}`;
+    return `${base}/${cleaned}`;
+  };
   if (item.source === 'bilibili') {
     if (typeof item.thumbnail === 'string' && item.thumbnail.startsWith('/thumbs/')) {
-      return item.thumbnail;
+      return toAsset(item.thumbnail);
+    }
+    if (typeof item.thumbnail === 'string' && item.thumbnail.startsWith('thumbs/')) {
+      return toAsset(item.thumbnail);
     }
     return `/api/proxy/image?url=${encodeURIComponent(item.thumbnail)}`;
+  }
+  if (typeof item.thumbnail === 'string' && (item.thumbnail.startsWith('/thumbs/') || item.thumbnail.startsWith('thumbs/'))) {
+    return toAsset(item.thumbnail);
   }
   return item.thumbnail;
 }
