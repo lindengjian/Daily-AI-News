@@ -28,7 +28,8 @@
       
       <div v-else-if="!newsList.length" class="empty">
         <p>暂无资讯</p>
-        <button @click="handleCollect" class="btn btn-outline">点击采集</button>
+        <button v-if="!isProd" @click="handleCollect" class="btn btn-outline">点击采集</button>
+        <button v-else @click="showProdCollectHint" class="btn btn-outline">如何更新</button>
       </div>
       
       <div v-else class="news-grid">
@@ -171,6 +172,11 @@ async function fetchNews() {
 }
 
 async function handleCollect() {
+  if (isProd) {
+    showProdCollectHint();
+    return;
+  }
+
   collectModalOpen.value = true;
   collectLog.value = [];
   collectStatus.value = { stage: 'checking', message: '检查采集状态', percent: 0, running: true };
@@ -192,12 +198,26 @@ async function handleCollect() {
       pushCollectLog('今天已经采集过了，请明天再试');
     } else {
       collectStatus.value = { running: false, percent: 100, stage: 'error', message: '采集失败' };
-      pushCollectLog('采集失败');
+      pushCollectLog(buildCollectErrorText(error));
       console.error('采集失败:', error);
     }
   } finally {
     loading.value = false;
   }
+}
+
+function showProdCollectHint() {
+  collectModalOpen.value = true;
+  collectLog.value = [];
+  collectStatus.value = {
+    running: false,
+    stage: 'blocked',
+    message: '线上站点无法手动采集',
+    percent: 100
+  };
+  pushCollectLog('当前站点部署在 GitHub Pages，为纯静态页面，浏览器无法直接执行采集。');
+  pushCollectLog('请到 GitHub 仓库 → Actions → 运行 “Collect Daily AI News” 工作流来更新数据。');
+  pushCollectLog('如果你想在网页里点按钮采集，需要额外部署后端服务（如 VPS/Serverless）。');
 }
 
 function startCollectPolling() {
@@ -223,9 +243,19 @@ function startCollectPolling() {
     } catch (e) {
       clearInterval(collectTimer);
       collectTimer = null;
-      pushCollectLog('获取进度失败');
+      pushCollectLog(buildCollectErrorText(e, '获取进度失败'));
     }
   }, 1000);
+}
+
+function buildCollectErrorText(error, prefix = '采集失败') {
+  const status = error?.response?.status;
+  const data = error?.response?.data;
+  const serverMsg =
+    (data && typeof data === 'object' && (data.message || data.error)) ||
+    (typeof data === 'string' ? data : null);
+  const msg = serverMsg || error?.message || '未知错误';
+  return `${prefix}${status ? `（HTTP ${status}）` : ''}：${msg}`;
 }
 
 function pushCollectLog(line) {

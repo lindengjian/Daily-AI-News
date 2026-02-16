@@ -67,7 +67,7 @@ export async function getTodayNews() {
 export function triggerCollect() {
   if (import.meta.env.PROD) {
     const err = new Error('Not supported in production');
-    err.response = { status: 400 };
+    err.response = { status: 400, data: { code: 'STATIC_SITE', message: 'GitHub Pages 为静态站点，无法从网页发起采集，请在 GitHub Actions 运行采集工作流。' } };
     return Promise.reject(err);
   }
   return api.post('/news/collect');
@@ -76,7 +76,7 @@ export function triggerCollect() {
 export function getCollectStatus() {
   if (import.meta.env.PROD) {
     const err = new Error('Not supported in production');
-    err.response = { status: 400 };
+    err.response = { status: 400, data: { code: 'STATIC_SITE', message: 'GitHub Pages 为静态站点，无法查询采集进度。' } };
     return Promise.reject(err);
   }
   return api.get('/news/collect/status');
