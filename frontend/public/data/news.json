@@ -1,4 +1,83 @@
 {
-  "generated_at": "2026-02-16T08:56:51.089Z",
-  "items": []
+  "generated_at": "2026-02-16T09:14:41.352Z",
+  "items": [
+    {
+      "id": "e7e838244709d96020caaa15748e611759141d76",
+      "title": "「Github一周热点104期」智谱GLM-5发布，打响春节AI大战模型第一枪",
+      "content": "1、项目名称：GLM-5 – 智谱新一代旗舰模型\n2、项目名称：cc-switch – AI 编码助手配置管理器\n3、项目名称：shannon – AI 渗透测试工具\n4、项目名称：monty – 安全Python 解释器\n5、项目名称：dexter – 深度金融研究智能体",
+      "summary": "本期Github一周热点主要报道了智谱AI发布新一代旗舰模型GLM-5，标志着国内AI大模型竞争进入新阶段。本期重点介绍了五个开源项目：智谱GLM-5作为新一代旗舰模型正式发布，展现了强大的多模态能力；cc-switch是一个AI编码助手配置管理器，帮助开发者更高效地管理开发环境；shannon是一款AI驱动的渗透测试工具，用于安全评估；monty是一个安全Python解释器，提供更安全的代码执行环境；dexter是专注于深度金融研究的AI智能体，为金融分析提供智能化支持。这些项目涵盖了AI模型、编程工具、安全技术和金融科技等多个领域，反映了当前技术发展的多元化趋势。",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1e7ZJBREu8",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1e7ZJBREu8&page=1",
+      "media_type": "video",
+      "published_at": "2026-02-15T01:00:00.000Z",
+      "collected_at": "2026-02-16T09:13:52.852Z",
+      "thumbnail": "/thumbs/e7e838244709d96020caaa15748e611759141d76.jpg"
+    },
+    {
+      "id": "43f9422425105cc0c94d04f1f13c1f9bf91c7ce6",
+      "title": "京东发布JoyAI-Flash模型，Minimax上线M2.5-highspeed | 2月16日AI日报第308期",
+      "content": "今日内容：\n1·京东发布JoyAI-LLM-Flash[00:03] \n2·Anthropic正在准备新公告[00:30] \n3·Qwen3.5疑似在Arena测试[00:46] \n4·Seedance2.0暂不支持人脸参考[00:55] \n5·Grok 4.2将于下周发布[01:08]#2026开个好头#模型#人工智能#GPT#Deepseek#Gemini#OpenAI#深度学习",
+      "summary": "2026年2月16日AI日报第308期主要内容：京东正式发布JoyAI-LLM-Flash模型，进一步丰富了其AI产品线。Anthropic公司正在准备新公告，预计将有大动作。阿里巴巴的Qwen3.5模型疑似在Arena平台进行测试，性能表现引发关注。视频生成工具Seedance2.0版本暂不支持人脸参考功能，可能影响部分创作需求。马斯克旗下的Grok即将发布4.2版本，预计下周正式亮相。本期AI新闻涵盖了国内外的多家人工智能公司动态，展示了AI领域的激烈竞争格局。",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1EHZxB7Eai",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1EHZxB7Eai&page=1",
+      "media_type": "video",
+      "published_at": "2026-02-15T14:55:00.000Z",
+      "collected_at": "2026-02-16T09:14:02.702Z",
+      "thumbnail": "/thumbs/43f9422425105cc0c94d04f1f13c1f9bf91c7ce6.jpg"
+    },
+    {
+      "id": "52955f47c9afda8c7f24132214e5147a59c887b9",
+      "title": "Ai大模型爆火Agent(打造专属LLM智能体)",
+      "content": "",
+      "summary": "本视频主要探讨了AI大模型时代下的Agent（智能体）概念与应用。随着大型语言模型的快速发展，Agent作为AI技术的重要应用方向正受到广泛关注。视频内容涵盖Agent的基本定义、技术原理以及如何基于LLM打造专属智能体的方法。讲解了智能体与传统AI助手的区别，包括自主规划、工具调用、记忆机制等核心能力，并通过实际案例演示了构建个性化AI智能体的完整流程，帮助观众理解如何在当前AI热潮中把握Agent这一技术趋势。",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/",
+      "embed_url": "//player.bilibili.com/player.html?bvid=&page=1",
+      "media_type": "video",
+      "published_at": "1970-01-01T00:00:00.000Z",
+      "collected_at": "2026-02-16T09:14:11.338Z",
+      "thumbnail": "/thumbs/52955f47c9afda8c7f24132214e5147a59c887b9.jpg"
+    },
+    {
+      "id": "d762a55c3f4dd17c9282e9eb029384cf46a5f84a",
+      "title": "AI 大模型周报 2026年2月 c（附链接）",
+      "content": "[AI女友Clawra] https://www.clawra.me\n[Teamily AI] https://teamily.ai\n[Seedance 2.0] https://seed.bytedance.com/en/seedance2_0\n[Seedream 5.0预览版] https://dreamina.capcut.com/tools/seedream-5-0\n[Qwen-Image-2.0] https://qwen.ai/blog?id=qwen-image",
+      "summary": "本视频为2026年2月的AI大模型周报，重点介绍了当月AI领域的最新发展动态。视频汇总了多个AI产品和技术的最新进展，包括AI伴侣产品Clawra、Teamily AI平台、字节跳动的Seedance 2.0视频生成工具、CapCut的Seedream 5.0预览版图像生成技术，以及阿里巴巴Qwen系列的Qwen-Image-2.0图像模型。这些工具涵盖了AI伴侣、视频生成、图像创作等多个应用领域，展现了AI技术在多模态内容创作方面的快速发展。视频通过整合这些前沿AI产品的信息，帮助观众快速了解2026年2月AI行业的主要动态和技术趋势。",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1D5cnz4Ewd",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1D5cnz4Ewd&page=1",
+      "media_type": "video",
+      "published_at": "2026-02-13T17:31:35.000Z",
+      "collected_at": "2026-02-16T09:14:19.653Z",
+      "thumbnail": "/thumbs/d762a55c3f4dd17c9282e9eb029384cf46a5f84a.jpg"
+    },
+    {
+      "id": "69921c7264b6a653c681c969f63d1fba255aa8f9",
+      "title": "美国博主用seedance2.0和目前其他三个视频大模型对比生成效果",
+      "content": "-",
+      "summary": "该视频由一位美国博主制作，对seedance2.0与目前其他三个主流视频大模型的生成效果进行对比评测。视频首先介绍了seedance2.0作为新一代视频生成模型的主要功能和特点，随后将其与市场上其他三个知名的视频大模型进行横向对比。博主从多个维度对各模型的生成质量、响应速度、创意表现等方面进行了详细测试，包括生成视频的画质、流畅度、对提示词的理解准确度等。通过实际案例展示，直观呈现各模型的优劣势，为观众提供选择参考。这期视频对于关注AI视频生成技术的用户具有较高的参考价值，帮助了解当前视频大模型领域的发展现状和各产品的实际表现。",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1Phc3zREK8",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1Phc3zREK8&page=1",
+      "media_type": "video",
+      "published_at": "2026-02-12T18:53:54.000Z",
+      "collected_at": "2026-02-16T09:14:28.626Z",
+      "thumbnail": "/thumbs/69921c7264b6a653c681c969f63d1fba255aa8f9.jpg"
+    },
+    {
+      "id": "b10398f86e9b63d541155f3f4019b6f2ac37ec8f",
+      "title": "一个视频教你弄清楚市面上所有的大模型（gpt，gemini，deepseek，qwen，kimi...）",
+      "content": "今天想通过这个视频教你弄清楚市面上所有的大模型（gpt，gemini，deepseek，qwen，kimi...），这也是完全从零开始实现大模型架构的第一步！",
+      "summary": "本视频旨在帮助观众全面了解当前市面上主流的大模型，包括GPT、Gemini、DeepSeek、Qwen、Kimi等知名品牌。视频将从基础概念出发，系统性地介绍这些大模型的技术特点、应用场景和发展背景，帮助观众建立对人工智能大模型领域的整体认知。作为“从零开始实现大模型架构”系列教程的开篇，本视频将为后续深入学习大模型的技术原理和实现方法打下坚实基础，适合对AI和大模型感兴趣但缺乏了解的初学者观看。",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1qr6iBaEaQ",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1qr6iBaEaQ&page=1",
+      "media_type": "video",
+      "published_at": "2026-01-30T13:39:02.000Z",
+      "collected_at": "2026-02-16T09:14:41.352Z",
+      "thumbnail": "/thumbs/b10398f86e9b63d541155f3f4019b6f2ac37ec8f.jpg"
+    }
+  ]
 }
