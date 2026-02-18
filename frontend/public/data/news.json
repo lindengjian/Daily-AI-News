@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-02-17T03:44:09.879Z",
+  "generated_at": "2026-02-18T03:46:41.505Z",
   "items": [
     {
-      "id": "bbfad29ce25e63f9686da0eec60b21c25a6b4198",
-      "title": "nicobailon/visual-explainer",
-      "content": "客服代表技能+生成丰富HTML页面的提示模板，用于可视化差异审核、架构概述、计划审核、数据表和项目回顾",
-      "summary": "客服代表技能+生成丰富HTML页面的提示模板，用于可视化差异审核、架构概述、计划审核、数据表和项目回顾",
+      "id": "16b56fadb475cade1e5ff0cb80acf8d3b20957e7",
+      "title": "doggy8088/Apptopia",
+      "content": "用 Issue 許願，我會用 AI 幫你完成實作",
+      "summary": "用 Issue 許願，我會用 AI 幫你完成實作",
       "source": "github",
-      "source_url": "https://github.com/nicobailon/visual-explainer",
+      "source_url": "https://github.com/doggy8088/Apptopia",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-16T19:33:52.000Z",
-      "collected_at": "2026-02-17T03:44:06.958Z",
-      "thumbnail": "/thumbs/bbfad29ce25e63f9686da0eec60b21c25a6b4198.jpg"
+      "published_at": "2026-02-17T07:52:40.000Z",
+      "collected_at": "2026-02-18T03:46:38.720Z",
+      "thumbnail": "/thumbs/16b56fadb475cade1e5ff0cb80acf8d3b20957e7.jpg"
     },
     {
-      "id": "4c719445a231471c27943ed559a9cef03e21d053",
-      "title": "Gentleman-Programming/engram",
-      "content": "用于AI编码代理的持久内存系统。与代理无关的使用SQLite + FTS5、MCP服务器、HTTP API、CLI和TUI的Go二进制文件。",
-      "summary": "用于AI编码代理的持久内存系统。与代理无关的使用SQLite + FTS5、MCP服务器、HTTP API、CLI和TUI的Go二进制文件。",
+      "id": "e7bbf93233aeb1c7fddcaf3d1c53b80fc8a8f13e",
+      "title": "下关/pegainfer",
+      "content": "Pure Rust + CUDA LLM推理引擎",
+      "summary": "Pure Rust + CUDA LLM推理引擎",
       "source": "github",
-      "source_url": "https://github.com/Gentleman-Programming/engram",
+      "source_url": "https://github.com/xiaguan/pegainfer",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-16T13:38:41.000Z",
-      "collected_at": "2026-02-17T03:44:07.815Z",
-      "thumbnail": "/thumbs/4c719445a231471c27943ed559a9cef03e21d053.png"
+      "published_at": "2026-02-17T12:01:22.000Z",
+      "collected_at": "2026-02-18T03:46:39.767Z",
+      "thumbnail": "/thumbs/e7bbf93233aeb1c7fddcaf3d1c53b80fc8a8f13e.jpg"
     },
     {
-      "id": "5bdba7cfa04d953d4c8ed112d0e02226f0fa6603",
-      "title": "mlapeter/claude-engram",
-      "content": "Claude.ai的大脑启发的持久记忆。单个React伪影为Claude提供了显著性评分、遗忘曲线、睡眠巩固和上下文简报--以人类海马记忆的形成为模型。完全在聊天界面内运行。无需API密钥，无需服务器，无需扩展。",
-      "summary": "Claude.ai的大脑启发的持久记忆。单个React伪影为Claude提供了显著性评分、遗忘曲线、睡眠巩固和上下文简报--以人类海马记忆的形成为模型。完全在聊天界面内运行。无需API密钥，无需服务器，无需扩展。",
+      "id": "c431c5be0c7fbae8b97a985346907d009a347eb1",
+      "title": "Ibrahim-3d/conductor-orchestrator-superpowers",
+      "content": "Claude Code的多代理编排系统，具有并行执行、自动化质量门、董事会和捆绑的Superpowers技能",
+      "summary": "Claude Code的多代理编排系统，具有并行执行、自动化质量门、董事会和捆绑的Superpowers技能",
       "source": "github",
-      "source_url": "https://github.com/mlapeter/claude-engram",
+      "source_url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-16T15:22:04.000Z",
-      "collected_at": "2026-02-17T03:44:08.942Z",
-      "thumbnail": "/thumbs/5bdba7cfa04d953d4c8ed112d0e02226f0fa6603.png"
+      "published_at": "2026-02-17T16:01:09.000Z",
+      "collected_at": "2026-02-18T03:46:40.586Z",
+      "thumbnail": "/thumbs/c431c5be0c7fbae8b97a985346907d009a347eb1.jpg"
     },
     {
-      "id": "99c4488a6df58326af4ccbb98348a6f059d36998",
-      "title": "HariniSelvam-cse/AI-Healthcare-Prediction-Dashboard",
-      "content": "使用Streamlit的人工智能医疗保健仪表板，将药物推荐和基于症状的疾病预测与多模型机器学习比较和交互式可视化集成在一起。",
-      "summary": "使用Streamlit的人工智能医疗保健仪表板，将药物推荐和基于症状的疾病预测与多模型机器学习比较和交互式可视化集成在一起。",
+      "id": "cf25e535f8727944d7c210c71cf81a94b632cb57",
+      "title": "seanhan19911990-source/LTX2EasyPrompt-LD",
+      "content": "ComfyUI自定义节点，可将简单的英语描述转换为完全结构化的LTX-2视频生成影院就绪提示—由本地未经审查的LLM提供支持，安装后无需互联网依赖。",
+      "summary": "ComfyUI自定义节点，可将简单的英语描述转换为完全结构化的LTX-2视频生成影院就绪提示—由本地未经审查的LLM提供支持，安装后无需互联网依赖。",
       "source": "github",
-      "source_url": "https://github.com/HariniSelvam-cse/AI-Healthcare-Prediction-Dashboard",
+      "source_url": "https://github.com/seanhan19911990-source/LTX2EasyPrompt-LD",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-16T14:10:18.000Z",
-      "collected_at": "2026-02-17T03:44:09.879Z",
-      "thumbnail": "/thumbs/99c4488a6df58326af4ccbb98348a6f059d36998.png"
+      "published_at": "2026-02-17T14:00:16.000Z",
+      "collected_at": "2026-02-18T03:46:41.505Z",
+      "thumbnail": "/thumbs/cf25e535f8727944d7c210c71cf81a94b632cb57.png"
     }
   ]
 }
