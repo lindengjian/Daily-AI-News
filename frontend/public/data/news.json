@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-02-22T03:43:33.109Z",
+  "generated_at": "2026-02-23T03:47:43.868Z",
   "items": [
     {
-      "id": "9977edd0226d00d347640ca46e72c0e67ccdc154",
-      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
-      "content": "",
-      "summary": "",
+      "id": "8ee6c9f12c74f1e256e33e06c163c1c071e5a6f6",
+      "title": "ochyai/vibe-local",
+      "content": "免费AI编码环境： Apple Silicon Mac上的Ollama + Python",
+      "summary": "免费AI编码环境： Apple Silicon Mac上的Ollama + Python",
       "source": "github",
-      "source_url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "source_url": "https://github.com/ochyai/vibe-local",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-21T12:51:03.000Z",
-      "collected_at": "2026-02-22T03:43:30.117Z",
-      "thumbnail": "/thumbs/9977edd0226d00d347640ca46e72c0e67ccdc154.png"
+      "published_at": "2026-02-22T04:33:03.000Z",
+      "collected_at": "2026-02-23T03:47:39.663Z",
+      "thumbnail": "/thumbs/8ee6c9f12c74f1e256e33e06c163c1c071e5a6f6.jpg"
     },
     {
-      "id": "8e78fc51f3ec8b8908ffd7a9e251bc29d5cc6791",
-      "title": "mfranzon/tdd",
-      "content": "编码代理的TDD技能",
-      "summary": "编码代理的TDD技能",
+      "id": "6e5552eb90cafe152d5bcb6faf468568a667bec1",
+      "title": "almonk/bontree",
+      "content": "与您最喜爱的代理配对的文件资源管理器",
+      "summary": "与您最喜爱的代理配对的文件资源管理器",
       "source": "github",
-      "source_url": "https://github.com/mfranzon/tdd",
+      "source_url": "https://github.com/almonk/bontree",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-21T14:29:29.000Z",
-      "collected_at": "2026-02-22T03:43:31.236Z",
-      "thumbnail": "/thumbs/8e78fc51f3ec8b8908ffd7a9e251bc29d5cc6791.jpg"
+      "published_at": "2026-02-22T02:56:49.000Z",
+      "collected_at": "2026-02-23T03:47:41.002Z",
+      "thumbnail": "/thumbs/6e5552eb90cafe152d5bcb6faf468568a667bec1.jpg"
     },
     {
-      "id": "0a9e8411cc078854aa788a071adbd9752fc7f8a8",
-      "title": "binhanchen25-arch/agent_plus",
-      "content": "",
-      "summary": "",
+      "id": "bb1d285a3ca5bbe5f31525c1273cd414c67e2594",
+      "title": "nclamvn/oneclaw",
+      "content": "用于边缘/物联网的人工智能代理内核—具有6个LLM提供商的5层Rust运行时",
+      "summary": "用于边缘/物联网的人工智能代理内核—具有6个LLM提供商的5层Rust运行时",
       "source": "github",
-      "source_url": "https://github.com/binhanchen25-arch/agent_plus",
+      "source_url": "https://github.com/nclamvn/oneclaw",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-21T06:44:14.000Z",
-      "collected_at": "2026-02-22T03:43:31.667Z",
-      "thumbnail": "/thumbs/0a9e8411cc078854aa788a071adbd9752fc7f8a8.png"
+      "published_at": "2026-02-22T11:30:33.000Z",
+      "collected_at": "2026-02-23T03:47:42.389Z",
+      "thumbnail": "/thumbs/bb1d285a3ca5bbe5f31525c1273cd414c67e2594.png"
     },
     {
-      "id": "e96c51ea62f367aaf1fe0d0e501b2e80a7ba128c",
-      "title": "harshkedia177/axon",
-      "content": "图形驱动的代码智能引擎—将代码库编入知识图表，通过AI代理的MCP工具和开发人员的CLI公开。",
-      "summary": "图形驱动的代码智能引擎—将代码库编入知识图表，通过AI代理的MCP工具和开发人员的CLI公开。",
+      "id": "b86c1a865afda8bb5577a15a08677d15736a1319",
+      "title": "brwse/earl",
+      "content": "适用于AI代理的AI安全CLI",
+      "summary": "适用于AI代理的AI安全CLI",
       "source": "github",
-      "source_url": "https://github.com/harshkedia177/axon",
+      "source_url": "https://github.com/brwse/earl",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-02-21T07:41:02.000Z",
-      "collected_at": "2026-02-22T03:43:33.109Z",
-      "thumbnail": "/thumbs/e96c51ea62f367aaf1fe0d0e501b2e80a7ba128c.jpg"
+      "published_at": "2026-02-22T09:30:12.000Z",
+      "collected_at": "2026-02-23T03:47:43.868Z",
+      "thumbnail": "/thumbs/b86c1a865afda8bb5577a15a08677d15736a1319.png"
     }
   ]
 }
