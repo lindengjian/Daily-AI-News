@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T03:24:28.886Z",
+  "generated_at": "2026-03-08T03:37:47.785Z",
   "items": [
     {
       "id": "1932f2b2bfd6b802ab915e835fe26968e33d5a2a",
@@ -11,7 +11,7 @@
       "embed_url": "//player.bilibili.com/player.html?bvid=BV1pWPxzqEqe&page=1",
       "media_type": "video",
       "published_at": "2026-03-06T16:24:35.000Z",
-      "collected_at": "2026-03-07T03:24:14.057Z",
+      "collected_at": "2026-03-08T03:37:38.740Z",
       "thumbnail": "/thumbs/1932f2b2bfd6b802ab915e835fe26968e33d5a2a.png"
     },
     {
@@ -24,7 +24,7 @@
       "embed_url": "//player.bilibili.com/player.html?bvid=&page=1",
       "media_type": "video",
       "published_at": "1970-01-01T00:00:00.000Z",
-      "collected_at": "2026-03-07T03:24:15.850Z",
+      "collected_at": "2026-03-08T03:37:41.345Z",
       "thumbnail": "/thumbs/52955f47c9afda8c7f24132214e5147a59c887b9.jpg"
     },
     {
@@ -37,99 +37,99 @@
       "embed_url": "//player.bilibili.com/player.html?bvid=BV1nkPpzoE7K&page=1",
       "media_type": "video",
       "published_at": "2026-03-06T04:26:02.000Z",
-      "collected_at": "2026-03-07T03:24:17.895Z",
+      "collected_at": "2026-03-08T03:37:41.812Z",
       "thumbnail": "/thumbs/da18a8bf9339fbcdbfb1f2f4c1612b706ecf644d.jpg"
     },
     {
-      "id": "514a7e9cd633c9759effd8f91d08ea1317f49729",
-      "title": "GPT-5.4发布：OpenAI最全模型，龙虾天选模型",
+      "id": "b10398f86e9b63d541155f3f4019b6f2ac37ec8f",
+      "title": "一个视频教你弄清楚市面上所有的大模型（gpt，gemini，deepseek，qwen，kimi...）",
+      "content": "今天想通过这个视频教你弄清楚市面上所有的大模型（gpt，gemini，deepseek，qwen，kimi...），这也是完全从零开始实现大模型架构的第一步！",
+      "summary": "今天想通过这个视频教你弄清楚市面上所有的大模型（gpt，gemini，deepseek，qwen，kimi...），这也是完全从零开始实现大模型架构的第一步！",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1qr6iBaEaQ",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1qr6iBaEaQ&page=1",
+      "media_type": "video",
+      "published_at": "2026-01-30T13:39:02.000Z",
+      "collected_at": "2026-03-08T03:37:42.171Z",
+      "thumbnail": "/thumbs/b10398f86e9b63d541155f3f4019b6f2ac37ec8f.jpg"
+    },
+    {
+      "id": "f2d28be8d1166f391aab85bb41aba5dc521b69ac",
+      "title": "[中配]八种 AI 编码模型排名（GPT-5.3 Codex 对比 Opus 4.6、Kimi K2.5、Qwen 3.5 等） - Snapper AI",
+      "content": "原标题：8 AI Coding Models Ranked (GPT-5.3 Codex vs Opus 4.6 vs Kimi K2.5 vs Qwen 3.5 &amp; More)\n作者：Snapper AI\n原链接：https://www.youtube.com/watch?v=bjJCAYqL7yg\n上传日期：2026-03-01\n\n简介：本视频来自 Snapper AI，在真实世界的编码任务中基准测试八种流行的 AI 编码模型，以确定哪些真正能帮助工程工作。基准测试聚焦三个任务——修复错误、重构和迁移",
+      "summary": "原标题：8 AI Coding Models Ranked (GPT-5.3 Codex vs Opus 4.6 vs Kimi K2.5 vs Qwen 3.5 &amp; More)\n作者：Snapper AI\n原链接：https://www.youtube.com/watch?v=bjJCAYqL7yg\n上传日期：2026-03-01\n\n简介：本视频来自 Snapper AI，在真实世界的编码任务中基准测试八种流行的 AI 编码模型，以确定哪些真正能帮助工程工作。基准测试聚焦三个任务——修复错误、重构和迁移",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1L4PgzJEBo",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1L4PgzJEBo&page=1",
+      "media_type": "video",
+      "published_at": "2026-03-01T22:03:44.000Z",
+      "collected_at": "2026-03-08T03:37:42.530Z",
+      "thumbnail": "/thumbs/f2d28be8d1166f391aab85bb41aba5dc521b69ac.jpg"
+    },
+    {
+      "id": "1073e4d980f1dc3a08e36fff67cb8638af089bca",
+      "title": "豆包大模型2.0发布：专家模式上线【AI情报局】",
+      "content": "我是Davinci，在这里，穿透表象，重构你的认知操作系统。\n\n指挥中枢：﻿@达芬奇矩阵 \n\n🌐 旗下舰队 ： \n\n🧠 @达芬奇架构师 ：拆解底层逻辑与思维模型。 \n\n🛠️ @达芬奇制造局 ：用第一性原理升级生产力。 \n\n⚔️ @达芬奇角斗士 ：肉体是灵魂的殿堂，也是战斗的武器。 \n\n🔭 @达芬奇瞭望塔 ：站在已知与未知的边界，观测未来。 \n\n🚁特种部队： \n\n📊 @达芬奇财富 ：用数据穿透迷雾，做理性的长期主义者。 \n\n🚀 @达芬奇动力 ：致敬从内燃机到星舰的人类机械史诗。",
+      "summary": "我是Davinci，在这里，穿透表象，重构你的认知操作系统。\n\n指挥中枢：﻿@达芬奇矩阵 \n\n🌐 旗下舰队 ： \n\n🧠 @达芬奇架构师 ：拆解底层逻辑与思维模型。 \n\n🛠️ @达芬奇制造局 ：用第一性原理升级生产力。 \n\n⚔️ @达芬奇角斗士 ：肉体是灵魂的殿堂，也是战斗的武器。 \n\n🔭 @达芬奇瞭望塔 ：站在已知与未知的边界，观测未来。 \n\n🚁特种部队： \n\n📊 @达芬奇财富 ：用数据穿透迷雾，做理性的长期主义者。 \n\n🚀 @达芬奇动力 ：致敬从内燃机到星舰的人类机械史诗。",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1uuZXBgEp8",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1uuZXBgEp8&page=1",
+      "media_type": "video",
+      "published_at": "2026-02-18T13:06:34.000Z",
+      "collected_at": "2026-03-08T03:37:43.391Z",
+      "thumbnail": "/thumbs/1073e4d980f1dc3a08e36fff67cb8638af089bca.jpg"
+    },
+    {
+      "id": "951d050798c5c62b6ee9f959ff6787d92c4c0784",
+      "title": "helenigtxu/blooket",
       "content": "",
-      "summary": "GPT-5.4发布：OpenAI最全模型，龙虾天选模型",
-      "source": "bilibili",
-      "source_url": "https://www.bilibili.com/video/BV1GRPpzUE9a",
-      "embed_url": "//player.bilibili.com/player.html?bvid=BV1GRPpzUE9a&page=1",
-      "media_type": "video",
-      "published_at": "2026-03-06T05:00:52.000Z",
-      "collected_at": "2026-03-07T03:24:19.050Z",
-      "thumbnail": "/thumbs/514a7e9cd633c9759effd8f91d08ea1317f49729.jpg"
+      "summary": "",
+      "source": "github",
+      "source_url": "https://github.com/helenigtxu/blooket",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-03-07T04:11:09.000Z",
+      "collected_at": "2026-03-08T03:37:44.856Z",
+      "thumbnail": "/thumbs/951d050798c5c62b6ee9f959ff6787d92c4c0784.png"
     },
     {
-      "id": "f3fc3b47ecf56e9d41347be7c4ab4ac530267199",
-      "title": "一句话、一个人就能拍电影！新一代AI视频生成模型 一键造出了什么“现实”？",
+      "id": "da88e668855d29726228d7354da5514e8cae1428",
+      "title": "deborahikssv/反重力爪",
       "content": "",
-      "summary": "一句话、一个人就能拍电影！新一代AI视频生成模型 一键造出了什么“现实”？",
-      "source": "bilibili",
-      "source_url": "https://www.bilibili.com/video/BV1pUZHBGEMQ",
-      "embed_url": "//player.bilibili.com/player.html?bvid=BV1pUZHBGEMQ&page=1",
-      "media_type": "video",
-      "published_at": "2026-02-15T01:47:27.000Z",
-      "collected_at": "2026-03-07T03:24:19.472Z",
-      "thumbnail": "/thumbs/f3fc3b47ecf56e9d41347be7c4ab4ac530267199.jpg"
-    },
-    {
-      "id": "eced922bc94ccc6dc2821e14f4f7db3fd7f781af",
-      "title": "AI 大模型周报 2026年3月 b（附链接）",
-      "content": "[GPT-5.4] https://openai.com/index/introducing-gpt-5-4\n[Gemini 3.1 Flash-Lite] https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite\n[GPT-5.3 Instant] https://openai.com/index/gpt-5-3-instant\n[Qwen 3.5小模型] https://h",
-      "summary": "[GPT-5.4] https://openai.com/index/introducing-gpt-5-4\n[Gemini 3.1 Flash-Lite] https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite\n[GPT-5.3 Instant] https://openai.com/index/gpt-5-3-instant\n[Qwen 3.5小模型] https://h",
-      "source": "bilibili",
-      "source_url": "https://www.bilibili.com/video/BV19BPWzJEyj",
-      "embed_url": "//player.bilibili.com/player.html?bvid=BV19BPWzJEyj&page=1",
-      "media_type": "video",
-      "published_at": "2026-03-06T10:57:58.000Z",
-      "collected_at": "2026-03-07T03:24:20.108Z",
-      "thumbnail": "/thumbs/eced922bc94ccc6dc2821e14f4f7db3fd7f781af.jpg"
-    },
-    {
-      "id": "be7f10499d08a16f4f4832e2078e23e6c3f03e45",
-      "title": "cyxzdev/Uncodixfy",
-      "content": "holly unodexify指令-让GPT创建unodexified UI",
-      "summary": "holly unodexify指令-让GPT创建unodexified UI",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/cyxzdev/Uncodixfy",
+      "source_url": "https://github.com/deborahikssv/Antigravity-claw",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-06T02:24:36.000Z",
-      "collected_at": "2026-03-07T03:24:25.843Z",
-      "thumbnail": "/thumbs/be7f10499d08a16f4f4832e2078e23e6c3f03e45.png"
+      "published_at": "2026-03-07T15:45:06.000Z",
+      "collected_at": "2026-03-08T03:37:45.148Z",
+      "thumbnail": "/thumbs/da88e668855d29726228d7354da5514e8cae1428.png"
     },
     {
-      "id": "f9b055a1ff23711d177fba174a6b285cfe45fcac",
-      "title": "karpathy/autresearch",
-      "content": "AI智能体自动运行单GPU纳米聊天训练研究",
-      "summary": "AI智能体自动运行单GPU纳米聊天训练研究",
+      "id": "c0a1b78aac11160a51d8718b27af67e2cb64de1d",
+      "title": "f/agentlytics",
+      "content": "AI编码代理的综合分析仪表板— Cursor、Windsurf、Claude Code、VS Code Copilot、ZED、Antigravity、OpenCode、Command Code",
+      "summary": "AI编码代理的综合分析仪表板— Cursor、Windsurf、Claude Code、VS Code Copilot、ZED、Antigravity、OpenCode、Command Code",
       "source": "github",
-      "source_url": "https://github.com/karpathy/autoresearch",
+      "source_url": "https://github.com/f/agentlytics",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-06T22:00:43.000Z",
-      "collected_at": "2026-03-07T03:24:26.949Z",
-      "thumbnail": "/thumbs/f9b055a1ff23711d177fba174a6b285cfe45fcac.jpg"
+      "published_at": "2026-03-07T01:39:41.000Z",
+      "collected_at": "2026-03-08T03:37:46.463Z",
+      "thumbnail": "/thumbs/c0a1b78aac11160a51d8718b27af67e2cb64de1d.jpg"
     },
     {
-      "id": "1582b64ed5d7fb341a51770077deb970e02f8b71",
-      "title": "QJHWC/PaperForge",
-      "content": "端到端AI驱动的学术论文写作系统—从创意生成和文献搜索到实验执行、结果回填和LaTeX论文汇编。支持多LLM路由、SSH远程训练、增量同步和反AI检测写作风格。",
-      "summary": "端到端AI驱动的学术论文写作系统—从创意生成和文献搜索到实验执行、结果回填和LaTeX论文汇编。支持多LLM路由、SSH远程训练、增量同步和反AI检测写作风格。",
+      "id": "c85dd3de9147da98c655e190e7397fdf39ac4916",
+      "title": "AlameerAshraf/tokentoll",
+      "content": "🐾 TokenToll ：是LLM API和SaaS产品的自托管计费基础设施。适用于Node.js和Python的Drop-in SDK、YAML定义的定价计划、Stripe适配器和实时使用仪表板| Lago和Orb的开源替代品。",
+      "summary": "🐾 TokenToll ：是LLM API和SaaS产品的自托管计费基础设施。适用于Node.js和Python的Drop-in SDK、YAML定义的定价计划、Stripe适配器和实时使用仪表板| Lago和Orb的开源替代品。",
       "source": "github",
-      "source_url": "https://github.com/QJHWC/PaperForge",
+      "source_url": "https://github.com/AlameerAshraf/tokentoll",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-06T05:39:38.000Z",
-      "collected_at": "2026-03-07T03:24:28.186Z",
-      "thumbnail": "/thumbs/1582b64ed5d7fb341a51770077deb970e02f8b71.jpg"
-    },
-    {
-      "id": "f07caa07b3cc17259ab5c873be5f094beb97990f",
-      "title": "0xiehnnkta/nemesis-auditor",
-      "content": "The Inescapable Auditor -- Claude Code的迭代深度逻辑安全审计代理",
-      "summary": "The Inescapable Auditor -- Claude Code的迭代深度逻辑安全审计代理",
-      "source": "github",
-      "source_url": "https://github.com/0xiehnnkta/nemesis-auditor",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-03-06T17:33:49.000Z",
-      "collected_at": "2026-03-07T03:24:28.886Z",
-      "thumbnail": "/thumbs/f07caa07b3cc17259ab5c873be5f094beb97990f.jpg"
+      "published_at": "2026-03-07T00:28:06.000Z",
+      "collected_at": "2026-03-08T03:37:47.785Z",
+      "thumbnail": "/thumbs/c85dd3de9147da98c655e190e7397fdf39ac4916.jpg"
     }
   ]
 }
