@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-03-10T03:33:23.607Z",
+  "generated_at": "2026-03-11T03:33:37.975Z",
   "items": [
     {
-      "id": "450bc92e5637d391e0ab416020db43fe8b4b2103",
-      "title": "karpathy/agenthub",
-      "content": "GitHub适用于人类。AgentHub适用于客服代表。第一个用例是自动搜索，但它比这更通用。探索性项目。",
-      "summary": "GitHub适用于人类。AgentHub适用于客服代表。第一个用例是自动搜索，但它比这更通用。探索性项目。",
+      "id": "c175af7ae07ed929498f37c06dcac2f588e04b9f",
+      "title": "photon-hq/qclaw-wechat-client",
+      "content": "为QClaw的微信访问API反向工程TypeScript客户端。",
+      "summary": "为QClaw的微信访问API反向工程TypeScript客户端。",
       "source": "github",
-      "source_url": "https://github.com/karpathy/agenthub",
+      "source_url": "https://github.com/photon-hq/qclaw-wechat-client",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-09T19:21:58.000Z",
-      "collected_at": "2026-03-10T03:33:20.798Z",
-      "thumbnail": "/thumbs/450bc92e5637d391e0ab416020db43fe8b4b2103.jpg"
+      "published_at": "2026-03-10T05:12:12.000Z",
+      "collected_at": "2026-03-11T03:33:36.108Z",
+      "thumbnail": "/thumbs/c175af7ae07ed929498f37c06dcac2f588e04b9f.png"
     },
     {
-      "id": "cc219377f69f9b3e6f30d35ad563cf9bc74a875a",
-      "title": "marilyn4120shaz3/KiteAI",
-      "content": "用于Kite AI去中心化支付网络的自动化多账户农场工具，包括水龙头索赔、代币质押、DEX交换、每日测验完成、跨链桥接、代理轮换和可配置的任务调度",
-      "summary": "用于Kite AI去中心化支付网络的自动化多账户农场工具，包括水龙头索赔、代币质押、DEX交换、每日测验完成、跨链桥接、代理轮换和可配置的任务调度",
+      "id": "f4d3ccbfbc99e8dad349b0acedac043e6e18e0e4",
+      "title": "antfu-collective/ua-parser-modern",
+      "content": "用于从用户代理数据中检测浏览器和操作系统信息的JavaScript库，在ESM和TS中重写",
+      "summary": "用于从用户代理数据中检测浏览器和操作系统信息的JavaScript库，在ESM和TS中重写",
       "source": "github",
-      "source_url": "https://github.com/marilyn4120shaz3/KiteAI",
+      "source_url": "https://github.com/antfu-collective/ua-parser-modern",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-09T13:16:23.000Z",
-      "collected_at": "2026-03-10T03:33:22.160Z",
-      "thumbnail": "/thumbs/cc219377f69f9b3e6f30d35ad563cf9bc74a875a.jpg"
+      "published_at": "2026-03-10T05:59:48.000Z",
+      "collected_at": "2026-03-11T03:33:36.845Z",
+      "thumbnail": "/thumbs/f4d3ccbfbc99e8dad349b0acedac043e6e18e0e4.png"
     },
     {
-      "id": "ac74825284d743c87e52e97e28bde8712640853f",
-      "title": "get-Lucid/Lucid",
-      "content": "一个智能层，在经过验证的大规模实时知识中接地自主代理。",
-      "summary": "一个智能层，在经过验证的大规模实时知识中接地自主代理。",
+      "id": "9e9e810203b4b357d3f4d718a7dc1504ccc1bb3d",
+      "title": "shuyicc/MathLens",
+      "content": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。",
+      "summary": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。",
       "source": "github",
-      "source_url": "https://github.com/get-Lucid/Lucid",
+      "source_url": "https://github.com/shuyicc/MathLens",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-09T09:48:34.000Z",
-      "collected_at": "2026-03-10T03:33:22.845Z",
-      "thumbnail": "/thumbs/ac74825284d743c87e52e97e28bde8712640853f.jpg"
+      "published_at": "2026-03-10T03:24:05.000Z",
+      "collected_at": "2026-03-11T03:33:37.620Z",
+      "thumbnail": "/thumbs/9e9e810203b4b357d3f4d718a7dc1504ccc1bb3d.png"
     },
     {
-      "id": "286ae2ca7abccab20c489b7d31341dba1e1c74cb",
-      "title": "NousResearch/hermes-agent-self-evolution",
-      "content": "HERMES Agent⚒的进化自我提升—使用DSPy + GEPA优化技能、提示和代码",
-      "summary": "HERMES Agent⚒的进化自我提升—使用DSPy + GEPA优化技能、提示和代码",
+      "id": "e481a251d38bcf05aa8df9e4c87edd35a23f8991",
+      "title": "destinyfrancis/openclaw-knowledge-distiller",
+      "content": "Open CLAW Knowledge Distiller · 龍蝦知識蒸餾器 — Turn YouTube/Bilibili videos into structured knowledge articles. Local Qwen3-ASR MLX + AI summarization. MCP server for Claude Code / Open CLAW agents.",
+      "summary": "Open CLAW Knowledge Distiller · 龍蝦知識蒸餾器 — Turn YouTube/Bilibili videos into structured knowledge articles. Local Qwen3-ASR MLX + AI summarization. MCP server for Claude Code / Open CLAW agents.",
       "source": "github",
-      "source_url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+      "source_url": "https://github.com/destinyfrancis/openclaw-knowledge-distiller",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-09T10:42:48.000Z",
-      "collected_at": "2026-03-10T03:33:23.607Z",
-      "thumbnail": "/thumbs/286ae2ca7abccab20c489b7d31341dba1e1c74cb.png"
+      "published_at": "2026-03-10T01:28:55.000Z",
+      "collected_at": "2026-03-11T03:33:37.975Z",
+      "thumbnail": "/thumbs/e481a251d38bcf05aa8df9e4c87edd35a23f8991.jpg"
     }
   ]
 }
