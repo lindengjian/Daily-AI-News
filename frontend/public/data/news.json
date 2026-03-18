@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T03:42:09.806Z",
+  "generated_at": "2026-03-18T03:48:43.044Z",
   "items": [
     {
       "id": "51447210dd10524e7cab11f744b6bf27e1ddca0b",
@@ -11,7 +11,7 @@
       "embed_url": "//player.bilibili.com/player.html?bvid=BV1kTwUzfE31&page=1",
       "media_type": "video",
       "published_at": "2026-03-16T19:17:57.000Z",
-      "collected_at": "2026-03-17T03:42:03.327Z",
+      "collected_at": "2026-03-18T03:48:35.981Z",
       "thumbnail": "/thumbs/51447210dd10524e7cab11f744b6bf27e1ddca0b.png"
     },
     {
@@ -24,7 +24,7 @@
       "embed_url": "//player.bilibili.com/player.html?bvid=&page=1",
       "media_type": "video",
       "published_at": "1970-01-01T00:00:00.000Z",
-      "collected_at": "2026-03-17T03:42:04.216Z",
+      "collected_at": "2026-03-18T03:48:36.711Z",
       "thumbnail": "/thumbs/52955f47c9afda8c7f24132214e5147a59c887b9.jpg"
     },
     {
@@ -37,8 +37,21 @@
       "embed_url": "//player.bilibili.com/player.html?bvid=BV13EwJzfEbx&page=1",
       "media_type": "video",
       "published_at": "2026-03-13T13:54:13.000Z",
-      "collected_at": "2026-03-17T03:42:04.974Z",
+      "collected_at": "2026-03-18T03:48:37.441Z",
       "thumbnail": "/thumbs/403dc979878073e6c0ed5779de3a72663d92d34d.jpg"
+    },
+    {
+      "id": "0bc20910bb201583a1e59ece727f1d560dd8f2ad",
+      "title": "【315晚会】AI大模型遭“投毒”？ 给AI“洗脑”已成产业链",
+      "content": "https://www.yspapp.cn/5cMo（央视频号：央视财经）",
+      "summary": "https://www.yspapp.cn/5cMo（央视频号：央视财经）",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1HiwMzmEcN",
+      "embed_url": "//player.bilibili.com/player.html?bvid=BV1HiwMzmEcN&page=1",
+      "media_type": "video",
+      "published_at": "2026-03-15T13:37:21.000Z",
+      "collected_at": "2026-03-18T03:48:37.862Z",
+      "thumbnail": "/thumbs/0bc20910bb201583a1e59ece727f1d560dd8f2ad.jpg"
     },
     {
       "id": "1932f2b2bfd6b802ab915e835fe26968e33d5a2a",
@@ -50,73 +63,60 @@
       "embed_url": "//player.bilibili.com/player.html?bvid=BV1pWPxzqEqe&page=1",
       "media_type": "video",
       "published_at": "2026-03-06T16:24:35.000Z",
-      "collected_at": "2026-03-17T03:42:05.515Z",
+      "collected_at": "2026-03-18T03:48:38.543Z",
       "thumbnail": "/thumbs/1932f2b2bfd6b802ab915e835fe26968e33d5a2a.png"
     },
     {
-      "id": "90b5acf81d884ea3856203031c77090887ab3934",
-      "title": "谷歌开放香港Gemini网页应用，通义发布FunCineForge多模态大模型 | 3月17日AI日报第336期",
-      "content": "今日内容：\n1·谷歌将开放香港地区网页应用[00:03] \n2·阿里通义发布FunCineForge[00:25] \n3·智谱推出GLM 5 Turbo[01:10] \n4·Minimax-M2.7开启测试[01:44]",
-      "summary": "今日内容：\n1·谷歌将开放香港地区网页应用[00:03] \n2·阿里通义发布FunCineForge[00:25] \n3·智谱推出GLM 5 Turbo[01:10] \n4·Minimax-M2.7开启测试[01:44]",
-      "source": "bilibili",
-      "source_url": "https://www.bilibili.com/video/BV1G3w7zoEqL",
-      "embed_url": "//player.bilibili.com/player.html?bvid=BV1G3w7zoEqL&page=1",
-      "media_type": "video",
-      "published_at": "2026-03-16T13:35:00.000Z",
-      "collected_at": "2026-03-17T03:42:06.015Z",
-      "thumbnail": "/thumbs/90b5acf81d884ea3856203031c77090887ab3934.jpg"
-    },
-    {
-      "id": "710736d9c489ac7a03363fd7c3f7bd25aa8367aa",
-      "title": "RuizeLyu/paper-dl",
-      "content": "从PaSa搜索结果中下载arxiv PDF ，以进行本地AI驱动的文献分析。",
-      "summary": "从PaSa搜索结果中下载arxiv PDF ，以进行本地AI驱动的文献分析。",
+      "id": "8de3ffa6d576134c38ccb4e090015aa3a47b810c",
+      "title": "HKUDS/ClawTeam",
+      "content": "ClawTeam ： Agent Swarm Intelligence （一个命令→完全自动化）",
+      "summary": "ClawTeam ： Agent Swarm Intelligence （一个命令→完全自动化）",
       "source": "github",
-      "source_url": "https://github.com/RuizeLyu/paper-dl",
+      "source_url": "https://github.com/HKUDS/ClawTeam",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-16T06:10:36.000Z",
-      "collected_at": "2026-03-17T03:42:07.340Z",
-      "thumbnail": "/thumbs/710736d9c489ac7a03363fd7c3f7bd25aa8367aa.png"
+      "published_at": "2026-03-17T14:42:46.000Z",
+      "collected_at": "2026-03-18T03:48:40.326Z",
+      "thumbnail": "/thumbs/8de3ffa6d576134c38ccb4e090015aa3a47b810c.jpg"
     },
     {
-      "id": "d54809f30a3280619925ba646ebbd6a1d0160b50",
-      "title": "carious6923/blooket-pro-2026",
-      "content": "适用于Windows的Blooket Hack ：集成了Claude的人工智能游戏助手。独立应用程序，不同的游戏模式。立即主宰Blooket锦标赛。",
-      "summary": "适用于Windows的Blooket Hack ：集成了Claude的人工智能游戏助手。独立应用程序，不同的游戏模式。立即主宰Blooket锦标赛。",
+      "id": "c7a33a272b236f33b466f4757757bf9e582eac31",
+      "title": "湖北桥/苹果便当",
+      "content": "生成受Apple启发的便当网格演示卡的代理技能。适用于Claude Code、Codex和任何AI编码代理。",
+      "summary": "生成受Apple启发的便当网格演示卡的代理技能。适用于Claude Code、Codex和任何AI编码代理。",
       "source": "github",
-      "source_url": "https://github.com/carious6923/blooket-pro-2026",
+      "source_url": "https://github.com/hubeiqiao/apple-bento-grid",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-16T11:12:24.000Z",
-      "collected_at": "2026-03-17T03:42:08.048Z",
-      "thumbnail": "/thumbs/d54809f30a3280619925ba646ebbd6a1d0160b50.png"
+      "published_at": "2026-03-17T13:37:09.000Z",
+      "collected_at": "2026-03-18T03:48:41.277Z",
+      "thumbnail": "/thumbs/c7a33a272b236f33b466f4757757bf9e582eac31.jpg"
     },
     {
-      "id": "b3615e633366a111b6a77d00b5948db8662783a2",
-      "title": "grapeot/context-infrastructure",
-      "content": "参考实施：使LLM脱离共识的情境基础设施系统",
-      "summary": "参考实施：使LLM脱离共识的情境基础设施系统",
+      "id": "0870a3d480d746b16f0ee20e52502ec31c60d85a",
+      "title": "stevibe/local-llm-video-captioning",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/grapeot/context-infrastructure",
+      "source_url": "https://github.com/stevibe/local-llm-video-captioning",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-16T05:12:45.000Z",
-      "collected_at": "2026-03-17T03:42:08.848Z",
-      "thumbnail": "/thumbs/b3615e633366a111b6a77d00b5948db8662783a2.png"
+      "published_at": "2026-03-17T14:45:17.000Z",
+      "collected_at": "2026-03-18T03:48:41.716Z",
+      "thumbnail": "/thumbs/0870a3d480d746b16f0ee20e52502ec31c60d85a.png"
     },
     {
-      "id": "f5f7d36df15951aef9a86d9f171f55b508c321f0",
-      "title": "shawnpang/startup-founder-skills",
-      "content": "面向科技创业公司创始人的人工智能代理技能—筹款、销售、产品、招聘、工程、法律、运营和增长。适用于Claude Code、Cursor、Codex和任何代理技能兼容工具。",
-      "summary": "面向科技创业公司创始人的人工智能代理技能—筹款、销售、产品、招聘、工程、法律、运营和增长。适用于Claude Code、Cursor、Codex和任何代理技能兼容工具。",
+      "id": "92f8530668dddbf06f67e5c986425dcf82356b26",
+      "title": "skilgen/skilgen",
+      "content": "将代码库、需求文档或两者都转化为人工智能编码代理的生活技能系统。",
+      "summary": "将代码库、需求文档或两者都转化为人工智能编码代理的生活技能系统。",
       "source": "github",
-      "source_url": "https://github.com/shawnpang/startup-founder-skills",
+      "source_url": "https://github.com/skilgen/skilgen",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-16T03:50:30.000Z",
-      "collected_at": "2026-03-17T03:42:09.806Z",
-      "thumbnail": "/thumbs/f5f7d36df15951aef9a86d9f171f55b508c321f0.jpg"
+      "published_at": "2026-03-17T02:40:51.000Z",
+      "collected_at": "2026-03-18T03:48:43.044Z",
+      "thumbnail": "/thumbs/92f8530668dddbf06f67e5c986425dcf82356b26.png"
     }
   ]
 }
