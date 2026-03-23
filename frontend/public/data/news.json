@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-03-22T03:45:51.647Z",
+  "generated_at": "2026-03-23T03:50:58.832Z",
   "items": [
     {
-      "id": "3b97ee4ae35a5a9d712118b5b31f0d3c669b48a0",
-      "title": "增文亮416/ppt-agent",
+      "id": "10ca0af9b4ce1ad917af099e84f8fa157756ec49",
+      "title": "wong2/weixin-agent-sdk",
       "content": "",
       "summary": "",
       "source": "github",
-      "source_url": "https://github.com/zengwenliang416/ppt-agent",
+      "source_url": "https://github.com/wong2/weixin-agent-sdk",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-21T12:06:00.000Z",
-      "collected_at": "2026-03-22T03:45:48.893Z",
-      "thumbnail": "/thumbs/3b97ee4ae35a5a9d712118b5b31f0d3c669b48a0.jpg"
+      "published_at": "2026-03-22T03:57:01.000Z",
+      "collected_at": "2026-03-23T03:50:56.846Z",
+      "thumbnail": "/thumbs/10ca0af9b4ce1ad917af099e84f8fa157756ec49.jpg"
     },
     {
-      "id": "6135fd81c9df45cdcfcefcbd5dbbea5befcab3ce",
-      "title": "joeseesun/markdown-proxy",
-      "content": "通过代理服务(r.jina.ai/defuddle.md)或内置脚本获取任何URL作为干净的Markdown。适用于X/Twitter、WeCh等需要登录的页面",
-      "summary": "通过代理服务(r.jina.ai/defuddle.md)或内置脚本获取任何URL作为干净的Markdown。适用于X/Twitter、WeCh等需要登录的页面",
+      "id": "1e783c0d3044cef050e6ffbef945e87c5d44fbb5",
+      "title": "epiral/weixin-bot",
+      "content": "适用于Node.js和Python的微信iLink Bot SDK —零配置代理集成",
+      "summary": "适用于Node.js和Python的微信iLink Bot SDK —零配置代理集成",
       "source": "github",
-      "source_url": "https://github.com/joeseesun/markdown-proxy",
+      "source_url": "https://github.com/epiral/weixin-bot",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-21T17:30:54.000Z",
-      "collected_at": "2026-03-22T03:45:49.633Z",
-      "thumbnail": "/thumbs/6135fd81c9df45cdcfcefcbd5dbbea5befcab3ce.png"
+      "published_at": "2026-03-22T05:11:12.000Z",
+      "collected_at": "2026-03-23T03:50:57.443Z",
+      "thumbnail": "/thumbs/1e783c0d3044cef050e6ffbef945e87c5d44fbb5.png"
     },
     {
-      "id": "bd239e63261ea0b51740c25fdd24fef65be5eeab",
-      "title": "zhu1090093659/spec_driven_develop",
-      "content": "规范驱动开发的跨平台AI代理技能：分析代码库、分解大型转换并跟踪长期运行的工作。",
-      "summary": "规范驱动开发的跨平台AI代理技能：分析代码库、分解大型转换并跟踪长期运行的工作。",
+      "id": "c78c9d99f60c39939d5d2eacee15136e01be7b77",
+      "title": "meodai/skill.color-expert",
+      "content": "色彩科学专业知识的代理技能。113篇参考文献涵盖色彩空间、可访问性（ APCA、WCAG ）、调色板生成、颜料混合和历史色彩理论。适用于Claude Code、Codex、Cursor、Copilot等。",
+      "summary": "色彩科学专业知识的代理技能。113篇参考文献涵盖色彩空间、可访问性（ APCA、WCAG ）、调色板生成、颜料混合和历史色彩理论。适用于Claude Code、Codex、Cursor、Copilot等。",
       "source": "github",
-      "source_url": "https://github.com/zhu1090093659/spec_driven_develop",
+      "source_url": "https://github.com/meodai/skill.color-expert",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-21T09:37:20.000Z",
-      "collected_at": "2026-03-22T03:45:50.380Z",
-      "thumbnail": "/thumbs/bd239e63261ea0b51740c25fdd24fef65be5eeab.png"
+      "published_at": "2026-03-22T17:09:18.000Z",
+      "collected_at": "2026-03-23T03:50:58.166Z",
+      "thumbnail": "/thumbs/c78c9d99f60c39939d5d2eacee15136e01be7b77.png"
     },
     {
-      "id": "26c213d8d91a339587cc0d97304df429893e5d33",
-      "title": "artemiimillier/防弹",
-      "content": "将人工智能代理从混乱的代码生成器转变为纪律严明的工程师。从研究到生产的12阶段工作流程。",
-      "summary": "将人工智能代理从混乱的代码生成器转变为纪律严明的工程师。从研究到生产的12阶段工作流程。",
+      "id": "614c41641e8bb45cd3ec7d4deeb9d1e99182a95a",
+      "title": "fastclaw-ai/weclaw",
+      "content": "使用微信ClawBot连接到任何代理。",
+      "summary": "使用微信ClawBot连接到任何代理。",
       "source": "github",
-      "source_url": "https://github.com/artemiimillier/bulletproof",
+      "source_url": "https://github.com/fastclaw-ai/weclaw",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-21T11:42:49.000Z",
-      "collected_at": "2026-03-22T03:45:51.647Z",
-      "thumbnail": "/thumbs/26c213d8d91a339587cc0d97304df429893e5d33.jpg"
+      "published_at": "2026-03-22T14:52:35.000Z",
+      "collected_at": "2026-03-23T03:50:58.832Z",
+      "thumbnail": "/thumbs/614c41641e8bb45cd3ec7d4deeb9d1e99182a95a.png"
     }
   ]
 }
