@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-03-23T03:50:58.832Z",
+  "generated_at": "2026-03-24T03:42:20.155Z",
   "items": [
     {
-      "id": "10ca0af9b4ce1ad917af099e84f8fa157756ec49",
-      "title": "wong2/weixin-agent-sdk",
-      "content": "",
-      "summary": "",
+      "id": "508db4b1fd0eb261d9751d8045ce00371d2d91c9",
+      "title": "oguzbilgic/agent-kernel",
+      "content": "使任何AI编码代理处于状态的最小内核。克隆人，指向你的特工，走。",
+      "summary": "使任何AI编码代理处于状态的最小内核。克隆人，指向你的特工，走。",
       "source": "github",
-      "source_url": "https://github.com/wong2/weixin-agent-sdk",
+      "source_url": "https://github.com/oguzbilgic/agent-kernel",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-22T03:57:01.000Z",
-      "collected_at": "2026-03-23T03:50:56.846Z",
-      "thumbnail": "/thumbs/10ca0af9b4ce1ad917af099e84f8fa157756ec49.jpg"
+      "published_at": "2026-03-23T06:57:50.000Z",
+      "collected_at": "2026-03-24T03:42:17.967Z",
+      "thumbnail": "/thumbs/508db4b1fd0eb261d9751d8045ce00371d2d91c9.png"
     },
     {
-      "id": "1e783c0d3044cef050e6ffbef945e87c5d44fbb5",
-      "title": "epiral/weixin-bot",
-      "content": "适用于Node.js和Python的微信iLink Bot SDK —零配置代理集成",
-      "summary": "适用于Node.js和Python的微信iLink Bot SDK —零配置代理集成",
+      "id": "3539aa10364370c6ae44d06cd0a9a3a92dea9b4e",
+      "title": "0xNyk/awesome-hermes-agent",
+      "content": "Nous Research为Hermes Agent精心策划的精湛技能、工具、集成和资源列表",
+      "summary": "Nous Research为Hermes Agent精心策划的精湛技能、工具、集成和资源列表",
       "source": "github",
-      "source_url": "https://github.com/epiral/weixin-bot",
+      "source_url": "https://github.com/0xNyk/awesome-hermes-agent",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-22T05:11:12.000Z",
-      "collected_at": "2026-03-23T03:50:57.443Z",
-      "thumbnail": "/thumbs/1e783c0d3044cef050e6ffbef945e87c5d44fbb5.png"
+      "published_at": "2026-03-23T05:34:37.000Z",
+      "collected_at": "2026-03-24T03:42:18.715Z",
+      "thumbnail": "/thumbs/3539aa10364370c6ae44d06cd0a9a3a92dea9b4e.png"
     },
     {
-      "id": "c78c9d99f60c39939d5d2eacee15136e01be7b77",
-      "title": "meodai/skill.color-expert",
-      "content": "色彩科学专业知识的代理技能。113篇参考文献涵盖色彩空间、可访问性（ APCA、WCAG ）、调色板生成、颜料混合和历史色彩理论。适用于Claude Code、Codex、Cursor、Copilot等。",
-      "summary": "色彩科学专业知识的代理技能。113篇参考文献涵盖色彩空间、可访问性（ APCA、WCAG ）、调色板生成、颜料混合和历史色彩理论。适用于Claude Code、Codex、Cursor、Copilot等。",
+      "id": "8cd9fa20346d2511195ddc069b9cf5df08a67da2",
+      "title": "formulahendry/wechat-acp",
+      "content": "将微信聊天消息桥接到任何兼容ACP的AI代理",
+      "summary": "将微信聊天消息桥接到任何兼容ACP的AI代理",
       "source": "github",
-      "source_url": "https://github.com/meodai/skill.color-expert",
+      "source_url": "https://github.com/formulahendry/wechat-acp",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-22T17:09:18.000Z",
-      "collected_at": "2026-03-23T03:50:58.166Z",
-      "thumbnail": "/thumbs/c78c9d99f60c39939d5d2eacee15136e01be7b77.png"
+      "published_at": "2026-03-23T14:21:00.000Z",
+      "collected_at": "2026-03-24T03:42:19.413Z",
+      "thumbnail": "/thumbs/8cd9fa20346d2511195ddc069b9cf5df08a67da2.jpg"
     },
     {
-      "id": "614c41641e8bb45cd3ec7d4deeb9d1e99182a95a",
-      "title": "fastclaw-ai/weclaw",
-      "content": "使用微信ClawBot连接到任何代理。",
-      "summary": "使用微信ClawBot连接到任何代理。",
+      "id": "9e9a8dccae3109ba7f45a69c042602fe7df756af",
+      "title": "cisco-ai-defense/defenseclaw",
+      "content": "Agentic AI的安全治理",
+      "summary": "Agentic AI的安全治理",
       "source": "github",
-      "source_url": "https://github.com/fastclaw-ai/weclaw",
+      "source_url": "https://github.com/cisco-ai-defense/defenseclaw",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-22T14:52:35.000Z",
-      "collected_at": "2026-03-23T03:50:58.832Z",
-      "thumbnail": "/thumbs/614c41641e8bb45cd3ec7d4deeb9d1e99182a95a.png"
+      "published_at": "2026-03-23T00:51:19.000Z",
+      "collected_at": "2026-03-24T03:42:20.155Z",
+      "thumbnail": "/thumbs/9e9a8dccae3109ba7f45a69c042602fe7df756af.png"
     }
   ]
 }
