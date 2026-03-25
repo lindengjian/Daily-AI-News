@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-03-24T03:42:20.155Z",
+  "generated_at": "2026-03-25T03:45:20.263Z",
   "items": [
     {
-      "id": "508db4b1fd0eb261d9751d8045ce00371d2d91c9",
-      "title": "oguzbilgic/agent-kernel",
-      "content": "使任何AI编码代理处于状态的最小内核。克隆人，指向你的特工，走。",
-      "summary": "使任何AI编码代理处于状态的最小内核。克隆人，指向你的特工，走。",
+      "id": "a68cbf9a8f7bf58deb14a65b6b47aa90be0ba6a2",
+      "title": "HKUDS/OpenSpace",
+      "content": "“OpenSpace ：打造智能体：更智能、低成本、自我进化” --社区： https://open-space.cloud/",
+      "summary": "“OpenSpace ：打造智能体：更智能、低成本、自我进化” --社区： https://open-space.cloud/",
       "source": "github",
-      "source_url": "https://github.com/oguzbilgic/agent-kernel",
+      "source_url": "https://github.com/HKUDS/OpenSpace",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-23T06:57:50.000Z",
-      "collected_at": "2026-03-24T03:42:17.967Z",
-      "thumbnail": "/thumbs/508db4b1fd0eb261d9751d8045ce00371d2d91c9.png"
+      "published_at": "2026-03-24T08:01:49.000Z",
+      "collected_at": "2026-03-25T03:45:17.139Z",
+      "thumbnail": "/thumbs/a68cbf9a8f7bf58deb14a65b6b47aa90be0ba6a2.jpg"
     },
     {
-      "id": "3539aa10364370c6ae44d06cd0a9a3a92dea9b4e",
-      "title": "0xNyk/awesome-hermes-agent",
-      "content": "Nous Research为Hermes Agent精心策划的精湛技能、工具、集成和资源列表",
-      "summary": "Nous Research为Hermes Agent精心策划的精湛技能、工具、集成和资源列表",
+      "id": "8556d8a980f8de7f28a42cf1c32b8df54db21687",
+      "title": "remorses/usecomputer",
+      "content": "AI代理的快速计算机自动化CLI。使用辅助功能快照、点击、键入、滚动等功能控制任何桌面。",
+      "summary": "AI代理的快速计算机自动化CLI。使用辅助功能快照、点击、键入、滚动等功能控制任何桌面。",
       "source": "github",
-      "source_url": "https://github.com/0xNyk/awesome-hermes-agent",
+      "source_url": "https://github.com/remorses/usecomputer",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-23T05:34:37.000Z",
-      "collected_at": "2026-03-24T03:42:18.715Z",
-      "thumbnail": "/thumbs/3539aa10364370c6ae44d06cd0a9a3a92dea9b4e.png"
+      "published_at": "2026-03-24T09:17:08.000Z",
+      "collected_at": "2026-03-25T03:45:18.429Z",
+      "thumbnail": "/thumbs/8556d8a980f8de7f28a42cf1c32b8df54db21687.jpg"
     },
     {
-      "id": "8cd9fa20346d2511195ddc069b9cf5df08a67da2",
-      "title": "formulahendry/wechat-acp",
-      "content": "将微信聊天消息桥接到任何兼容ACP的AI代理",
-      "summary": "将微信聊天消息桥接到任何兼容ACP的AI代理",
+      "id": "0222934cf4e3dae4bce1f8dcaea2b3afbcbdfdbe",
+      "title": "ServiceNow/eva",
+      "content": "评估语音座席的新端到端框架",
+      "summary": "评估语音座席的新端到端框架",
       "source": "github",
-      "source_url": "https://github.com/formulahendry/wechat-acp",
+      "source_url": "https://github.com/ServiceNow/eva",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-23T14:21:00.000Z",
-      "collected_at": "2026-03-24T03:42:19.413Z",
-      "thumbnail": "/thumbs/8cd9fa20346d2511195ddc069b9cf5df08a67da2.jpg"
+      "published_at": "2026-03-24T01:23:35.000Z",
+      "collected_at": "2026-03-25T03:45:19.876Z",
+      "thumbnail": "/thumbs/0222934cf4e3dae4bce1f8dcaea2b3afbcbdfdbe.png"
     },
     {
-      "id": "9e9a8dccae3109ba7f45a69c042602fe7df756af",
-      "title": "cisco-ai-defense/defenseclaw",
-      "content": "Agentic AI的安全治理",
-      "summary": "Agentic AI的安全治理",
+      "id": "e5c7d717751f2b4f4f7a623be385ede0a03260e4",
+      "title": "aronhy/geo-llms-toolkit",
+      "content": "自动化geo",
+      "summary": "自动化geo",
       "source": "github",
-      "source_url": "https://github.com/cisco-ai-defense/defenseclaw",
+      "source_url": "https://github.com/aronhy/geo-llms-toolkit",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-23T00:51:19.000Z",
-      "collected_at": "2026-03-24T03:42:20.155Z",
-      "thumbnail": "/thumbs/9e9a8dccae3109ba7f45a69c042602fe7df756af.png"
+      "published_at": "2026-03-24T04:37:13.000Z",
+      "collected_at": "2026-03-25T03:45:20.263Z",
+      "thumbnail": "/thumbs/e5c7d717751f2b4f4f7a623be385ede0a03260e4.png"
     }
   ]
 }
