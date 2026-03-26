@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-03-25T03:45:20.263Z",
+  "generated_at": "2026-03-26T04:04:21.468Z",
   "items": [
     {
-      "id": "a68cbf9a8f7bf58deb14a65b6b47aa90be0ba6a2",
-      "title": "HKUDS/OpenSpace",
-      "content": "“OpenSpace ：打造智能体：更智能、低成本、自我进化” --社区： https://open-space.cloud/",
-      "summary": "“OpenSpace ：打造智能体：更智能、低成本、自我进化” --社区： https://open-space.cloud/",
+      "id": "8c18b617c769ae9059622597f0415e8fefccfb0d",
+      "title": "runesleo/ai-health-vault",
+      "content": "用 AI + Obsidian 为自己和家人搭建私有化健康管理系统。模板 + Prompt + 搭建指南。",
+      "summary": "用 AI + Obsidian 为自己和家人搭建私有化健康管理系统。模板 + Prompt + 搭建指南。",
       "source": "github",
-      "source_url": "https://github.com/HKUDS/OpenSpace",
+      "source_url": "https://github.com/runesleo/ai-health-vault",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-24T08:01:49.000Z",
-      "collected_at": "2026-03-25T03:45:17.139Z",
-      "thumbnail": "/thumbs/a68cbf9a8f7bf58deb14a65b6b47aa90be0ba6a2.jpg"
+      "published_at": "2026-03-25T07:00:56.000Z",
+      "collected_at": "2026-03-26T04:04:19.234Z",
+      "thumbnail": "/thumbs/8c18b617c769ae9059622597f0415e8fefccfb0d.jpg"
     },
     {
-      "id": "8556d8a980f8de7f28a42cf1c32b8df54db21687",
-      "title": "remorses/usecomputer",
-      "content": "AI代理的快速计算机自动化CLI。使用辅助功能快照、点击、键入、滚动等功能控制任何桌面。",
-      "summary": "AI代理的快速计算机自动化CLI。使用辅助功能快照、点击、键入、滚动等功能控制任何桌面。",
+      "id": "dd926d249f1ed0c3f4ceca2507135f7e94e1aa6f",
+      "title": "ryfineZ/codex-session-patcher",
+      "content": "一个轻量级的Python工具，用于从Codex CLI会话文件中清除AI拒绝响应",
+      "summary": "一个轻量级的Python工具，用于从Codex CLI会话文件中清除AI拒绝响应",
       "source": "github",
-      "source_url": "https://github.com/remorses/usecomputer",
+      "source_url": "https://github.com/ryfineZ/codex-session-patcher",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-24T09:17:08.000Z",
-      "collected_at": "2026-03-25T03:45:18.429Z",
-      "thumbnail": "/thumbs/8556d8a980f8de7f28a42cf1c32b8df54db21687.jpg"
+      "published_at": "2026-03-25T14:22:53.000Z",
+      "collected_at": "2026-03-26T04:04:19.839Z",
+      "thumbnail": "/thumbs/dd926d249f1ed0c3f4ceca2507135f7e94e1aa6f.png"
     },
     {
-      "id": "0222934cf4e3dae4bce1f8dcaea2b3afbcbdfdbe",
-      "title": "ServiceNow/eva",
-      "content": "评估语音座席的新端到端框架",
-      "summary": "评估语音座席的新端到端框架",
+      "id": "449fcf23d1a4fc250700025a210319933446fa0f",
+      "title": "tonbistudio/turboquant-pytorch",
+      "content": "用于LLM KV缓存压缩的Google TurboQuant （ ICLR 2026 ）的从头开始PyTorch实现。3位压缩5倍，注意力保真度为99.5%。",
+      "summary": "用于LLM KV缓存压缩的Google TurboQuant （ ICLR 2026 ）的从头开始PyTorch实现。3位压缩5倍，注意力保真度为99.5%。",
       "source": "github",
-      "source_url": "https://github.com/ServiceNow/eva",
+      "source_url": "https://github.com/tonbistudio/turboquant-pytorch",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-24T01:23:35.000Z",
-      "collected_at": "2026-03-25T03:45:19.876Z",
-      "thumbnail": "/thumbs/0222934cf4e3dae4bce1f8dcaea2b3afbcbdfdbe.png"
+      "published_at": "2026-03-25T08:03:23.000Z",
+      "collected_at": "2026-03-26T04:04:20.550Z",
+      "thumbnail": "/thumbs/449fcf23d1a4fc250700025a210319933446fa0f.png"
     },
     {
-      "id": "e5c7d717751f2b4f4f7a623be385ede0a03260e4",
-      "title": "aronhy/geo-llms-toolkit",
-      "content": "自动化geo",
-      "summary": "自动化geo",
+      "id": "d44b28f001407e0815ef688fadd721d13859f610",
+      "title": "nashsu/opencli-rs-skill",
+      "content": "ClaudeCode/OpenClaw/Agent的完美伴侣，让您的AI Agent能够访问整个网络上的信息，使用自然语言从Bilibili、Zhihu、Twitter/X、YouTube、微博、Reddit、Facebook、Instagram、TikTok、Notion、Cursor和55个以上的平台获取实时数据—重复使用您的Chrome登录会话，无需API密钥。",
+      "summary": "ClaudeCode/OpenClaw/Agent的完美伴侣，让您的AI Agent能够访问整个网络上的信息，使用自然语言从Bilibili、Zhihu、Twitter/X、YouTube、微博、Reddit、Facebook、Instagram、TikTok、Notion、Cursor和55个以上的平台获取实时数据—重复使用您的Chrome登录会话，无需API密钥。",
       "source": "github",
-      "source_url": "https://github.com/aronhy/geo-llms-toolkit",
+      "source_url": "https://github.com/nashsu/opencli-rs-skill",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-24T04:37:13.000Z",
-      "collected_at": "2026-03-25T03:45:20.263Z",
-      "thumbnail": "/thumbs/e5c7d717751f2b4f4f7a623be385ede0a03260e4.png"
+      "published_at": "2026-03-25T09:46:15.000Z",
+      "collected_at": "2026-03-26T04:04:21.468Z",
+      "thumbnail": "/thumbs/d44b28f001407e0815ef688fadd721d13859f610.jpg"
     }
   ]
 }
