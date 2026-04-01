@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-03-31T04:06:41.856Z",
+  "generated_at": "2026-04-01T04:19:18.302Z",
   "items": [
     {
-      "id": "bf5d9d9687a1ac77d9e255af4e95c1919bcb15a6",
-      "title": "toby-bridges/api-relay-audit",
-      "content": "第三方AI API中继/代理服务的安全审计工具。检测隐藏的提示注入、提示泄漏、指令覆盖和上下文截断。",
-      "summary": "第三方AI API中继/代理服务的安全审计工具。检测隐藏的提示注入、提示泄漏、指令覆盖和上下文截断。",
+      "id": "778ae56c6882f4b9ef0995ebc45d928227f659a4",
+      "title": "Leonxlnx/claude-code-system-prompts",
+      "content": "代理AI编码助手如何工作的研究—重建的提示模式、代理协调和安全分类",
+      "summary": "代理AI编码助手如何工作的研究—重建的提示模式、代理协调和安全分类",
       "source": "github",
-      "source_url": "https://github.com/toby-bridges/api-relay-audit",
+      "source_url": "https://github.com/Leonxlnx/claude-code-system-prompts",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-30T04:20:54.000Z",
-      "collected_at": "2026-03-31T04:06:38.280Z",
-      "thumbnail": "/thumbs/bf5d9d9687a1ac77d9e255af4e95c1919bcb15a6.jpg"
+      "published_at": "2026-03-31T11:47:04.000Z",
+      "collected_at": "2026-04-01T04:19:16.612Z",
+      "thumbnail": "/thumbs/778ae56c6882f4b9ef0995ebc45d928227f659a4.png"
     },
     {
-      "id": "9659f0a481dc4a1d074606790a1ef0846178afe9",
-      "title": "HKUDS/CatchMe",
-      "content": "“CatchMe ：捕捉您的整个数字足迹”",
-      "summary": "“CatchMe ：捕捉您的整个数字足迹”",
+      "id": "dcfa31d7762d294e16b08cfa59f4666e9d61dad3",
+      "title": "shipany-ai/open-agent-sdk",
+      "content": "没有CLI依赖关系的Agent-SDK ，作为claude-agent-sdk的替代品，完全开源",
+      "summary": "没有CLI依赖关系的Agent-SDK ，作为claude-agent-sdk的替代品，完全开源",
       "source": "github",
-      "source_url": "https://github.com/HKUDS/CatchMe",
+      "source_url": "https://github.com/shipany-ai/open-agent-sdk",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-30T04:21:59.000Z",
-      "collected_at": "2026-03-31T04:06:39.802Z",
-      "thumbnail": "/thumbs/9659f0a481dc4a1d074606790a1ef0846178afe9.jpg"
+      "published_at": "2026-03-31T14:16:24.000Z",
+      "collected_at": "2026-04-01T04:19:17.393Z",
+      "thumbnail": "/thumbs/dcfa31d7762d294e16b08cfa59f4666e9d61dad3.png"
     },
     {
-      "id": "8c0f38d556e463dfc52c97c2f350e24fb7ef00be",
-      "title": "utkusen/sast-skills",
-      "content": "将您的AI编码器转变为SAST扫描仪的座席技能集合",
-      "summary": "将您的AI编码器转变为SAST扫描仪的座席技能集合",
+      "id": "30bf53c7c19dadf57035c7b857556942b4797f33",
+      "title": "lintsinghua/claude-code-book",
+      "content": "拆解 AI Agent 的骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
+      "summary": "拆解 AI Agent 的骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
       "source": "github",
-      "source_url": "https://github.com/utkusen/sast-skills",
+      "source_url": "https://github.com/lintsinghua/claude-code-book",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-30T14:11:49.000Z",
-      "collected_at": "2026-03-31T04:06:40.795Z",
-      "thumbnail": "/thumbs/8c0f38d556e463dfc52c97c2f350e24fb7ef00be.jpg"
+      "published_at": "2026-03-31T18:00:16.000Z",
+      "collected_at": "2026-04-01T04:19:17.882Z",
+      "thumbnail": "/thumbs/30bf53c7c19dadf57035c7b857556942b4797f33.png"
     },
     {
-      "id": "4ec8fae7a7d6413a46bb6b8679f156f97330dfef",
-      "title": "WillowHe/EvoOpt_oppangu_optimization_model",
-      "content": "提供了一套解决方案，利用Openpangu - 7B作为运筹学优化任务中大型语言模型（ LLM ）的微调和应用的基础模型。",
-      "summary": "提供了一套解决方案，利用Openpangu - 7B作为运筹学优化任务中大型语言模型（ LLM ）的微调和应用的基础模型。",
+      "id": "0f72ccde83d43f7f6a10575a06959c69c55c968a",
+      "title": "Windy3f3f3f/how-claude-code-works",
+      "content": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
+      "summary": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
       "source": "github",
-      "source_url": "https://github.com/WillowHe/EvoOpt_oppangu_optimization_model",
+      "source_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-03-30T07:19:23.000Z",
-      "collected_at": "2026-03-31T04:06:41.856Z",
-      "thumbnail": "/thumbs/4ec8fae7a7d6413a46bb6b8679f156f97330dfef.png"
+      "published_at": "2026-03-31T12:25:40.000Z",
+      "collected_at": "2026-04-01T04:19:18.302Z",
+      "thumbnail": "/thumbs/0f72ccde83d43f7f6a10575a06959c69c55c968a.jpg"
     }
   ]
 }
