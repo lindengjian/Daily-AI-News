@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-04-12T04:18:26.960Z",
+  "generated_at": "2026-04-13T04:28:17.679Z",
   "items": [
     {
-      "id": "6b4ae96015b1b25abfd8b2674a152b73b1f1fa24",
-      "title": "alchaincyf/obsidian-ai-orange-book",
-      "content": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "summary": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
+      "id": "fd4acc5f1e550a2059d63c36fe5e68fd8cffb55e",
+      "title": "0xquqi/crypto-kol-quant",
+      "content": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM",
+      "summary": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM",
       "source": "github",
-      "source_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+      "source_url": "https://github.com/0xquqi/crypto-kol-quant",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-11T13:50:24.000Z",
-      "collected_at": "2026-04-12T04:18:24.687Z",
-      "thumbnail": "/thumbs/6b4ae96015b1b25abfd8b2674a152b73b1f1fa24.jpg"
+      "published_at": "2026-04-12T06:14:56.000Z",
+      "collected_at": "2026-04-13T04:28:14.941Z",
+      "thumbnail": "/thumbs/fd4acc5f1e550a2059d63c36fe5e68fd8cffb55e.jpg"
     },
     {
-      "id": "cdf3eec751a88482af66a7b7f0b3d0935342fee3",
-      "title": "millionco/cli-to-js",
-      "content": "将任何CLI转换为JavaScript API",
-      "summary": "将任何CLI转换为JavaScript API",
+      "id": "1a74bfd3d2a0022cb9fe7431588f442263f05351",
+      "title": "clawvader-tech/hermes-telegram-miniapp",
+      "content": "适用于Hermes Agent的终端风格Telegram迷你应用程序—在黑暗的TUI中进行聊天、cron作业和系统监控",
+      "summary": "适用于Hermes Agent的终端风格Telegram迷你应用程序—在黑暗的TUI中进行聊天、cron作业和系统监控",
       "source": "github",
-      "source_url": "https://github.com/millionco/cli-to-js",
+      "source_url": "https://github.com/clawvader-tech/hermes-telegram-miniapp",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-11T03:01:45.000Z",
-      "collected_at": "2026-04-12T04:18:25.263Z",
-      "thumbnail": "/thumbs/cdf3eec751a88482af66a7b7f0b3d0935342fee3.png"
+      "published_at": "2026-04-12T14:28:27.000Z",
+      "collected_at": "2026-04-13T04:28:15.788Z",
+      "thumbnail": "/thumbs/1a74bfd3d2a0022cb9fe7431588f442263f05351.png"
     },
     {
-      "id": "3c0d1d9e0a7ef20cdd9adcd69a0bdb259efc205f",
-      "title": "NYCU-Chung/my-claude-devteam",
-      "content": "Claude Code的工程团队— 12个专业代理、15个自动化挂钩和P7/P9/P10方法。",
-      "summary": "Claude Code的工程团队— 12个专业代理、15个自动化挂钩和P7/P9/P10方法。",
+      "id": "3cf5f9f28a9ca57056464358dd1f74fbe0059d89",
+      "title": "Boom5426/自然纸技能",
+      "content": "起草、修改、审核和重新提交Nature风格期刊手稿的代理技能。",
+      "summary": "起草、修改、审核和重新提交Nature风格期刊手稿的代理技能。",
       "source": "github",
-      "source_url": "https://github.com/NYCU-Chung/my-claude-devteam",
+      "source_url": "https://github.com/Boom5426/Nature-Paper-Skills",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-11T07:16:14.000Z",
-      "collected_at": "2026-04-12T04:18:25.919Z",
-      "thumbnail": "/thumbs/3c0d1d9e0a7ef20cdd9adcd69a0bdb259efc205f.png"
+      "published_at": "2026-04-12T04:03:48.000Z",
+      "collected_at": "2026-04-13T04:28:16.549Z",
+      "thumbnail": "/thumbs/3cf5f9f28a9ca57056464358dd1f74fbe0059d89.jpg"
     },
     {
-      "id": "1d3a2b002ffdd9537881a6e011c12196fe124055",
-      "title": "HJCheng0602/nanoPD",
-      "content": "用于LLM的从头开始预填充/解码分解推理引擎",
-      "summary": "用于LLM的从头开始预填充/解码分解推理引擎",
+      "id": "4b2d06811ef60ca528277774733c44b98cc34a4c",
+      "title": "Aimagine-life/gemini-unblock",
+      "content": "Chromium扩展，通过您自己的代理路由AI服务。绕过Gemini、AI Studio、Google Labs、ChatGPT、Claude、YouTube等地理限制。",
+      "summary": "Chromium扩展，通过您自己的代理路由AI服务。绕过Gemini、AI Studio、Google Labs、ChatGPT、Claude、YouTube等地理限制。",
       "source": "github",
-      "source_url": "https://github.com/HJCheng0602/nanoPD",
+      "source_url": "https://github.com/Aimagine-life/gemini-unblock",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-11T06:11:08.000Z",
-      "collected_at": "2026-04-12T04:18:26.960Z",
-      "thumbnail": "/thumbs/1d3a2b002ffdd9537881a6e011c12196fe124055.jpg"
+      "published_at": "2026-04-12T09:33:54.000Z",
+      "collected_at": "2026-04-13T04:28:17.679Z",
+      "thumbnail": "/thumbs/4b2d06811ef60ca528277774733c44b98cc34a4c.jpg"
     }
   ]
 }
