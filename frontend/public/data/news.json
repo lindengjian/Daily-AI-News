@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-04-18T04:03:48.257Z",
+  "generated_at": "2026-04-19T04:21:57.225Z",
   "items": [
     {
-      "id": "b1efda7e9115b3c0616d7e40a9be33bf9788497a",
-      "title": "zhuqn1021/Agent-template",
-      "content": " 一个现代化 AI Agent 项目模板，支持多模型切换、工具调用、RAG 检索增强、对话记忆等能力。",
-      "summary": " 一个现代化 AI Agent 项目模板，支持多模型切换、工具调用、RAG 检索增强、对话记忆等能力。",
+      "id": "dafdf9b2fa6c319f48b359c9a6710d5ba553d55b",
+      "title": "Quorinex/Freebuff2API",
+      "content": "兼🚀 容OpenAI的Freebuff代理，具有动态自由代理跟踪、令牌旋转和随时可用的Docker部署。",
+      "summary": "兼🚀 容OpenAI的Freebuff代理，具有动态自由代理跟踪、令牌旋转和随时可用的Docker部署。",
       "source": "github",
-      "source_url": "https://github.com/zhuqn1021/Agent-template",
+      "source_url": "https://github.com/Quorinex/Freebuff2API",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-17T13:50:07.000Z",
-      "collected_at": "2026-04-18T04:03:46.249Z",
-      "thumbnail": "/thumbs/b1efda7e9115b3c0616d7e40a9be33bf9788497a.png"
+      "published_at": "2026-04-18T01:08:34.000Z",
+      "collected_at": "2026-04-19T04:21:54.361Z",
+      "thumbnail": "/thumbs/dafdf9b2fa6c319f48b359c9a6710d5ba553d55b.jpg"
     },
     {
-      "id": "0304c824e8f856c42be0e1c44a5bc36fd29472b9",
-      "title": "trsno/Lossless-Scaling-FPS-Upscale-PC",
-      "content": "无损扩展是用于无损扩展和AI帧生成的强大Windows工具。使用LSFG优化FPS ，享受清晰的整数缩放，并在任何游戏或应用程序中提高图像质量。非常适合1440p、4K和超宽显示器的复古游戏、模拟器和现代游戏。",
-      "summary": "无损扩展是用于无损扩展和AI帧生成的强大Windows工具。使用LSFG优化FPS ，享受清晰的整数缩放，并在任何游戏或应用程序中提高图像质量。非常适合1440p、4K和超宽显示器的复古游戏、模拟器和现代游戏。",
+      "id": "4b45adc83d582a7a6023437112f2e1e91b6a3134",
+      "title": "kyegomez/OpenMythos",
+      "content": "克劳德·米索斯（ Claude Mythos ）建筑的理论重建，基于现有研究文献的基本原理构建。",
+      "summary": "克劳德·米索斯（ Claude Mythos ）建筑的理论重建，基于现有研究文献的基本原理构建。",
       "source": "github",
-      "source_url": "https://github.com/trsno/Lossless-Scaling-FPS-Upscale-PC",
+      "source_url": "https://github.com/kyegomez/OpenMythos",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-17T13:36:22.000Z",
-      "collected_at": "2026-04-18T04:03:47.058Z",
-      "thumbnail": "/thumbs/0304c824e8f856c42be0e1c44a5bc36fd29472b9.png"
+      "published_at": "2026-04-18T12:57:52.000Z",
+      "collected_at": "2026-04-19T04:21:55.595Z",
+      "thumbnail": "/thumbs/4b45adc83d582a7a6023437112f2e1e91b6a3134.jpg"
     },
     {
-      "id": "53676ac8048b3044545efe2f2482b90a852f1fca",
-      "title": "RuiRomano/powerbi-agentic-mcp-cloud-agent",
-      "content": "",
-      "summary": "",
+      "id": "6ee020c4fc095ae9f452dc2c5f7ec647f105b628",
+      "title": "432539/gpt2api",
+      "content": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "summary": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
       "source": "github",
-      "source_url": "https://github.com/RuiRomano/powerbi-agentic-mcp-cloud-agent",
+      "source_url": "https://github.com/432539/gpt2api",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-17T10:43:11.000Z",
-      "collected_at": "2026-04-18T04:03:47.440Z",
-      "thumbnail": "/thumbs/53676ac8048b3044545efe2f2482b90a852f1fca.jpg"
+      "published_at": "2026-04-18T06:02:44.000Z",
+      "collected_at": "2026-04-19T04:21:56.302Z",
+      "thumbnail": "/thumbs/6ee020c4fc095ae9f452dc2c5f7ec647f105b628.png"
     },
     {
-      "id": "b0a3cd587eaa402040825d0b6bc2da9056e96349",
-      "title": "tobyilee/book-writer",
-      "content": "具有Toby风格语音的自动书写线束（ 11个座席+ 10个技能， EPUB输出）",
-      "summary": "具有Toby风格语音的自动书写线束（ 11个座席+ 10个技能， EPUB输出）",
+      "id": "ef942785483167ebfa6a8c62721002fbb85e019f",
+      "title": "h9-tec/毕业项目顾问",
+      "content": "阿拉伯语优先法学硕士支持的顾问，帮助埃及CS学生选择生产级毕业项目—从→5个排名的IDEA卡主管就绪蓝→图入职。Next.js 15、FastAPI、Qdrant、Azure OpenAI + Ollama。",
+      "summary": "阿拉伯语优先法学硕士支持的顾问，帮助埃及CS学生选择生产级毕业项目—从→5个排名的IDEA卡主管就绪蓝→图入职。Next.js 15、FastAPI、Qdrant、Azure OpenAI + Ollama。",
       "source": "github",
-      "source_url": "https://github.com/tobyilee/book-writer",
+      "source_url": "https://github.com/h9-tec/graduation-project-advisor",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-17T07:23:13.000Z",
-      "collected_at": "2026-04-18T04:03:48.257Z",
-      "thumbnail": "/thumbs/b0a3cd587eaa402040825d0b6bc2da9056e96349.jpg"
+      "published_at": "2026-04-18T12:54:19.000Z",
+      "collected_at": "2026-04-19T04:21:57.225Z",
+      "thumbnail": "/thumbs/ef942785483167ebfa6a8c62721002fbb85e019f.jpg"
     }
   ]
 }
