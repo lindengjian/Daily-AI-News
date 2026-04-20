@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-04-19T04:21:57.225Z",
+  "generated_at": "2026-04-20T04:27:49.973Z",
   "items": [
     {
-      "id": "dafdf9b2fa6c319f48b359c9a6710d5ba553d55b",
-      "title": "Quorinex/Freebuff2API",
-      "content": "兼🚀 容OpenAI的Freebuff代理，具有动态自由代理跟踪、令牌旋转和随时可用的Docker部署。",
-      "summary": "兼🚀 容OpenAI的Freebuff代理，具有动态自由代理跟踪、令牌旋转和随时可用的Docker部署。",
+      "id": "a5b2ec15995a16687568a780864b1df5ddff2546",
+      "title": "ZeroZ-lab/cc-design",
+      "content": "AI智能体的高保真HTML设计和原型指导技巧",
+      "summary": "AI智能体的高保真HTML设计和原型指导技巧",
       "source": "github",
-      "source_url": "https://github.com/Quorinex/Freebuff2API",
+      "source_url": "https://github.com/ZeroZ-lab/cc-design",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-18T01:08:34.000Z",
-      "collected_at": "2026-04-19T04:21:54.361Z",
-      "thumbnail": "/thumbs/dafdf9b2fa6c319f48b359c9a6710d5ba553d55b.jpg"
+      "published_at": "2026-04-19T01:35:57.000Z",
+      "collected_at": "2026-04-20T04:27:47.440Z",
+      "thumbnail": "/thumbs/a5b2ec15995a16687568a780864b1df5ddff2546.jpg"
     },
     {
-      "id": "4b45adc83d582a7a6023437112f2e1e91b6a3134",
-      "title": "kyegomez/OpenMythos",
-      "content": "克劳德·米索斯（ Claude Mythos ）建筑的理论重建，基于现有研究文献的基本原理构建。",
-      "summary": "克劳德·米索斯（ Claude Mythos ）建筑的理论重建，基于现有研究文献的基本原理构建。",
+      "id": "765504e71cd3014dac93a06b8511259cf23cad1e",
+      "title": "TheRealSeanDonahoe/agents-md",
+      "content": "Drop-in AGENTS.md使每个编码代理的行为都像高级工程师而不是急切的实习生。杀死闹剧，停止驾驶重构，强制验证循环。综合了Karpathy的四项原则和Boris Cherny的Claude Code工作流程。适用于Claude Code、Codex、Gemini CLI、Cursor和开放标准。",
+      "summary": "Drop-in AGENTS.md使每个编码代理的行为都像高级工程师而不是急切的实习生。杀死闹剧，停止驾驶重构，强制验证循环。综合了Karpathy的四项原则和Boris Cherny的Claude Code工作流程。适用于Claude Code、Codex、Gemini CLI、Cursor和开放标准。",
       "source": "github",
-      "source_url": "https://github.com/kyegomez/OpenMythos",
+      "source_url": "https://github.com/TheRealSeanDonahoe/agents-md",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-18T12:57:52.000Z",
-      "collected_at": "2026-04-19T04:21:55.595Z",
-      "thumbnail": "/thumbs/4b45adc83d582a7a6023437112f2e1e91b6a3134.jpg"
+      "published_at": "2026-04-19T03:40:28.000Z",
+      "collected_at": "2026-04-20T04:27:48.414Z",
+      "thumbnail": "/thumbs/765504e71cd3014dac93a06b8511259cf23cad1e.jpg"
     },
     {
-      "id": "6ee020c4fc095ae9f452dc2c5f7ec647f105b628",
-      "title": "432539/gpt2api",
-      "content": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
-      "summary": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "id": "e382e7c53917e2ef65770c2d955a8a1b202fcdf1",
+      "title": "yzhao062/agent-style",
+      "content": "AI编码和编写代理的21个编写规则。Claude Code、Codex、Copilot、Cursor和Aider ，所以它们的输出读起来像技术专家。",
+      "summary": "AI编码和编写代理的21个编写规则。Claude Code、Codex、Copilot、Cursor和Aider ，所以它们的输出读起来像技术专家。",
       "source": "github",
-      "source_url": "https://github.com/432539/gpt2api",
+      "source_url": "https://github.com/yzhao062/agent-style",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-18T06:02:44.000Z",
-      "collected_at": "2026-04-19T04:21:56.302Z",
-      "thumbnail": "/thumbs/6ee020c4fc095ae9f452dc2c5f7ec647f105b628.png"
+      "published_at": "2026-04-19T08:12:16.000Z",
+      "collected_at": "2026-04-20T04:27:49.377Z",
+      "thumbnail": "/thumbs/e382e7c53917e2ef65770c2d955a8a1b202fcdf1.jpg"
     },
     {
-      "id": "ef942785483167ebfa6a8c62721002fbb85e019f",
-      "title": "h9-tec/毕业项目顾问",
-      "content": "阿拉伯语优先法学硕士支持的顾问，帮助埃及CS学生选择生产级毕业项目—从→5个排名的IDEA卡主管就绪蓝→图入职。Next.js 15、FastAPI、Qdrant、Azure OpenAI + Ollama。",
-      "summary": "阿拉伯语优先法学硕士支持的顾问，帮助埃及CS学生选择生产级毕业项目—从→5个排名的IDEA卡主管就绪蓝→图入职。Next.js 15、FastAPI、Qdrant、Azure OpenAI + Ollama。",
+      "id": "d4fbc4a8423e4a29ad2ab7b1583b53a11187865e",
+      "title": "iosdevmax/mobile-ads-agent",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/h9-tec/graduation-project-advisor",
+      "source_url": "https://github.com/iosdevmax/mobile-ads-agent",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-18T12:54:19.000Z",
-      "collected_at": "2026-04-19T04:21:57.225Z",
-      "thumbnail": "/thumbs/ef942785483167ebfa6a8c62721002fbb85e019f.jpg"
+      "published_at": "2026-04-19T16:53:28.000Z",
+      "collected_at": "2026-04-20T04:27:49.973Z",
+      "thumbnail": "/thumbs/d4fbc4a8423e4a29ad2ab7b1583b53a11187865e.png"
     }
   ]
 }
