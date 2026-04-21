@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-04-20T04:27:49.973Z",
+  "generated_at": "2026-04-21T04:19:27.483Z",
   "items": [
     {
-      "id": "a5b2ec15995a16687568a780864b1df5ddff2546",
-      "title": "ZeroZ-lab/cc-design",
-      "content": "AI智能体的高保真HTML设计和原型指导技巧",
-      "summary": "AI智能体的高保真HTML设计和原型指导技巧",
+      "id": "4edadf24dd326e7a1130a383f414ead2197ebb5b",
+      "title": "cosmicstack-labs/汞试剂",
+      "content": "灵魂驱动的人工智能代理，具有权限强化工具、代币预算和多渠道访问权限。通过CLI或Telegram全天候运行。",
+      "summary": "灵魂驱动的人工智能代理，具有权限强化工具、代币预算和多渠道访问权限。通过CLI或Telegram全天候运行。",
       "source": "github",
-      "source_url": "https://github.com/ZeroZ-lab/cc-design",
+      "source_url": "https://github.com/cosmicstack-labs/mercury-agent",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-19T01:35:57.000Z",
-      "collected_at": "2026-04-20T04:27:47.440Z",
-      "thumbnail": "/thumbs/a5b2ec15995a16687568a780864b1df5ddff2546.jpg"
+      "published_at": "2026-04-20T12:46:31.000Z",
+      "collected_at": "2026-04-21T04:19:24.383Z",
+      "thumbnail": "/thumbs/4edadf24dd326e7a1130a383f414ead2197ebb5b.png"
     },
     {
-      "id": "765504e71cd3014dac93a06b8511259cf23cad1e",
-      "title": "TheRealSeanDonahoe/agents-md",
-      "content": "Drop-in AGENTS.md使每个编码代理的行为都像高级工程师而不是急切的实习生。杀死闹剧，停止驾驶重构，强制验证循环。综合了Karpathy的四项原则和Boris Cherny的Claude Code工作流程。适用于Claude Code、Codex、Gemini CLI、Cursor和开放标准。",
-      "summary": "Drop-in AGENTS.md使每个编码代理的行为都像高级工程师而不是急切的实习生。杀死闹剧，停止驾驶重构，强制验证循环。综合了Karpathy的四项原则和Boris Cherny的Claude Code工作流程。适用于Claude Code、Codex、Gemini CLI、Cursor和开放标准。",
+      "id": "2e5b7d30e7f124803f034a3215abe5baa508d785",
+      "title": "ovoment/ovo-local-llm",
+      "content": "Apple Silicon的私人Claude-Code风格编码代理—在设备上运行聊天、代码和本地模型工作流程。MLX原生， Ollama/OpenAI API兼容，零API密钥。",
+      "summary": "Apple Silicon的私人Claude-Code风格编码代理—在设备上运行聊天、代码和本地模型工作流程。MLX原生， Ollama/OpenAI API兼容，零API密钥。",
       "source": "github",
-      "source_url": "https://github.com/TheRealSeanDonahoe/agents-md",
+      "source_url": "https://github.com/ovoment/ovo-local-llm",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-19T03:40:28.000Z",
-      "collected_at": "2026-04-20T04:27:48.414Z",
-      "thumbnail": "/thumbs/765504e71cd3014dac93a06b8511259cf23cad1e.jpg"
+      "published_at": "2026-04-20T00:26:46.000Z",
+      "collected_at": "2026-04-21T04:19:25.604Z",
+      "thumbnail": "/thumbs/2e5b7d30e7f124803f034a3215abe5baa508d785.png"
     },
     {
-      "id": "e382e7c53917e2ef65770c2d955a8a1b202fcdf1",
-      "title": "yzhao062/agent-style",
-      "content": "AI编码和编写代理的21个编写规则。Claude Code、Codex、Copilot、Cursor和Aider ，所以它们的输出读起来像技术专家。",
-      "summary": "AI编码和编写代理的21个编写规则。Claude Code、Codex、Copilot、Cursor和Aider ，所以它们的输出读起来像技术专家。",
+      "id": "d439f20290967b2a9910d3d4af239ee54e9f0c73",
+      "title": "guanxiaol/WindsurfPoolAPI",
+      "content": "Enterprise-grade multi-account pool proxy for Windsurf AI — 87+ models via OpenAI & Anthropic APIs / 企业级 Windsurf 多账号池化 API 代理",
+      "summary": "Enterprise-grade multi-account pool proxy for Windsurf AI — 87+ models via OpenAI & Anthropic APIs / 企业级 Windsurf 多账号池化 API 代理",
       "source": "github",
-      "source_url": "https://github.com/yzhao062/agent-style",
+      "source_url": "https://github.com/guanxiaol/WindsurfPoolAPI",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-19T08:12:16.000Z",
-      "collected_at": "2026-04-20T04:27:49.377Z",
-      "thumbnail": "/thumbs/e382e7c53917e2ef65770c2d955a8a1b202fcdf1.jpg"
+      "published_at": "2026-04-20T05:17:34.000Z",
+      "collected_at": "2026-04-21T04:19:26.574Z",
+      "thumbnail": "/thumbs/d439f20290967b2a9910d3d4af239ee54e9f0c73.jpg"
     },
     {
-      "id": "d4fbc4a8423e4a29ad2ab7b1583b53a11187865e",
-      "title": "iosdevmax/mobile-ads-agent",
-      "content": "",
-      "summary": "",
+      "id": "3b80fecb87b7749831645d73baa0f3dfc62b5208",
+      "title": "Doriandarko/kimi-2-6-code",
+      "content": "由Moonshot Kimi K2.6提供支持的终端原生编码代理。",
+      "summary": "由Moonshot Kimi K2.6提供支持的终端原生编码代理。",
       "source": "github",
-      "source_url": "https://github.com/iosdevmax/mobile-ads-agent",
+      "source_url": "https://github.com/Doriandarko/kimi-2-6-code",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-19T16:53:28.000Z",
-      "collected_at": "2026-04-20T04:27:49.973Z",
-      "thumbnail": "/thumbs/d4fbc4a8423e4a29ad2ab7b1583b53a11187865e.png"
+      "published_at": "2026-04-20T18:35:50.000Z",
+      "collected_at": "2026-04-21T04:19:27.483Z",
+      "thumbnail": "/thumbs/3b80fecb87b7749831645d73baa0f3dfc62b5208.jpg"
     }
   ]
 }
