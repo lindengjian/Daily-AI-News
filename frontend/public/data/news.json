@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-04-24T04:25:23.988Z",
+  "generated_at": "2026-04-25T04:07:06.046Z",
   "items": [
     {
-      "id": "e840e50bf597fbeea9e31a75fe345c4f0e4e805a",
-      "title": "levelsio/superlevels",
-      "content": "我制作的超级Chrome扩展程序比安装外部恶意软件/间谍软件扩展程序更安全，这些扩展程序构成了巨大的安全风险，它是开源的，您可以在安装之前阅读和检查源代码（使用AI ） ，并根据自己的喜好进行自定义！",
-      "summary": "我制作的超级Chrome扩展程序比安装外部恶意软件/间谍软件扩展程序更安全，这些扩展程序构成了巨大的安全风险，它是开源的，您可以在安装之前阅读和检查源代码（使用AI ） ，并根据自己的喜好进行自定义！",
+      "id": "aaa1b5b4a85fdc1feae9cce1d6da1bbaa92e6b3d",
+      "title": "connectfarm1/accumulation-radar",
+      "content": "🏦 累积雷达—自动检测做市商累积+ OI异常+加密期货的3策略评分。纯Python ，零AI成本。",
+      "summary": "🏦 累积雷达—自动检测做市商累积+ OI异常+加密期货的3策略评分。纯Python ，零AI成本。",
       "source": "github",
-      "source_url": "https://github.com/levelsio/superlevels",
+      "source_url": "https://github.com/connectfarm1/accumulation-radar",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-23T12:06:46.000Z",
-      "collected_at": "2026-04-24T04:25:21.210Z",
-      "thumbnail": "/thumbs/e840e50bf597fbeea9e31a75fe345c4f0e4e805a.jpg"
+      "published_at": "2026-04-24T02:31:44.000Z",
+      "collected_at": "2026-04-25T04:07:02.688Z",
+      "thumbnail": "/thumbs/aaa1b5b4a85fdc1feae9cce1d6da1bbaa92e6b3d.png"
     },
     {
-      "id": "4ff2ea89060b6f7a5719f725c023698905f16b0c",
-      "title": "future-agi/future-agi",
-      "content": "用于评估、观察和改进LLM和AI代理应用的开源端到端平台。追踪· Evals ·模拟·数据集·网关·护栏。自托管。Apache 2.0。",
-      "summary": "用于评估、观察和改进LLM和AI代理应用的开源端到端平台。追踪· Evals ·模拟·数据集·网关·护栏。自托管。Apache 2.0。",
+      "id": "e93c143afb2c7b5666821fbdf7358af7b3058c6a",
+      "title": "AndrewVos/endless-toil",
+      "content": "听听您的客服代表如何处理您的代码",
+      "summary": "听听您的客服代表如何处理您的代码",
       "source": "github",
-      "source_url": "https://github.com/future-agi/future-agi",
+      "source_url": "https://github.com/AndrewVos/endless-toil",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-23T14:11:31.000Z",
-      "collected_at": "2026-04-24T04:25:22.094Z",
-      "thumbnail": "/thumbs/4ff2ea89060b6f7a5719f725c023698905f16b0c.png"
+      "published_at": "2026-04-24T09:49:53.000Z",
+      "collected_at": "2026-04-25T04:07:03.606Z",
+      "thumbnail": "/thumbs/e93c143afb2c7b5666821fbdf7358af7b3058c6a.jpg"
     },
     {
-      "id": "807280bb4fa6fa6414087c3c961228863ac4e9fa",
-      "title": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
-      "content": "Definitive GPT Image 2 Prompt Vault — Master OpenAI的下一代型号，具有精心策划的像素完美文本、一致字符和专业级资产提示。针对创作者和开发者进行了优化。",
-      "summary": "Definitive GPT Image 2 Prompt Vault — Master OpenAI的下一代型号，具有精心策划的像素完美文本、一致字符和专业级资产提示。针对创作者和开发者进行了优化。",
+      "id": "96d81c6fd6981f3123100fa061fc6e603de0f660",
+      "title": "mizchi/skills",
+      "content": "Mizchi的代理技能，通过APM分发",
+      "summary": "Mizchi的代理技能，通过APM分发",
       "source": "github",
-      "source_url": "https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
+      "source_url": "https://github.com/mizchi/skills",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-23T15:04:08.000Z",
-      "collected_at": "2026-04-24T04:25:23.114Z",
-      "thumbnail": "/thumbs/807280bb4fa6fa6414087c3c961228863ac4e9fa.png"
+      "published_at": "2026-04-24T14:36:12.000Z",
+      "collected_at": "2026-04-25T04:07:05.020Z",
+      "thumbnail": "/thumbs/96d81c6fd6981f3123100fa061fc6e603de0f660.jpg"
     },
     {
-      "id": "d2369d184abd08b9c40521b10781cd316d180759",
-      "title": "TheTom/vllm-swift",
-      "content": "由mlx-swift提供支持的vLLM Metal插件— Apple Silicon上的高性能LLM推理",
-      "summary": "由mlx-swift提供支持的vLLM Metal插件— Apple Silicon上的高性能LLM推理",
+      "id": "8df55b46e5a8cb6ab95f1714af64e90a7c8505d2",
+      "title": "MrFadiAi/free-llm-gateway",
+      "content": "统一的OpenAI兼容API网关聚合了14个以上的免费LLM提供商，具有自动回退路由、速率限制跟踪和Web仪表板",
+      "summary": "统一的OpenAI兼容API网关聚合了14个以上的免费LLM提供商，具有自动回退路由、速率限制跟踪和Web仪表板",
       "source": "github",
-      "source_url": "https://github.com/TheTom/vllm-swift",
+      "source_url": "https://github.com/MrFadiAi/free-llm-gateway",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-23T01:17:07.000Z",
-      "collected_at": "2026-04-24T04:25:23.988Z",
-      "thumbnail": "/thumbs/d2369d184abd08b9c40521b10781cd316d180759.png"
+      "published_at": "2026-04-24T00:14:38.000Z",
+      "collected_at": "2026-04-25T04:07:06.046Z",
+      "thumbnail": "/thumbs/8df55b46e5a8cb6ab95f1714af64e90a7c8505d2.jpg"
     }
   ]
 }
