@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-04-28T04:43:58.038Z",
+  "generated_at": "2026-04-29T04:38:03.349Z",
   "items": [
     {
-      "id": "71d9fb2bbd8e27069093b06b9ac5bcbfaf90f75e",
-      "title": "Udacity-ai/pumpfun-ai-trading-bot",
-      "content": "TypeScript CLI ： Solana上基于OpenAI的Pump.fun注释自动化。线程参与、代理支持、钱包模式和本地data.json注释库。ISC。",
-      "summary": "TypeScript CLI ： Solana上基于OpenAI的Pump.fun注释自动化。线程参与、代理支持、钱包模式和本地data.json注释库。ISC。",
+      "id": "e681a03f0b39e9ac6251047f05f647f6e8beadcd",
+      "title": "nexu-io/open-design",
+      "content": "Anthropic Claude Design的🎨本地首选开源替代品。⚡19 Skills · ✨ 71个品牌级设计系统·🖼️沙盒预览· 📦 HTML/PDF/PPTX导出。在Claude Code/Codex/Cursor/Gemini CLI/OpenCode/Qwen上🤖运行。",
+      "summary": "Anthropic Claude Design的🎨本地首选开源替代品。⚡19 Skills · ✨ 71个品牌级设计系统·🖼️沙盒预览· 📦 HTML/PDF/PPTX导出。在Claude Code/Codex/Cursor/Gemini CLI/OpenCode/Qwen上🤖运行。",
       "source": "github",
-      "source_url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot",
+      "source_url": "https://github.com/nexu-io/open-design",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-27T09:57:22.000Z",
-      "collected_at": "2026-04-28T04:43:55.265Z",
-      "thumbnail": "/thumbs/71d9fb2bbd8e27069093b06b9ac5bcbfaf90f75e.png"
+      "published_at": "2026-04-28T04:25:20.000Z",
+      "collected_at": "2026-04-29T04:38:00.260Z",
+      "thumbnail": "/thumbs/e681a03f0b39e9ac6251047f05f647f6e8beadcd.png"
     },
     {
-      "id": "5b1577a6c0c5b8ca9a96c58098d9f68122a3e3f1",
-      "title": "HKUDS-AI/polymarket-ai-trading",
-      "content": "Polymarket的均值回归和人工智能辅助纸质交易： Node.js API、OpenAI市场洞察、矢量搜索、Kelly sizing、SQLite、Vercel仪表板。以研究为重点；没有活着的资本。",
-      "summary": "Polymarket的均值回归和人工智能辅助纸质交易： Node.js API、OpenAI市场洞察、矢量搜索、Kelly sizing、SQLite、Vercel仪表板。以研究为重点；没有活着的资本。",
+      "id": "c706967b97e0bead8f02d7b3e19f2d2ccf845005",
+      "title": "99xAgency/GodModeSkill",
+      "content": "Claude Code的Multi-LLM交叉审查工作流程。/work协调计划/实施/错误修复，每个关卡上有3个不同的模型系列投票。",
+      "summary": "Claude Code的Multi-LLM交叉审查工作流程。/work协调计划/实施/错误修复，每个关卡上有3个不同的模型系列投票。",
       "source": "github",
-      "source_url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
+      "source_url": "https://github.com/99xAgency/GodModeSkill",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-27T11:47:30.000Z",
-      "collected_at": "2026-04-28T04:43:56.336Z",
-      "thumbnail": "/thumbs/5b1577a6c0c5b8ca9a96c58098d9f68122a3e3f1.jpg"
+      "published_at": "2026-04-28T05:42:27.000Z",
+      "collected_at": "2026-04-29T04:38:01.832Z",
+      "thumbnail": "/thumbs/c706967b97e0bead8f02d7b3e19f2d2ccf845005.png"
     },
     {
-      "id": "4f6f725f6b769b41aad26a5273b07a8056548c68",
-      "title": "6551-团队/人工智能自动交易",
-      "content": "NexusQuant ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，适应性风险， Node.js/TypeScript ， AGPL-3.0。",
-      "summary": "NexusQuant ：在VoltAgent上进行人工智能驱动的多策略加密交易。Gate.io和Binance ，适应性风险， Node.js/TypeScript ， AGPL-3.0。",
+      "id": "07936cde7172cc939660905eb775744cfbc5ec1d",
+      "title": "noonghunna/club-3090",
+      "content": "在RTX 3090上为LLM提供服务的社区食谱。多引擎（ vLLM、llama.cpp、SGLang ）和模型无关。目前为1 ×和2 ×卡提供Qwen3.6-27B配置。",
+      "summary": "在RTX 3090上为LLM提供服务的社区食谱。多引擎（ vLLM、llama.cpp、SGLang ）和模型无关。目前为1 ×和2 ×卡提供Qwen3.6-27B配置。",
       "source": "github",
-      "source_url": "https://github.com/6551-Team/ai-auto-trading",
+      "source_url": "https://github.com/noonghunna/club-3090",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-27T09:48:43.000Z",
-      "collected_at": "2026-04-28T04:43:57.391Z",
-      "thumbnail": "/thumbs/4f6f725f6b769b41aad26a5273b07a8056548c68.png"
+      "published_at": "2026-04-28T10:08:59.000Z",
+      "collected_at": "2026-04-29T04:38:02.884Z",
+      "thumbnail": "/thumbs/07936cde7172cc939660905eb775744cfbc5ec1d.jpg"
     },
     {
-      "id": "31c89f306540c0d20910df8f143f2beb08de3e13",
-      "title": "DanOps-1/gpt-pp-team",
-      "content": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "summary": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+      "id": "bc871d21825bde1097b4fa52e547c1762b1c6d80",
+      "title": "insistanan/GPT_Image_Playground",
+      "content": "一站式解决 GPT-Image-2 的 Image API / Response API 参数可视化调整、API 调用、输入与输出存储、输出复用等需求，支持多请求同时进行",
+      "summary": "一站式解决 GPT-Image-2 的 Image API / Response API 参数可视化调整、API 调用、输入与输出存储、输出复用等需求，支持多请求同时进行",
       "source": "github",
-      "source_url": "https://github.com/DanOps-1/gpt-pp-team",
+      "source_url": "https://github.com/insistanan/GPT_Image_Playground",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-04-27T03:48:28.000Z",
-      "collected_at": "2026-04-28T04:43:58.038Z",
-      "thumbnail": "/thumbs/31c89f306540c0d20910df8f143f2beb08de3e13.jpg"
+      "published_at": "2026-04-28T04:11:03.000Z",
+      "collected_at": "2026-04-29T04:38:03.349Z",
+      "thumbnail": "/thumbs/bc871d21825bde1097b4fa52e547c1762b1c6d80.jpg"
     }
   ]
 }
