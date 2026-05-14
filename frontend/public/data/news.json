@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-05-13T04:58:25.240Z",
+  "generated_at": "2026-05-14T04:56:43.301Z",
   "items": [
     {
-      "id": "c59fcd899b377b6ae0f1680d90b54cd02c10ffff",
-      "title": "sunyouzhi2003/LSFG-桌面",
-      "content": "无损扩展2026 ：通用帧生成LSFG 3。多帧生成： X2、X3、X4倍增器，用于极限FPS。AI升级： LS1、FSR 3.1、NIS。在Steam Deck、手持设备和Android (LSFG-VK)上流畅玩游戏。修复口吃、低延迟模式、VRR支持、4K空间缩放、G-Sync兼容。",
-      "summary": "无损扩展2026 ：通用帧生成LSFG 3。多帧生成： X2、X3、X4倍增器，用于极限FPS。AI升级： LS1、FSR 3.1、NIS。在Steam Deck、手持设备和Android (LSFG-VK)上流畅玩游戏。修复口吃、低延迟模式、VRR支持、4K空间缩放、G-Sync兼容。",
+      "id": "8af428aa20943a87b5b7b51d2f2c81e29d9b218a",
+      "title": "mikesheehan54/Claude-Code-Design-AI",
+      "content": "Claude Design ： AI UI/UX架构师。React、Figma组件、顺风CSS生成器的屏幕截图。原型设计代理、设计系统、线框渲染器。SVG图标创建器、深色模式切换、响应式布局工具。前端代码导出、shadcn/ui集成、矢量资产、品牌助手。",
+      "summary": "Claude Design ： AI UI/UX架构师。React、Figma组件、顺风CSS生成器的屏幕截图。原型设计代理、设计系统、线框渲染器。SVG图标创建器、深色模式切换、响应式布局工具。前端代码导出、shadcn/ui集成、矢量资产、品牌助手。",
       "source": "github",
-      "source_url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+      "source_url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-12T13:36:32.000Z",
-      "collected_at": "2026-05-13T04:58:21.220Z",
-      "thumbnail": "/thumbs/c59fcd899b377b6ae0f1680d90b54cd02c10ffff.png"
+      "published_at": "2026-05-13T16:28:07.000Z",
+      "collected_at": "2026-05-14T04:56:40.934Z",
+      "thumbnail": "/thumbs/8af428aa20943a87b5b7b51d2f2c81e29d9b218a.png"
     },
     {
-      "id": "0843e880fa389b722bfac92d9b4ae39c7777f0f3",
-      "title": "yaassin12/DeepSeek-V4-Pro-App",
-      "content": "DeepSeek V4 Pro ：高级AI桌面应用程序。特点： 1.6T MoE架构， 1M令牌上下文窗口， Engram内存。专业编码代理、思考模式（高/最大）、存储级推理、复杂错误修复。实时网页搜索、本地API密钥存储、跨文件分析、低延迟流媒体接口。",
-      "summary": "DeepSeek V4 Pro ：高级AI桌面应用程序。特点： 1.6T MoE架构， 1M令牌上下文窗口， Engram内存。专业编码代理、思考模式（高/最大）、存储级推理、复杂错误修复。实时网页搜索、本地API密钥存储、跨文件分析、低延迟流媒体接口。",
+      "id": "b88a884ba836062fd4d6c838594a6c815b17a574",
+      "title": "simonlin1212/TradingAgents-astock",
+      "content": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+      "summary": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
       "source": "github",
-      "source_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+      "source_url": "https://github.com/simonlin1212/TradingAgents-astock",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-12T15:00:14.000Z",
-      "collected_at": "2026-05-13T04:58:22.286Z",
-      "thumbnail": "/thumbs/0843e880fa389b722bfac92d9b4ae39c7777f0f3.jpg"
+      "published_at": "2026-05-13T00:22:30.000Z",
+      "collected_at": "2026-05-14T04:56:41.285Z",
+      "thumbnail": "/thumbs/b88a884ba836062fd4d6c838594a6c815b17a574.jpg"
     },
     {
-      "id": "e11b2344d58738090e0283d7694773367cb2d7c1",
-      "title": "agentara/skills",
-      "content": "人工智能构建者的原创和实用技能。",
-      "summary": "人工智能构建者的原创和实用技能。",
+      "id": "55bb40b5740a24b477a69eb9747d2aae4597b2b7",
+      "title": "python-telegramBot/ai-auto-trading",
+      "content": "AI交易机器人加密LLM代理定量交易自动交易算法交易币安Gate.io TypeScript Node.js VoltAgent加密机器人风险管理多策略",
+      "summary": "AI交易机器人加密LLM代理定量交易自动交易算法交易币安Gate.io TypeScript Node.js VoltAgent加密机器人风险管理多策略",
       "source": "github",
-      "source_url": "https://github.com/agentara/skills",
+      "source_url": "https://github.com/python-telegramBot/ai-auto-trading",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-12T06:16:11.000Z",
-      "collected_at": "2026-05-13T04:58:23.894Z",
-      "thumbnail": "/thumbs/e11b2344d58738090e0283d7694773367cb2d7c1.jpg"
+      "published_at": "2026-05-13T15:45:44.000Z",
+      "collected_at": "2026-05-14T04:56:42.322Z",
+      "thumbnail": "/thumbs/55bb40b5740a24b477a69eb9747d2aae4597b2b7.png"
     },
     {
-      "id": "8a1db140b637fdf9c0d1ae3af4652e1e77bfc50b",
-      "title": "void5tar/Curio",
-      "content": "Chrome侧面板浏览器代理",
-      "summary": "Chrome侧面板浏览器代理",
+      "id": "05c35518f329348e4b80f8182fa5e77483f06087",
+      "title": "thinkpixelIab/polymarket-ai-trading",
+      "content": "Polymarket预测市场AI交易纸张交易OpenAI GPT CLOB Kelly均值回归SQLite Node Express Docker Render Vercel仪表板算法交易量化研究预测加密",
+      "summary": "Polymarket预测市场AI交易纸张交易OpenAI GPT CLOB Kelly均值回归SQLite Node Express Docker Render Vercel仪表板算法交易量化研究预测加密",
       "source": "github",
-      "source_url": "https://github.com/void5tar/Curio",
+      "source_url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-12T06:26:14.000Z",
-      "collected_at": "2026-05-13T04:58:25.240Z",
-      "thumbnail": "/thumbs/8a1db140b637fdf9c0d1ae3af4652e1e77bfc50b.jpg"
+      "published_at": "2026-05-13T16:08:45.000Z",
+      "collected_at": "2026-05-14T04:56:43.301Z",
+      "thumbnail": "/thumbs/05c35518f329348e4b80f8182fa5e77483f06087.png"
     }
   ]
 }
