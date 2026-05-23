@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-05-22T05:12:40.166Z",
+  "generated_at": "2026-05-23T04:51:42.123Z",
   "items": [
     {
-      "id": "28d306f26d6e6a1e28aa32161d46729476d22990",
-      "title": "BlueSharks应用程序/Gemini应用程序窗口",
-      "content": "chatgpt google gemini pro ai flash 3.5 app windows下载pc google ai桌面客户端windows 11 10官方应用免费exe安装快捷方式工作区聊天助手",
-      "summary": "chatgpt google gemini pro ai flash 3.5 app windows下载pc google ai桌面客户端windows 11 10官方应用免费exe安装快捷方式工作区聊天助手",
+      "id": "6030086532a9f528f7bab6256871773c7a62ea3d",
+      "title": "0xSero/codex-shim",
+      "content": "本地响应-将工厂BYOK模型（和可选的ChatGPT GPT-5.5直通）暴露给Codex Desktop的API垫片。",
+      "summary": "本地响应-将工厂BYOK模型（和可选的ChatGPT GPT-5.5直通）暴露给Codex Desktop的API垫片。",
       "source": "github",
-      "source_url": "https://github.com/BlueSharks-apps/Gemini-app-windows",
+      "source_url": "https://github.com/0xSero/codex-shim",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-21T16:59:30.000Z",
-      "collected_at": "2026-05-22T05:12:37.190Z",
-      "thumbnail": "/thumbs/28d306f26d6e6a1e28aa32161d46729476d22990.jpg"
+      "published_at": "2026-05-22T07:38:07.000Z",
+      "collected_at": "2026-05-23T04:51:40.224Z",
+      "thumbnail": "/thumbs/6030086532a9f528f7bab6256871773c7a62ea3d.jpg"
     },
     {
-      "id": "93a7a4b72a790a5ee2f6de7ea52827633ad032f1",
-      "title": "zqbxdev/webchat2api",
-      "content": "具有GPT/Grok帐户管理的OpenAI兼容Web Chat API代理",
-      "summary": "具有GPT/Grok帐户管理的OpenAI兼容Web Chat API代理",
+      "id": "64bda0646e82b2c6bdf18525a7818d8bb96349d6",
+      "title": "MoonshotAI/kimi-code",
+      "content": "下一代代理的起点",
+      "summary": "下一代代理的起点",
       "source": "github",
-      "source_url": "https://github.com/zqbxdev/webchat2api",
+      "source_url": "https://github.com/MoonshotAI/kimi-code",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-21T05:12:52.000Z",
-      "collected_at": "2026-05-22T05:12:38.475Z",
-      "thumbnail": "/thumbs/93a7a4b72a790a5ee2f6de7ea52827633ad032f1.png"
+      "published_at": "2026-05-22T08:02:03.000Z",
+      "collected_at": "2026-05-23T04:51:40.849Z",
+      "thumbnail": "/thumbs/64bda0646e82b2c6bdf18525a7818d8bb96349d6.jpg"
     },
     {
-      "id": "9863520d61406a2b28e9a88ce984b9388fc3ddfc",
-      "title": "DEEIX-AI/DEEIX-Chat",
-      "content": "用于模型路由、多模式聊天、文件、工具、计费、身份和操作的企业AI工作区。",
-      "summary": "用于模型路由、多模式聊天、文件、工具、计费、身份和操作的企业AI工作区。",
+      "id": "f784cfadff54fed0ba1cce1e9836a7881729d916",
+      "title": "testerlingcodo/gemini-antigravity-cli",
+      "content": "双子座反重力2.0 cli谷歌终端ai代理工具agy迁移指南mcp服务器插件斜杠命令双子座3.5 flash编码代理工具免费",
+      "summary": "双子座反重力2.0 cli谷歌终端ai代理工具agy迁移指南mcp服务器插件斜杠命令双子座3.5 flash编码代理工具免费",
       "source": "github",
-      "source_url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+      "source_url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-21T08:57:01.000Z",
-      "collected_at": "2026-05-22T05:12:39.400Z",
-      "thumbnail": "/thumbs/9863520d61406a2b28e9a88ce984b9388fc3ddfc.png"
+      "published_at": "2026-05-22T16:57:47.000Z",
+      "collected_at": "2026-05-23T04:51:41.521Z",
+      "thumbnail": "/thumbs/f784cfadff54fed0ba1cce1e9836a7881729d916.png"
     },
     {
-      "id": "9a0a60ea970bd3ba9ae2bbda090325e855754249",
-      "title": "kingbootoshi/方向提示",
-      "content": "结果优先+方向性语言。用于编写提示、代理指令和技能描述的双层技能。从事Claude Code和Codex CLI工作。",
-      "summary": "结果优先+方向性语言。用于编写提示、代理指令和技能描述的双层技能。从事Claude Code和Codex CLI工作。",
+      "id": "18f6e0db376f2076bb61aa677f86b8fcb538089a",
+      "title": "chefkannofriend-source/lcb-baker-agent",
+      "content": "用于糕点配方查找和Baker's Percentage计算的Claude Code子代理",
+      "summary": "用于糕点配方查找和Baker's Percentage计算的Claude Code子代理",
       "source": "github",
-      "source_url": "https://github.com/kingbootoshi/directional-prompting",
+      "source_url": "https://github.com/chefkannofriend-source/lcb-baker-agent",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-21T08:40:18.000Z",
-      "collected_at": "2026-05-22T05:12:40.166Z",
-      "thumbnail": "/thumbs/9a0a60ea970bd3ba9ae2bbda090325e855754249.png"
+      "published_at": "2026-05-22T05:07:44.000Z",
+      "collected_at": "2026-05-23T04:51:42.123Z",
+      "thumbnail": "/thumbs/18f6e0db376f2076bb61aa677f86b8fcb538089a.png"
     }
   ]
 }
