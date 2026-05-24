@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-05-23T04:51:42.123Z",
+  "generated_at": "2026-05-24T05:12:00.519Z",
   "items": [
     {
-      "id": "6030086532a9f528f7bab6256871773c7a62ea3d",
-      "title": "0xSero/codex-shim",
-      "content": "本地响应-将工厂BYOK模型（和可选的ChatGPT GPT-5.5直通）暴露给Codex Desktop的API垫片。",
-      "summary": "本地响应-将工厂BYOK模型（和可选的ChatGPT GPT-5.5直通）暴露给Codex Desktop的API垫片。",
+      "id": "41faa4520c115036f4806b6c112c0b1c4cf55e82",
+      "title": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "content": "deepseek v4 flash pro chat api app windows 11桌面客户端github开源ai助手聊天机器人编码代理moe模型1.6t参数免费api设置指南推理max模式本地部署",
+      "summary": "deepseek v4 flash pro chat api app windows 11桌面客户端github开源ai助手聊天机器人编码代理moe模型1.6t参数免费api设置指南推理max模式本地部署",
       "source": "github",
-      "source_url": "https://github.com/0xSero/codex-shim",
+      "source_url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-22T07:38:07.000Z",
-      "collected_at": "2026-05-23T04:51:40.224Z",
-      "thumbnail": "/thumbs/6030086532a9f528f7bab6256871773c7a62ea3d.jpg"
+      "published_at": "2026-05-23T17:05:57.000Z",
+      "collected_at": "2026-05-24T05:11:58.292Z",
+      "thumbnail": "/thumbs/41faa4520c115036f4806b6c112c0b1c4cf55e82.jpg"
     },
     {
-      "id": "64bda0646e82b2c6bdf18525a7818d8bb96349d6",
-      "title": "MoonshotAI/kimi-code",
-      "content": "下一代代理的起点",
-      "summary": "下一代代理的起点",
+      "id": "05f7c0731bc4c8d5246a7d8e685b4bba142e1aa0",
+      "title": "Astraltenprosper/uncensored-ai-image-video-generator",
+      "content": "用于生成未经审查的图像和视频的人工智能工具（ 18岁以上）",
+      "summary": "用于生成未经审查的图像和视频的人工智能工具（ 18岁以上）",
       "source": "github",
-      "source_url": "https://github.com/MoonshotAI/kimi-code",
+      "source_url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-22T08:02:03.000Z",
-      "collected_at": "2026-05-23T04:51:40.849Z",
-      "thumbnail": "/thumbs/64bda0646e82b2c6bdf18525a7818d8bb96349d6.jpg"
+      "published_at": "2026-05-23T22:55:11.000Z",
+      "collected_at": "2026-05-24T05:11:59.243Z",
+      "thumbnail": "/thumbs/05f7c0731bc4c8d5246a7d8e685b4bba142e1aa0.jpg"
     },
     {
-      "id": "f784cfadff54fed0ba1cce1e9836a7881729d916",
-      "title": "testerlingcodo/gemini-antigravity-cli",
-      "content": "双子座反重力2.0 cli谷歌终端ai代理工具agy迁移指南mcp服务器插件斜杠命令双子座3.5 flash编码代理工具免费",
-      "summary": "双子座反重力2.0 cli谷歌终端ai代理工具agy迁移指南mcp服务器插件斜杠命令双子座3.5 flash编码代理工具免费",
+      "id": "0a4d65528ec6d9f9307b8cd7ca542639823fbd24",
+      "title": "afu-it/malaysia-payment-gateway",
+      "content": "实现马来西亚支付网关集成的代理技能。",
+      "summary": "实现马来西亚支付网关集成的代理技能。",
       "source": "github",
-      "source_url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
+      "source_url": "https://github.com/afu-it/malaysia-payment-gateway",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-22T16:57:47.000Z",
-      "collected_at": "2026-05-23T04:51:41.521Z",
-      "thumbnail": "/thumbs/f784cfadff54fed0ba1cce1e9836a7881729d916.png"
+      "published_at": "2026-05-23T08:13:57.000Z",
+      "collected_at": "2026-05-24T05:12:00.002Z",
+      "thumbnail": "/thumbs/0a4d65528ec6d9f9307b8cd7ca542639823fbd24.png"
     },
     {
-      "id": "18f6e0db376f2076bb61aa677f86b8fcb538089a",
-      "title": "chefkannofriend-source/lcb-baker-agent",
-      "content": "用于糕点配方查找和Baker's Percentage计算的Claude Code子代理",
-      "summary": "用于糕点配方查找和Baker's Percentage计算的Claude Code子代理",
+      "id": "86e79a0c8bf1fd98d312443b376b11e63ef2dfd7",
+      "title": "vishalkvl-098/多代理-研究-助理-",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/chefkannofriend-source/lcb-baker-agent",
+      "source_url": "https://github.com/vishalkvl-098/Multi-Agent-Research-Assistant-",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-22T05:07:44.000Z",
-      "collected_at": "2026-05-23T04:51:42.123Z",
-      "thumbnail": "/thumbs/18f6e0db376f2076bb61aa677f86b8fcb538089a.png"
+      "published_at": "2026-05-23T17:18:59.000Z",
+      "collected_at": "2026-05-24T05:12:00.519Z",
+      "thumbnail": "/thumbs/86e79a0c8bf1fd98d312443b376b11e63ef2dfd7.png"
     }
   ]
 }
