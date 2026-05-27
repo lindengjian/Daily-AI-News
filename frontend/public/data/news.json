@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-05-26T05:13:24.217Z",
+  "generated_at": "2026-05-27T05:41:16.913Z",
   "items": [
     {
-      "id": "cdca023491d77cf86bb95c0374f4a97ad4fb4583",
-      "title": "realrossmanngroup/no_ai_slop_writing_rules",
-      "content": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-      "summary": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+      "id": "7cdda00b306589515aa278440da8e85449ce8f6a",
+      "title": "ai-best-tools/ai-image-video-gen",
+      "content": "数百万用户信任这个人工智能工具，可以生成逼真的图像和视频。高级编辑、完全隐私保护、每次会话后自动删除。2026年评分最高的选项。立即免费试用https://tinyurl.com/gen-img-video",
+      "summary": "数百万用户信任这个人工智能工具，可以生成逼真的图像和视频。高级编辑、完全隐私保护、每次会话后自动删除。2026年评分最高的选项。立即免费试用https://tinyurl.com/gen-img-video",
       "source": "github",
-      "source_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "source_url": "https://github.com/ai-best-tools/ai-image-video-gen",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-25T00:29:21.000Z",
-      "collected_at": "2026-05-26T05:13:04.167Z",
-      "thumbnail": "/thumbs/cdca023491d77cf86bb95c0374f4a97ad4fb4583.png"
+      "published_at": "2026-05-26T10:39:13.000Z",
+      "collected_at": "2026-05-27T05:41:15.161Z",
+      "thumbnail": "/thumbs/7cdda00b306589515aa278440da8e85449ce8f6a.png"
     },
     {
-      "id": "f4462dca54b37d4c35ef6d41ae304551d1732904",
-      "title": "JasonLam08/cursor_agent_status_light",
-      "content": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. 基于 ESP32-C3 的 Cursor Agent BLE 状态灯，用红绿灯直观显示 AI 编程过程中的思考、忙碌、成功、错误以及等待用户操作 等状态。",
-      "summary": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. 基于 ESP32-C3 的 Cursor Agent BLE 状态灯，用红绿灯直观显示 AI 编程过程中的思考、忙碌、成功、错误以及等待用户操作 等状态。",
+      "id": "ccc68b406982403b5ab93742f15d9abbf678ea93",
+      "title": "cellinlab/how-pi-agent-works",
+      "content": "Pi Agent 原理与实现",
+      "summary": "Pi Agent 原理与实现",
       "source": "github",
-      "source_url": "https://github.com/JasonLam08/cursor_agent_status_light",
+      "source_url": "https://github.com/cellinlab/how-pi-agent-works",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-25T03:50:14.000Z",
-      "collected_at": "2026-05-26T05:13:09.180Z",
-      "thumbnail": "/thumbs/f4462dca54b37d4c35ef6d41ae304551d1732904.jpg"
+      "published_at": "2026-05-26T06:37:08.000Z",
+      "collected_at": "2026-05-27T05:41:15.498Z",
+      "thumbnail": "/thumbs/ccc68b406982403b5ab93742f15d9abbf678ea93.png"
     },
     {
-      "id": "d7aa175f6cd45e33ee750995d0229a4245eac13e",
-      "title": "rahuldr556/AST-Guided-LLM-Code-Review_System",
-      "content": "",
-      "summary": "",
+      "id": "8a5c29ac1169208b59aa75a74c6b40449fdfd989",
+      "title": "zhaojingru-ai/多式联运访谈系统",
+      "content": "采用Coze工作流导出的多模式访谈系统",
+      "summary": "采用Coze工作流导出的多模式访谈系统",
       "source": "github",
-      "source_url": "https://github.com/rahuldr556/AST-Guided-LLM-Code-Review_System",
+      "source_url": "https://github.com/zhaojingru-ai/multimodal-interview-system",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-25T07:59:47.000Z",
-      "collected_at": "2026-05-26T05:13:14.193Z",
-      "thumbnail": "/thumbs/d7aa175f6cd45e33ee750995d0229a4245eac13e.jpg"
+      "published_at": "2026-05-26T06:06:11.000Z",
+      "collected_at": "2026-05-27T05:41:16.060Z",
+      "thumbnail": "/thumbs/8a5c29ac1169208b59aa75a74c6b40449fdfd989.jpg"
     },
     {
-      "id": "580247fda7f4c52fa1e920a014394030b1e312f0",
-      "title": "mitkox/SkillOpt",
-      "content": "SkillOpt with local AI is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-      "summary": "SkillOpt with local AI is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "id": "3a33aa78c70e1abf24fbc76b8959d743d6f138ae",
+      "title": "baskduf/线束入门套件",
+      "content": "用于编码代理的Repo-native线束工程入门套件。",
+      "summary": "用于编码代理的Repo-native线束工程入门套件。",
       "source": "github",
-      "source_url": "https://github.com/mitkox/SkillOpt",
+      "source_url": "https://github.com/baskduf/harness-starter-kit",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-25T18:17:13.000Z",
-      "collected_at": "2026-05-26T05:13:24.217Z",
-      "thumbnail": "/thumbs/580247fda7f4c52fa1e920a014394030b1e312f0.png"
+      "published_at": "2026-05-26T03:52:30.000Z",
+      "collected_at": "2026-05-27T05:41:16.913Z",
+      "thumbnail": "/thumbs/3a33aa78c70e1abf24fbc76b8959d743d6f138ae.jpg"
     }
   ]
 }
