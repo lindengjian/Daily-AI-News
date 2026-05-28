@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-05-27T05:41:16.913Z",
+  "generated_at": "2026-05-28T05:19:35.168Z",
   "items": [
     {
-      "id": "7cdda00b306589515aa278440da8e85449ce8f6a",
-      "title": "ai-best-tools/ai-image-video-gen",
-      "content": "数百万用户信任这个人工智能工具，可以生成逼真的图像和视频。高级编辑、完全隐私保护、每次会话后自动删除。2026年评分最高的选项。立即免费试用https://tinyurl.com/gen-img-video",
-      "summary": "数百万用户信任这个人工智能工具，可以生成逼真的图像和视频。高级编辑、完全隐私保护、每次会话后自动删除。2026年评分最高的选项。立即免费试用https://tinyurl.com/gen-img-video",
+      "id": "10876a0b69e07083046a0a426926db78efdbd134",
+      "title": "withkynam/vibecode-pro-max-kit",
+      "content": "RIPER-5 ，规格驱动，用于Claude Code & Codex的上下文记忆自我改善剂线束— 12个专业代理， 31项技能，具有锁相安全性的规格驱动开发。适用于任何代码库。30秒内完成安装。欢迎使用社区技能和客服代表。专为振动编码器、产品所有者和软件构建者打造。",
+      "summary": "RIPER-5 ，规格驱动，用于Claude Code & Codex的上下文记忆自我改善剂线束— 12个专业代理， 31项技能，具有锁相安全性的规格驱动开发。适用于任何代码库。30秒内完成安装。欢迎使用社区技能和客服代表。专为振动编码器、产品所有者和软件构建者打造。",
       "source": "github",
-      "source_url": "https://github.com/ai-best-tools/ai-image-video-gen",
+      "source_url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-26T10:39:13.000Z",
-      "collected_at": "2026-05-27T05:41:15.161Z",
-      "thumbnail": "/thumbs/7cdda00b306589515aa278440da8e85449ce8f6a.png"
+      "published_at": "2026-05-27T05:46:25.000Z",
+      "collected_at": "2026-05-28T05:19:32.522Z",
+      "thumbnail": "/thumbs/10876a0b69e07083046a0a426926db78efdbd134.png"
     },
     {
-      "id": "ccc68b406982403b5ab93742f15d9abbf678ea93",
-      "title": "cellinlab/how-pi-agent-works",
-      "content": "Pi Agent 原理与实现",
-      "summary": "Pi Agent 原理与实现",
+      "id": "3980da454db6c12f7e27858eb7ff455ab97279eb",
+      "title": "rohitsainik6203/GatePilot-",
+      "content": "人工智能门规划器",
+      "summary": "人工智能门规划器",
       "source": "github",
-      "source_url": "https://github.com/cellinlab/how-pi-agent-works",
+      "source_url": "https://github.com/rohitsainik6203/GatePilot-",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-26T06:37:08.000Z",
-      "collected_at": "2026-05-27T05:41:15.498Z",
-      "thumbnail": "/thumbs/ccc68b406982403b5ab93742f15d9abbf678ea93.png"
+      "published_at": "2026-05-27T08:14:48.000Z",
+      "collected_at": "2026-05-28T05:19:33.374Z",
+      "thumbnail": "/thumbs/3980da454db6c12f7e27858eb7ff455ab97279eb.png"
     },
     {
-      "id": "8a5c29ac1169208b59aa75a74c6b40449fdfd989",
-      "title": "zhaojingru-ai/多式联运访谈系统",
-      "content": "采用Coze工作流导出的多模式访谈系统",
-      "summary": "采用Coze工作流导出的多模式访谈系统",
+      "id": "6a485d1b1587c2157a1bbfbdde1c3135a7881f0e",
+      "title": "jiaran-king/Re-Zero---Starting-LLM-",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/zhaojingru-ai/multimodal-interview-system",
+      "source_url": "https://github.com/jiaran-king/Re-Zero---Starting-LLM-",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-26T06:06:11.000Z",
-      "collected_at": "2026-05-27T05:41:16.060Z",
-      "thumbnail": "/thumbs/8a5c29ac1169208b59aa75a74c6b40449fdfd989.jpg"
+      "published_at": "2026-05-27T14:20:07.000Z",
+      "collected_at": "2026-05-28T05:19:33.737Z",
+      "thumbnail": "/thumbs/6a485d1b1587c2157a1bbfbdde1c3135a7881f0e.png"
     },
     {
-      "id": "3a33aa78c70e1abf24fbc76b8959d743d6f138ae",
-      "title": "baskduf/线束入门套件",
-      "content": "用于编码代理的Repo-native线束工程入门套件。",
-      "summary": "用于编码代理的Repo-native线束工程入门套件。",
+      "id": "6101b8de67b1b961b6e1245843d64761e1f556e3",
+      "title": "FerroxLabs/ijfw",
+      "content": "IJFW — It Just F * cking Works。Ferrox Labs针对AI编码代理的本地优先基础设施：共享内存、智能路由、多AI交叉审核、严格的工作流程。",
+      "summary": "IJFW — It Just F * cking Works。Ferrox Labs针对AI编码代理的本地优先基础设施：共享内存、智能路由、多AI交叉审核、严格的工作流程。",
       "source": "github",
-      "source_url": "https://github.com/baskduf/harness-starter-kit",
+      "source_url": "https://github.com/FerroxLabs/ijfw",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-26T03:52:30.000Z",
-      "collected_at": "2026-05-27T05:41:16.913Z",
-      "thumbnail": "/thumbs/3a33aa78c70e1abf24fbc76b8959d743d6f138ae.jpg"
+      "published_at": "2026-05-27T05:24:27.000Z",
+      "collected_at": "2026-05-28T05:19:35.168Z",
+      "thumbnail": "/thumbs/6101b8de67b1b961b6e1245843d64761e1f556e3.png"
     }
   ]
 }
