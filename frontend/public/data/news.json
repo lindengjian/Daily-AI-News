@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-05-28T05:19:35.168Z",
+  "generated_at": "2026-05-29T05:21:43.243Z",
   "items": [
     {
-      "id": "10876a0b69e07083046a0a426926db78efdbd134",
-      "title": "withkynam/vibecode-pro-max-kit",
-      "content": "RIPER-5 ，规格驱动，用于Claude Code & Codex的上下文记忆自我改善剂线束— 12个专业代理， 31项技能，具有锁相安全性的规格驱动开发。适用于任何代码库。30秒内完成安装。欢迎使用社区技能和客服代表。专为振动编码器、产品所有者和软件构建者打造。",
-      "summary": "RIPER-5 ，规格驱动，用于Claude Code & Codex的上下文记忆自我改善剂线束— 12个专业代理， 31项技能，具有锁相安全性的规格驱动开发。适用于任何代码库。30秒内完成安装。欢迎使用社区技能和客服代表。专为振动编码器、产品所有者和软件构建者打造。",
+      "id": "f701f90a2d36317533b3060d011cf16b23f07f68",
+      "title": "OnlyTerp/prompt-cache-skills",
+      "content": "您使用的LLM代理线束的下拉式提示缓存修复程序。将您的AI编码代理指向此存储库，它将发送补丁。",
+      "summary": "您使用的LLM代理线束的下拉式提示缓存修复程序。将您的AI编码代理指向此存储库，它将发送补丁。",
       "source": "github",
-      "source_url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "source_url": "https://github.com/OnlyTerp/prompt-cache-skills",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-27T05:46:25.000Z",
-      "collected_at": "2026-05-28T05:19:32.522Z",
-      "thumbnail": "/thumbs/10876a0b69e07083046a0a426926db78efdbd134.png"
+      "published_at": "2026-05-28T02:40:44.000Z",
+      "collected_at": "2026-05-29T05:21:41.660Z",
+      "thumbnail": "/thumbs/f701f90a2d36317533b3060d011cf16b23f07f68.jpg"
     },
     {
-      "id": "3980da454db6c12f7e27858eb7ff455ab97279eb",
-      "title": "rohitsainik6203/GatePilot-",
-      "content": "人工智能门规划器",
-      "summary": "人工智能门规划器",
+      "id": "725d108361ba11104f9a7e58321013d73f21bad2",
+      "title": "bwjoke/fomo5000.com",
+      "content": "扫描5000多只美国上市股票的人工智能市场地图",
+      "summary": "扫描5000多只美国上市股票的人工智能市场地图",
       "source": "github",
-      "source_url": "https://github.com/rohitsainik6203/GatePilot-",
+      "source_url": "https://github.com/bwjoke/fomo5000.com",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-27T08:14:48.000Z",
-      "collected_at": "2026-05-28T05:19:33.374Z",
-      "thumbnail": "/thumbs/3980da454db6c12f7e27858eb7ff455ab97279eb.png"
+      "published_at": "2026-05-28T08:05:43.000Z",
+      "collected_at": "2026-05-29T05:21:42.260Z",
+      "thumbnail": "/thumbs/725d108361ba11104f9a7e58321013d73f21bad2.jpg"
     },
     {
-      "id": "6a485d1b1587c2157a1bbfbdde1c3135a7881f0e",
-      "title": "jiaran-king/Re-Zero---Starting-LLM-",
-      "content": "",
-      "summary": "",
+      "id": "ac79504aca62005ffb128da7c563552e393694c5",
+      "title": "Caph-dev/agents-progressive-disclosure",
+      "content": "将臃肿的AGENTS.md、CLAUDE.md或类似的代理指令文件重构为紧凑的路由入口点以及重点文档/参考文件的技能。",
+      "summary": "将臃肿的AGENTS.md、CLAUDE.md或类似的代理指令文件重构为紧凑的路由入口点以及重点文档/参考文件的技能。",
       "source": "github",
-      "source_url": "https://github.com/jiaran-king/Re-Zero---Starting-LLM-",
+      "source_url": "https://github.com/Caph-dev/agents-progressive-disclosure",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-27T14:20:07.000Z",
-      "collected_at": "2026-05-28T05:19:33.737Z",
-      "thumbnail": "/thumbs/6a485d1b1587c2157a1bbfbdde1c3135a7881f0e.png"
+      "published_at": "2026-05-28T11:08:14.000Z",
+      "collected_at": "2026-05-29T05:21:42.971Z",
+      "thumbnail": "/thumbs/ac79504aca62005ffb128da7c563552e393694c5.jpg"
     },
     {
-      "id": "6101b8de67b1b961b6e1245843d64761e1f556e3",
-      "title": "FerroxLabs/ijfw",
-      "content": "IJFW — It Just F * cking Works。Ferrox Labs针对AI编码代理的本地优先基础设施：共享内存、智能路由、多AI交叉审核、严格的工作流程。",
-      "summary": "IJFW — It Just F * cking Works。Ferrox Labs针对AI编码代理的本地优先基础设施：共享内存、智能路由、多AI交叉审核、严格的工作流程。",
+      "id": "d93381f904722f6f08b839834f45c25a73402d78",
+      "title": "bigchuidw3/spring-ai-agentx",
+      "content": "基于原生 Spring AI 的智能体（Agent）开发框架，提供 ReAct 执行引擎、分层记忆、工具调度、Human-in-the-Loop 等核心能力，形成完整的 Harness Engineering 方案，帮助开发者快速构建 AI Agent，可以快速搭建 Java 版的 Claude Code。",
+      "summary": "基于原生 Spring AI 的智能体（Agent）开发框架，提供 ReAct 执行引擎、分层记忆、工具调度、Human-in-the-Loop 等核心能力，形成完整的 Harness Engineering 方案，帮助开发者快速构建 AI Agent，可以快速搭建 Java 版的 Claude Code。",
       "source": "github",
-      "source_url": "https://github.com/FerroxLabs/ijfw",
+      "source_url": "https://github.com/bigchuidw3/spring-ai-agentx",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-27T05:24:27.000Z",
-      "collected_at": "2026-05-28T05:19:35.168Z",
-      "thumbnail": "/thumbs/6101b8de67b1b961b6e1245843d64761e1f556e3.png"
+      "published_at": "2026-05-28T07:22:58.000Z",
+      "collected_at": "2026-05-29T05:21:43.243Z",
+      "thumbnail": "/thumbs/d93381f904722f6f08b839834f45c25a73402d78.png"
     }
   ]
 }
