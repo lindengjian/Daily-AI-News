@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-05-30T04:59:58.262Z",
+  "generated_at": "2026-05-31T05:44:42.295Z",
   "items": [
     {
-      "id": "aeb7b37c22fcfbb3ae8f1bbb586e57c658718eda",
-      "title": "fxyz666/LogicPipe",
-      "content": "LogicPipe 是一个面向边缘多设备协同 LLM 推理的开源软件项目，提供离线管线规划、分布式 stage 权重加载、依赖感知任务调度和上下文 KV cache 复用能力。",
-      "summary": "LogicPipe 是一个面向边缘多设备协同 LLM 推理的开源软件项目，提供离线管线规划、分布式 stage 权重加载、依赖感知任务调度和上下文 KV cache 复用能力。",
+      "id": "db4ef98ff5ebe5c629030eb5462f533d83a322be",
+      "title": "polymaxi2/polymarket-arbitrage-trading-bot",
+      "content": "polymarket交易机器人polymarket机器人polymarket机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket机器人polymarket机器人polymarket机器人polymarket机器人polymarket交易机器人polymarket机器人",
+      "summary": "polymarket交易机器人polymarket机器人polymarket机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket交易机器人polymarket机器人polymarket机器人polymarket机器人polymarket机器人polymarket交易机器人polymarket机器人",
       "source": "github",
-      "source_url": "https://github.com/fxyz666/LogicPipe",
+      "source_url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-29T11:29:48.000Z",
-      "collected_at": "2026-05-30T04:59:55.938Z",
-      "thumbnail": "/thumbs/aeb7b37c22fcfbb3ae8f1bbb586e57c658718eda.png"
+      "published_at": "2026-05-31T00:10:17.000Z",
+      "collected_at": "2026-05-31T05:44:40.340Z",
+      "thumbnail": "/thumbs/db4ef98ff5ebe5c629030eb5462f533d83a322be.jpg"
     },
     {
-      "id": "f76067cfc6cb7f3df154814204778446169a57d5",
-      "title": "steeliron550-ui/search-bibtex",
-      "content": "[论文引用元数据检索工具] A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for Agents.",
-      "summary": "[论文引用元数据检索工具] A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for Agents.",
+      "id": "e78f501399e6da9556d1b1ad21b856ebb4e82fbc",
+      "title": "liyue-aigc/女性肖像导演",
+      "content": "用于指导和扩展详细AI女性肖像提示的模块化Codex技能。",
+      "summary": "用于指导和扩展详细AI女性肖像提示的模块化Codex技能。",
       "source": "github",
-      "source_url": "https://github.com/steeliron550-ui/search-bibtex",
+      "source_url": "https://github.com/liyue-aigc/female-portrait-director",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-29T12:56:19.000Z",
-      "collected_at": "2026-05-30T04:59:56.353Z",
-      "thumbnail": "/thumbs/f76067cfc6cb7f3df154814204778446169a57d5.jpg"
+      "published_at": "2026-05-30T06:32:54.000Z",
+      "collected_at": "2026-05-31T05:44:40.936Z",
+      "thumbnail": "/thumbs/e78f501399e6da9556d1b1ad21b856ebb4e82fbc.jpg"
     },
     {
-      "id": "9d78599deab6499355656533ddd2acdd3ca462a5",
-      "title": "jdevalk/specification.website",
-      "content": "网站规范— HTML、可访问性、安全性、SEO、代理就绪性。与平台无关，源自麻省理工学院。",
-      "summary": "网站规范— HTML、可访问性、安全性、SEO、代理就绪性。与平台无关，源自麻省理工学院。",
+      "id": "23ceca67338f3cd3d3ccdc2597150912bb25d8da",
+      "title": "veryyoldman/metamask-openclaw",
+      "content": "🦊 OpenClaw —安全第一的MetaMask SDK工具包和人工智能代理技能。在以太坊、Polygon、Base、Arbitrum和所有EVM链上连接钱包、读取余额、签名消息和发送交易。TypeScript优先，单行连接，永远不会触及您的种子短语。",
+      "summary": "🦊 OpenClaw —安全第一的MetaMask SDK工具包和人工智能代理技能。在以太坊、Polygon、Base、Arbitrum和所有EVM链上连接钱包、读取余额、签名消息和发送交易。TypeScript优先，单行连接，永远不会触及您的种子短语。",
       "source": "github",
-      "source_url": "https://github.com/jdevalk/specification.website",
+      "source_url": "https://github.com/veryyoldman/metamask-openclaw",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-29T09:13:26.000Z",
-      "collected_at": "2026-05-30T04:59:57.130Z",
-      "thumbnail": "/thumbs/9d78599deab6499355656533ddd2acdd3ca462a5.jpg"
+      "published_at": "2026-05-31T03:02:08.000Z",
+      "collected_at": "2026-05-31T05:44:41.645Z",
+      "thumbnail": "/thumbs/23ceca67338f3cd3d3ccdc2597150912bb25d8da.png"
     },
     {
-      "id": "7a34440a54c5ef549608699977381eb49eb0bd16",
-      "title": "t3dotgg/slotslop",
-      "content": "拉斯维加斯风格的CLI老虎机，可以滚动您的AI编码线束、模型和努力，然后运行命令。",
-      "summary": "拉斯维加斯风格的CLI老虎机，可以滚动您的AI编码线束、模型和努力，然后运行命令。",
+      "id": "36270374e5a6eb78f5f95532fa23ad81bb81c54a",
+      "title": "jwangkun/Pi-Multi-Agent",
+      "content": "生产级多代理编排框架",
+      "summary": "生产级多代理编排框架",
       "source": "github",
-      "source_url": "https://github.com/t3dotgg/slotslop",
+      "source_url": "https://github.com/jwangkun/Pi-Multi-Agent",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-29T03:10:22.000Z",
-      "collected_at": "2026-05-30T04:59:58.262Z",
-      "thumbnail": "/thumbs/7a34440a54c5ef549608699977381eb49eb0bd16.jpg"
+      "published_at": "2026-05-30T05:59:11.000Z",
+      "collected_at": "2026-05-31T05:44:42.295Z",
+      "thumbnail": "/thumbs/36270374e5a6eb78f5f95532fa23ad81bb81c54a.jpg"
     }
   ]
 }
