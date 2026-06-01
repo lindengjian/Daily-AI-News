@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-05-31T05:44:42.295Z",
+  "generated_at": "2026-06-01T06:18:01.426Z",
   "items": [
+    {
+      "id": "2873c622cddf558117edd40c8a21f963878845db",
+      "title": "pewdiepie-archdaemon/odysseus",
+      "content": "自托管AI工作区。",
+      "summary": "自托管AI工作区。",
+      "source": "github",
+      "source_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-05-31T14:05:51.000Z",
+      "collected_at": "2026-06-01T06:17:58.971Z",
+      "thumbnail": "/thumbs/2873c622cddf558117edd40c8a21f963878845db.jpg"
+    },
     {
       "id": "db4ef98ff5ebe5c629030eb5462f533d83a322be",
       "title": "polymaxi2/polymarket-arbitrage-trading-bot",
@@ -11,21 +24,8 @@
       "embed_url": null,
       "media_type": "article",
       "published_at": "2026-05-31T00:10:17.000Z",
-      "collected_at": "2026-05-31T05:44:40.340Z",
+      "collected_at": "2026-06-01T06:17:59.882Z",
       "thumbnail": "/thumbs/db4ef98ff5ebe5c629030eb5462f533d83a322be.jpg"
-    },
-    {
-      "id": "e78f501399e6da9556d1b1ad21b856ebb4e82fbc",
-      "title": "liyue-aigc/女性肖像导演",
-      "content": "用于指导和扩展详细AI女性肖像提示的模块化Codex技能。",
-      "summary": "用于指导和扩展详细AI女性肖像提示的模块化Codex技能。",
-      "source": "github",
-      "source_url": "https://github.com/liyue-aigc/female-portrait-director",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-05-30T06:32:54.000Z",
-      "collected_at": "2026-05-31T05:44:40.936Z",
-      "thumbnail": "/thumbs/e78f501399e6da9556d1b1ad21b856ebb4e82fbc.jpg"
     },
     {
       "id": "23ceca67338f3cd3d3ccdc2597150912bb25d8da",
@@ -37,21 +37,21 @@
       "embed_url": null,
       "media_type": "article",
       "published_at": "2026-05-31T03:02:08.000Z",
-      "collected_at": "2026-05-31T05:44:41.645Z",
+      "collected_at": "2026-06-01T06:18:00.660Z",
       "thumbnail": "/thumbs/23ceca67338f3cd3d3ccdc2597150912bb25d8da.png"
     },
     {
-      "id": "36270374e5a6eb78f5f95532fa23ad81bb81c54a",
-      "title": "jwangkun/Pi-Multi-Agent",
-      "content": "生产级多代理编排框架",
-      "summary": "生产级多代理编排框架",
+      "id": "81d9fc49e0785857788282330414a2f57793b23f",
+      "title": "PentesterFlow/agent",
+      "content": "您航站楼内的特工进攻保安",
+      "summary": "您航站楼内的特工进攻保安",
       "source": "github",
-      "source_url": "https://github.com/jwangkun/Pi-Multi-Agent",
+      "source_url": "https://github.com/PentesterFlow/agent",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-05-30T05:59:11.000Z",
-      "collected_at": "2026-05-31T05:44:42.295Z",
-      "thumbnail": "/thumbs/36270374e5a6eb78f5f95532fa23ad81bb81c54a.jpg"
+      "published_at": "2026-05-31T11:14:35.000Z",
+      "collected_at": "2026-06-01T06:18:01.426Z",
+      "thumbnail": "/thumbs/81d9fc49e0785857788282330414a2f57793b23f.png"
     }
   ]
 }
