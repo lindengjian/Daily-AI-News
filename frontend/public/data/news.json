@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-03T06:16:04.175Z",
+  "generated_at": "2026-06-04T06:06:10.111Z",
   "items": [
     {
-      "id": "5181fcbeafb61f4087d87b024330afcb9ba97fb7",
-      "title": "jd-opensource/JoyAI-Echo",
-      "content": "JoyAI-Echo ：推动长视听生成的前沿",
-      "summary": "JoyAI-Echo ：推动长视听生成的前沿",
+      "id": "a1bfb0c91edc170ab1fd5ca8df60f567e67ceac4",
+      "title": "tastyeffectco/沙盒",
+      "content": "具有预览URL的自托管开发沙箱。一个命令。没有Kubernetes ，非常适合编码代理和Saas工厂",
+      "summary": "具有预览URL的自托管开发沙箱。一个命令。没有Kubernetes ，非常适合编码代理和Saas工厂",
       "source": "github",
-      "source_url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "source_url": "https://github.com/tastyeffectco/sandboxes",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-02T03:25:51.000Z",
-      "collected_at": "2026-06-03T06:16:02.272Z",
-      "thumbnail": "/thumbs/5181fcbeafb61f4087d87b024330afcb9ba97fb7.png"
+      "published_at": "2026-06-03T18:55:02.000Z",
+      "collected_at": "2026-06-04T06:06:08.198Z",
+      "thumbnail": "/thumbs/a1bfb0c91edc170ab1fd5ca8df60f567e67ceac4.png"
     },
     {
-      "id": "6518400e71e3a8f50cc83dfc720fe9e4fb19d5f5",
-      "title": "Soul-AILab/SoulX-Transcriber",
-      "content": "多语种转录的端到端框架，共同模拟谁说话，何时说话，以及什么。",
-      "summary": "多语种转录的端到端框架，共同模拟谁说话，何时说话，以及什么。",
+      "id": "7cb6e3252808b9711569dfff50a668d026d5f06a",
+      "title": "GalaxyGeneral机器人/人形GPT",
+      "content": "[CVPR 2026] Humanoid-GPT ：用于零拍摄运动跟踪的缩放数据和结构",
+      "summary": "[CVPR 2026] Humanoid-GPT ：用于零拍摄运动跟踪的缩放数据和结构",
       "source": "github",
-      "source_url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+      "source_url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-02T05:08:08.000Z",
-      "collected_at": "2026-06-03T06:16:02.975Z",
-      "thumbnail": "/thumbs/6518400e71e3a8f50cc83dfc720fe9e4fb19d5f5.jpg"
+      "published_at": "2026-06-03T04:22:11.000Z",
+      "collected_at": "2026-06-04T06:06:08.839Z",
+      "thumbnail": "/thumbs/7cb6e3252808b9711569dfff50a668d026d5f06a.jpg"
     },
     {
-      "id": "76eb3742ff2194bf8287d07bfec354957322a717",
-      "title": "enderzcx/pi-docs-playbook",
-      "content": "用于在earendil-works/pi上构建的文档导航器和代理可读剧本",
-      "summary": "用于在earendil-works/pi上构建的文档导航器和代理可读剧本",
+      "id": "48ee17782f68a4aa66ec0107c75143d4bb656797",
+      "title": "razr001/align-dev",
+      "content": "AlignDev帮助人工智能辅助前端团队生成共享编码标准和SKILL.md ，以便Claude Code、Cursor、Copilot和其他代理一致地编写代码。",
+      "summary": "AlignDev帮助人工智能辅助前端团队生成共享编码标准和SKILL.md ，以便Claude Code、Cursor、Copilot和其他代理一致地编写代码。",
       "source": "github",
-      "source_url": "https://github.com/enderzcx/pi-docs-playbook",
+      "source_url": "https://github.com/razr001/align-dev",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-02T09:57:44.000Z",
-      "collected_at": "2026-06-03T06:16:03.553Z",
-      "thumbnail": "/thumbs/76eb3742ff2194bf8287d07bfec354957322a717.png"
+      "published_at": "2026-06-03T14:19:33.000Z",
+      "collected_at": "2026-06-04T06:06:09.837Z",
+      "thumbnail": "/thumbs/48ee17782f68a4aa66ec0107c75143d4bb656797.jpg"
     },
     {
-      "id": "ce93f75934d0d127aa8236053475240e09000f7a",
-      "title": "TheStageAI/edge-lm",
-      "content": "针对边缘部署优化的Tiny llms",
-      "summary": "针对边缘部署优化的Tiny llms",
+      "id": "6c7bff329e7532f2658568ef29e765308d8146dd",
+      "title": "stevibe/本地屏幕代理",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/TheStageAI/edge-lm",
+      "source_url": "https://github.com/stevibe/local-screen-agent",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-02T13:46:30.000Z",
-      "collected_at": "2026-06-03T06:16:04.175Z",
-      "thumbnail": "/thumbs/ce93f75934d0d127aa8236053475240e09000f7a.png"
+      "published_at": "2026-06-03T14:32:29.000Z",
+      "collected_at": "2026-06-04T06:06:10.111Z",
+      "thumbnail": "/thumbs/6c7bff329e7532f2658568ef29e765308d8146dd.png"
     }
   ]
 }
