@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-04T06:06:10.111Z",
+  "generated_at": "2026-06-05T05:46:28.017Z",
   "items": [
     {
-      "id": "a1bfb0c91edc170ab1fd5ca8df60f567e67ceac4",
-      "title": "tastyeffectco/沙盒",
-      "content": "具有预览URL的自托管开发沙箱。一个命令。没有Kubernetes ，非常适合编码代理和Saas工厂",
-      "summary": "具有预览URL的自托管开发沙箱。一个命令。没有Kubernetes ，非常适合编码代理和Saas工厂",
+      "id": "46a2d5b4bfa9fa740ea04dd41b0f131062bd9315",
+      "title": "veryyoldman/undress-ai-image-video-generator",
+      "content": "用于生成未经审查的图像和视频的人工智能工具",
+      "summary": "用于生成未经审查的图像和视频的人工智能工具",
       "source": "github",
-      "source_url": "https://github.com/tastyeffectco/sandboxes",
+      "source_url": "https://github.com/veryyoldman/undress-ai-image-video-generator",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-03T18:55:02.000Z",
-      "collected_at": "2026-06-04T06:06:08.198Z",
-      "thumbnail": "/thumbs/a1bfb0c91edc170ab1fd5ca8df60f567e67ceac4.png"
+      "published_at": "2026-06-05T00:25:02.000Z",
+      "collected_at": "2026-06-05T05:46:25.501Z",
+      "thumbnail": "/thumbs/46a2d5b4bfa9fa740ea04dd41b0f131062bd9315.png"
     },
     {
-      "id": "7cb6e3252808b9711569dfff50a668d026d5f06a",
-      "title": "GalaxyGeneral机器人/人形GPT",
-      "content": "[CVPR 2026] Humanoid-GPT ：用于零拍摄运动跟踪的缩放数据和结构",
-      "summary": "[CVPR 2026] Humanoid-GPT ：用于零拍摄运动跟踪的缩放数据和结构",
+      "id": "4f93d276659986abe788fc63b4c8dd074b9ffabf",
+      "title": "cellebrite-labs/ghidra-rpc",
+      "content": "Ghidra代理逆向工程技能。",
+      "summary": "Ghidra代理逆向工程技能。",
       "source": "github",
-      "source_url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
+      "source_url": "https://github.com/cellebrite-labs/ghidra-rpc",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-03T04:22:11.000Z",
-      "collected_at": "2026-06-04T06:06:08.839Z",
-      "thumbnail": "/thumbs/7cb6e3252808b9711569dfff50a668d026d5f06a.jpg"
+      "published_at": "2026-06-04T18:41:57.000Z",
+      "collected_at": "2026-06-05T05:46:26.265Z",
+      "thumbnail": "/thumbs/4f93d276659986abe788fc63b4c8dd074b9ffabf.png"
     },
     {
-      "id": "48ee17782f68a4aa66ec0107c75143d4bb656797",
-      "title": "razr001/align-dev",
-      "content": "AlignDev帮助人工智能辅助前端团队生成共享编码标准和SKILL.md ，以便Claude Code、Cursor、Copilot和其他代理一致地编写代码。",
-      "summary": "AlignDev帮助人工智能辅助前端团队生成共享编码标准和SKILL.md ，以便Claude Code、Cursor、Copilot和其他代理一致地编写代码。",
-      "source": "github",
-      "source_url": "https://github.com/razr001/align-dev",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-06-03T14:19:33.000Z",
-      "collected_at": "2026-06-04T06:06:09.837Z",
-      "thumbnail": "/thumbs/48ee17782f68a4aa66ec0107c75143d4bb656797.jpg"
-    },
-    {
-      "id": "6c7bff329e7532f2658568ef29e765308d8146dd",
-      "title": "stevibe/本地屏幕代理",
+      "id": "b219ee10c22fd6e6a540d16ec24d8e0f95804c02",
+      "title": "shbontour/notion-agent-cache",
       "content": "",
       "summary": "",
       "source": "github",
-      "source_url": "https://github.com/stevibe/local-screen-agent",
+      "source_url": "https://github.com/shbontour/notion-agent-cache",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-03T14:32:29.000Z",
-      "collected_at": "2026-06-04T06:06:10.111Z",
-      "thumbnail": "/thumbs/6c7bff329e7532f2658568ef29e765308d8146dd.png"
+      "published_at": "2026-06-04T12:22:02.000Z",
+      "collected_at": "2026-06-05T05:46:26.684Z",
+      "thumbnail": "/thumbs/b219ee10c22fd6e6a540d16ec24d8e0f95804c02.jpg"
+    },
+    {
+      "id": "6c55df11e634730e6aba2115e1533ded460faf2b",
+      "title": "Mrbaeksang/deepcloak",
+      "content": "本地首个深入研究代理，可读取整个网络，甚至包括Cloudflare、Datadome、Turnstile和reCAPTCHA背后的页面。Stealth fetch +引用的报告。MCP本地，麻省理工学院。",
+      "summary": "本地首个深入研究代理，可读取整个网络，甚至包括Cloudflare、Datadome、Turnstile和reCAPTCHA背后的页面。Stealth fetch +引用的报告。MCP本地，麻省理工学院。",
+      "source": "github",
+      "source_url": "https://github.com/Mrbaeksang/deepcloak",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-06-04T13:50:36.000Z",
+      "collected_at": "2026-06-05T05:46:28.017Z",
+      "thumbnail": "/thumbs/6c55df11e634730e6aba2115e1533ded460faf2b.jpg"
     }
   ]
 }
