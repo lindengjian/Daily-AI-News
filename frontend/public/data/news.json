@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-05T05:46:28.017Z",
+  "generated_at": "2026-06-06T05:04:03.524Z",
   "items": [
     {
-      "id": "46a2d5b4bfa9fa740ea04dd41b0f131062bd9315",
-      "title": "veryyoldman/undress-ai-image-video-generator",
-      "content": "用于生成未经审查的图像和视频的人工智能工具",
-      "summary": "用于生成未经审查的图像和视频的人工智能工具",
+      "id": "534ee86c5e20d5c5a8fb1be22d45568c582e0628",
+      "title": "CWS6206/ai-coding-starter-kit",
+      "content": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert。",
+      "summary": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert。",
       "source": "github",
-      "source_url": "https://github.com/veryyoldman/undress-ai-image-video-generator",
+      "source_url": "https://github.com/CWS6206/ai-coding-starter-kit",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-05T00:25:02.000Z",
-      "collected_at": "2026-06-05T05:46:25.501Z",
-      "thumbnail": "/thumbs/46a2d5b4bfa9fa740ea04dd41b0f131062bd9315.png"
+      "published_at": "2026-06-05T08:46:35.000Z",
+      "collected_at": "2026-06-06T05:04:00.576Z",
+      "thumbnail": "/thumbs/534ee86c5e20d5c5a8fb1be22d45568c582e0628.jpg"
     },
     {
-      "id": "4f93d276659986abe788fc63b4c8dd074b9ffabf",
-      "title": "cellebrite-labs/ghidra-rpc",
-      "content": "Ghidra代理逆向工程技能。",
-      "summary": "Ghidra代理逆向工程技能。",
+      "id": "57e759a4d10751fe3d4332ed84f676fcc81b527b",
+      "title": "lucifer1004/VeloQ",
+      "content": "代理友好的GPU配置文件查询CLI",
+      "summary": "代理友好的GPU配置文件查询CLI",
       "source": "github",
-      "source_url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "source_url": "https://github.com/lucifer1004/VeloQ",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-04T18:41:57.000Z",
-      "collected_at": "2026-06-05T05:46:26.265Z",
-      "thumbnail": "/thumbs/4f93d276659986abe788fc63b4c8dd074b9ffabf.png"
+      "published_at": "2026-06-05T01:14:24.000Z",
+      "collected_at": "2026-06-06T05:04:01.613Z",
+      "thumbnail": "/thumbs/57e759a4d10751fe3d4332ed84f676fcc81b527b.jpg"
     },
     {
-      "id": "b219ee10c22fd6e6a540d16ec24d8e0f95804c02",
-      "title": "shbontour/notion-agent-cache",
-      "content": "",
-      "summary": "",
+      "id": "4dcb24f613aba74d5f3a69cc56dffb52ea96b259",
+      "title": "Ronvaknins/ableton-extensions-技能",
+      "content": "教授AI编码代理如何使用Ableton扩展SDK （ @ ableton-extensions/sdk ， TypeScript ）脚手架、编写、构建和打包Ableton Live扩展的Agent技能。",
+      "summary": "教授AI编码代理如何使用Ableton扩展SDK （ @ ableton-extensions/sdk ， TypeScript ）脚手架、编写、构建和打包Ableton Live扩展的Agent技能。",
       "source": "github",
-      "source_url": "https://github.com/shbontour/notion-agent-cache",
+      "source_url": "https://github.com/Ronvaknins/ableton-extensions-skill",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-04T12:22:02.000Z",
-      "collected_at": "2026-06-05T05:46:26.684Z",
-      "thumbnail": "/thumbs/b219ee10c22fd6e6a540d16ec24d8e0f95804c02.jpg"
+      "published_at": "2026-06-05T07:38:50.000Z",
+      "collected_at": "2026-06-06T05:04:02.331Z",
+      "thumbnail": "/thumbs/4dcb24f613aba74d5f3a69cc56dffb52ea96b259.jpg"
     },
     {
-      "id": "6c55df11e634730e6aba2115e1533ded460faf2b",
-      "title": "Mrbaeksang/deepcloak",
-      "content": "本地首个深入研究代理，可读取整个网络，甚至包括Cloudflare、Datadome、Turnstile和reCAPTCHA背后的页面。Stealth fetch +引用的报告。MCP本地，麻省理工学院。",
-      "summary": "本地首个深入研究代理，可读取整个网络，甚至包括Cloudflare、Datadome、Turnstile和reCAPTCHA背后的页面。Stealth fetch +引用的报告。MCP本地，麻省理工学院。",
+      "id": "c4b3cd9c8ce0dbe9d16a50d4c8472f0203d2e9c8",
+      "title": "Elfocrash/技能",
+      "content": "我在代理编码过程中使用的技能",
+      "summary": "我在代理编码过程中使用的技能",
       "source": "github",
-      "source_url": "https://github.com/Mrbaeksang/deepcloak",
+      "source_url": "https://github.com/Elfocrash/skills",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-04T13:50:36.000Z",
-      "collected_at": "2026-06-05T05:46:28.017Z",
-      "thumbnail": "/thumbs/6c55df11e634730e6aba2115e1533ded460faf2b.jpg"
+      "published_at": "2026-06-05T07:41:12.000Z",
+      "collected_at": "2026-06-06T05:04:03.524Z",
+      "thumbnail": "/thumbs/c4b3cd9c8ce0dbe9d16a50d4c8472f0203d2e9c8.jpg"
     }
   ]
 }
