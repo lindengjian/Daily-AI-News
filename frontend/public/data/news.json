@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-06T05:04:03.524Z",
+  "generated_at": "2026-06-07T05:51:13.600Z",
   "items": [
     {
-      "id": "534ee86c5e20d5c5a8fb1be22d45568c582e0628",
-      "title": "CWS6206/ai-coding-starter-kit",
-      "content": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert。",
-      "summary": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert。",
+      "id": "66afa20832bad0ef712fc15add2d39b5908f7230",
+      "title": "trueugenee/ai-linux-webapp-wrapper",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "source_url": "https://github.com/trueugenee/ai-linux-webapp-wrapper",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-05T08:46:35.000Z",
-      "collected_at": "2026-06-06T05:04:00.576Z",
-      "thumbnail": "/thumbs/534ee86c5e20d5c5a8fb1be22d45568c582e0628.jpg"
+      "published_at": "2026-06-06T18:46:01.000Z",
+      "collected_at": "2026-06-07T05:51:11.319Z",
+      "thumbnail": "/thumbs/66afa20832bad0ef712fc15add2d39b5908f7230.png"
     },
     {
-      "id": "57e759a4d10751fe3d4332ed84f676fcc81b527b",
-      "title": "lucifer1004/VeloQ",
-      "content": "代理友好的GPU配置文件查询CLI",
-      "summary": "代理友好的GPU配置文件查询CLI",
+      "id": "acc41fe5ece871c65c2e4d6e836b6d040291e308",
+      "title": "12britz/awesome-free-models",
+      "content": "免费的人工智能模型、API和工具的精选列表，您无需支付一分钱即可使用。",
+      "summary": "免费的人工智能模型、API和工具的精选列表，您无需支付一分钱即可使用。",
       "source": "github",
-      "source_url": "https://github.com/lucifer1004/VeloQ",
+      "source_url": "https://github.com/12britz/awesome-free-models",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-05T01:14:24.000Z",
-      "collected_at": "2026-06-06T05:04:01.613Z",
-      "thumbnail": "/thumbs/57e759a4d10751fe3d4332ed84f676fcc81b527b.jpg"
+      "published_at": "2026-06-06T10:30:50.000Z",
+      "collected_at": "2026-06-07T05:51:12.032Z",
+      "thumbnail": "/thumbs/acc41fe5ece871c65c2e4d6e836b6d040291e308.jpg"
     },
     {
-      "id": "4dcb24f613aba74d5f3a69cc56dffb52ea96b259",
-      "title": "Ronvaknins/ableton-extensions-技能",
-      "content": "教授AI编码代理如何使用Ableton扩展SDK （ @ ableton-extensions/sdk ， TypeScript ）脚手架、编写、构建和打包Ableton Live扩展的Agent技能。",
-      "summary": "教授AI编码代理如何使用Ableton扩展SDK （ @ ableton-extensions/sdk ， TypeScript ）脚手架、编写、构建和打包Ableton Live扩展的Agent技能。",
+      "id": "751edd1ece674a4d8a9762b59817fe0e0c8f9e9c",
+      "title": "JimLiu/baoyu-design",
+      "content": "作为代理技能在本地运行Claude Design —光标、Claude Code等。无需claude.ai/design ，即可将精美的UI模型、原型、卡组和线框生成为独立的HTML。最好使用Opus 4.8。",
+      "summary": "作为代理技能在本地运行Claude Design —光标、Claude Code等。无需claude.ai/design ，即可将精美的UI模型、原型、卡组和线框生成为独立的HTML。最好使用Opus 4.8。",
       "source": "github",
-      "source_url": "https://github.com/Ronvaknins/ableton-extensions-skill",
+      "source_url": "https://github.com/JimLiu/baoyu-design",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-05T07:38:50.000Z",
-      "collected_at": "2026-06-06T05:04:02.331Z",
-      "thumbnail": "/thumbs/4dcb24f613aba74d5f3a69cc56dffb52ea96b259.jpg"
+      "published_at": "2026-06-07T01:16:18.000Z",
+      "collected_at": "2026-06-07T05:51:12.763Z",
+      "thumbnail": "/thumbs/751edd1ece674a4d8a9762b59817fe0e0c8f9e9c.jpg"
     },
     {
-      "id": "c4b3cd9c8ce0dbe9d16a50d4c8472f0203d2e9c8",
-      "title": "Elfocrash/技能",
-      "content": "我在代理编码过程中使用的技能",
-      "summary": "我在代理编码过程中使用的技能",
+      "id": "e875085bdc6d9b3325f9e8feca969b83513158c6",
+      "title": "Anthropic-Claude-Mythos/Claude-Mythos-AI-App",
+      "content": "Claude Mythos AI Anthropic App桌面免费专业版前端客户端API包装Claude 3.5 Sonnet Opus LLM聊天机器人角色扮演越狱未经审查的角色提示模板",
+      "summary": "Claude Mythos AI Anthropic App桌面免费专业版前端客户端API包装Claude 3.5 Sonnet Opus LLM聊天机器人角色扮演越狱未经审查的角色提示模板",
       "source": "github",
-      "source_url": "https://github.com/Elfocrash/skills",
+      "source_url": "https://github.com/Anthropic-Claude-Mythos/Claude-Mythos-AI-App",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-05T07:41:12.000Z",
-      "collected_at": "2026-06-06T05:04:03.524Z",
-      "thumbnail": "/thumbs/c4b3cd9c8ce0dbe9d16a50d4c8472f0203d2e9c8.jpg"
+      "published_at": "2026-06-06T17:35:13.000Z",
+      "collected_at": "2026-06-07T05:51:13.600Z",
+      "thumbnail": "/thumbs/e875085bdc6d9b3325f9e8feca969b83513158c6.jpg"
     }
   ]
 }
