@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-06-07T05:51:13.600Z",
+  "generated_at": "2026-06-08T06:05:39.992Z",
   "items": [
-    {
-      "id": "66afa20832bad0ef712fc15add2d39b5908f7230",
-      "title": "trueugenee/ai-linux-webapp-wrapper",
-      "content": "",
-      "summary": "",
-      "source": "github",
-      "source_url": "https://github.com/trueugenee/ai-linux-webapp-wrapper",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-06-06T18:46:01.000Z",
-      "collected_at": "2026-06-07T05:51:11.319Z",
-      "thumbnail": "/thumbs/66afa20832bad0ef712fc15add2d39b5908f7230.png"
-    },
-    {
-      "id": "acc41fe5ece871c65c2e4d6e836b6d040291e308",
-      "title": "12britz/awesome-free-models",
-      "content": "免费的人工智能模型、API和工具的精选列表，您无需支付一分钱即可使用。",
-      "summary": "免费的人工智能模型、API和工具的精选列表，您无需支付一分钱即可使用。",
-      "source": "github",
-      "source_url": "https://github.com/12britz/awesome-free-models",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-06-06T10:30:50.000Z",
-      "collected_at": "2026-06-07T05:51:12.032Z",
-      "thumbnail": "/thumbs/acc41fe5ece871c65c2e4d6e836b6d040291e308.jpg"
-    },
     {
       "id": "751edd1ece674a4d8a9762b59817fe0e0c8f9e9c",
       "title": "JimLiu/baoyu-design",
@@ -37,21 +11,47 @@
       "embed_url": null,
       "media_type": "article",
       "published_at": "2026-06-07T01:16:18.000Z",
-      "collected_at": "2026-06-07T05:51:12.763Z",
+      "collected_at": "2026-06-08T06:05:37.633Z",
       "thumbnail": "/thumbs/751edd1ece674a4d8a9762b59817fe0e0c8f9e9c.jpg"
     },
     {
-      "id": "e875085bdc6d9b3325f9e8feca969b83513158c6",
-      "title": "Anthropic-Claude-Mythos/Claude-Mythos-AI-App",
+      "id": "e3dfaa212d877f06b024a4b4a9c8d07cbba3d4b0",
+      "title": "ridgekhanice/undress-ai-image-video-generator",
+      "content": "专为Windows设计的易于使用的人工智能图像和视频生成工具",
+      "summary": "专为Windows设计的易于使用的人工智能图像和视频生成工具",
+      "source": "github",
+      "source_url": "https://github.com/ridgekhanice/undress-ai-image-video-generator",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-06-07T08:05:21.000Z",
+      "collected_at": "2026-06-08T06:05:38.344Z",
+      "thumbnail": "/thumbs/e3dfaa212d877f06b024a4b4a9c8d07cbba3d4b0.png"
+    },
+    {
+      "id": "88ae795fa7bd757e9f681ca38dd224851336d40d",
+      "title": "GordenSun/GordenSuperPPT技能",
+      "content": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "summary": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "source": "github",
+      "source_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-06-07T16:20:13.000Z",
+      "collected_at": "2026-06-08T06:05:39.260Z",
+      "thumbnail": "/thumbs/88ae795fa7bd757e9f681ca38dd224851336d40d.png"
+    },
+    {
+      "id": "abd28fe257e1ae70db2de941db9150fe2bcffacd",
+      "title": "Dimensiontashop/Claude-Mythos-AI-App",
       "content": "Claude Mythos AI Anthropic App桌面免费专业版前端客户端API包装Claude 3.5 Sonnet Opus LLM聊天机器人角色扮演越狱未经审查的角色提示模板",
       "summary": "Claude Mythos AI Anthropic App桌面免费专业版前端客户端API包装Claude 3.5 Sonnet Opus LLM聊天机器人角色扮演越狱未经审查的角色提示模板",
       "source": "github",
-      "source_url": "https://github.com/Anthropic-Claude-Mythos/Claude-Mythos-AI-App",
+      "source_url": "https://github.com/Dimensiontashop/Claude-Mythos-AI-App",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-06T17:35:13.000Z",
-      "collected_at": "2026-06-07T05:51:13.600Z",
-      "thumbnail": "/thumbs/e875085bdc6d9b3325f9e8feca969b83513158c6.jpg"
+      "published_at": "2026-06-07T16:39:25.000Z",
+      "collected_at": "2026-06-08T06:05:39.992Z",
+      "thumbnail": "/thumbs/abd28fe257e1ae70db2de941db9150fe2bcffacd.png"
     }
   ]
 }
