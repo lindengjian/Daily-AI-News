@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-08T06:05:39.992Z",
+  "generated_at": "2026-06-09T05:16:06.090Z",
   "items": [
     {
-      "id": "751edd1ece674a4d8a9762b59817fe0e0c8f9e9c",
-      "title": "JimLiu/baoyu-design",
-      "content": "作为代理技能在本地运行Claude Design —光标、Claude Code等。无需claude.ai/design ，即可将精美的UI模型、原型、卡组和线框生成为独立的HTML。最好使用Opus 4.8。",
-      "summary": "作为代理技能在本地运行Claude Design —光标、Claude Code等。无需claude.ai/design ，即可将精美的UI模型、原型、卡组和线框生成为独立的HTML。最好使用Opus 4.8。",
+      "id": "75321fe7897024742fa1cc7bc7822a8362e9ead8",
+      "title": "xiaohuailabs/xiaohu-video-translate",
+      "content": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "summary": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
       "source": "github",
-      "source_url": "https://github.com/JimLiu/baoyu-design",
+      "source_url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-07T01:16:18.000Z",
-      "collected_at": "2026-06-08T06:05:37.633Z",
-      "thumbnail": "/thumbs/751edd1ece674a4d8a9762b59817fe0e0c8f9e9c.jpg"
+      "published_at": "2026-06-08T09:55:55.000Z",
+      "collected_at": "2026-06-09T05:16:03.067Z",
+      "thumbnail": "/thumbs/75321fe7897024742fa1cc7bc7822a8362e9ead8.png"
     },
     {
-      "id": "e3dfaa212d877f06b024a4b4a9c8d07cbba3d4b0",
-      "title": "ridgekhanice/undress-ai-image-video-generator",
-      "content": "专为Windows设计的易于使用的人工智能图像和视频生成工具",
-      "summary": "专为Windows设计的易于使用的人工智能图像和视频生成工具",
+      "id": "8a4e5dbef5fdd0c4a6cc9a3c98b820d677073669",
+      "title": "apple/coreai-models",
+      "content": "用于设备上AI的模型导出配方、Python原语和Swift运行时实用程序",
+      "summary": "用于设备上AI的模型导出配方、Python原语和Swift运行时实用程序",
       "source": "github",
-      "source_url": "https://github.com/ridgekhanice/undress-ai-image-video-generator",
+      "source_url": "https://github.com/apple/coreai-models",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-07T08:05:21.000Z",
-      "collected_at": "2026-06-08T06:05:38.344Z",
-      "thumbnail": "/thumbs/e3dfaa212d877f06b024a4b4a9c8d07cbba3d4b0.png"
+      "published_at": "2026-06-08T04:32:27.000Z",
+      "collected_at": "2026-06-09T05:16:03.750Z",
+      "thumbnail": "/thumbs/8a4e5dbef5fdd0c4a6cc9a3c98b820d677073669.jpg"
     },
     {
-      "id": "88ae795fa7bd757e9f681ca38dd224851336d40d",
-      "title": "GordenSun/GordenSuperPPT技能",
-      "content": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "summary": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "id": "3d5454fb3efa5e5382e8a86ebc1195673f049976",
+      "title": "Regert888/gpt-outlook-register",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "source_url": "https://github.com/Regert888/gpt-outlook-register",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-07T16:20:13.000Z",
-      "collected_at": "2026-06-08T06:05:39.260Z",
-      "thumbnail": "/thumbs/88ae795fa7bd757e9f681ca38dd224851336d40d.png"
+      "published_at": "2026-06-08T01:37:06.000Z",
+      "collected_at": "2026-06-09T05:16:04.072Z",
+      "thumbnail": "/thumbs/3d5454fb3efa5e5382e8a86ebc1195673f049976.jpg"
     },
     {
-      "id": "abd28fe257e1ae70db2de941db9150fe2bcffacd",
-      "title": "Dimensiontashop/Claude-Mythos-AI-App",
-      "content": "Claude Mythos AI Anthropic App桌面免费专业版前端客户端API包装Claude 3.5 Sonnet Opus LLM聊天机器人角色扮演越狱未经审查的角色提示模板",
-      "summary": "Claude Mythos AI Anthropic App桌面免费专业版前端客户端API包装Claude 3.5 Sonnet Opus LLM聊天机器人角色扮演越狱未经审查的角色提示模板",
+      "id": "82751cdee5cefbf996a09b52212d404d4d1382dc",
+      "title": "borhen68/TokenTamer",
+      "content": "一种插入式代理，可实时压缩臃肿的代码上下文，将LLM API成本降低50–80% ，而不会丢失模型实际需要知道的内容。",
+      "summary": "一种插入式代理，可实时压缩臃肿的代码上下文，将LLM API成本降低50–80% ，而不会丢失模型实际需要知道的内容。",
       "source": "github",
-      "source_url": "https://github.com/Dimensiontashop/Claude-Mythos-AI-App",
+      "source_url": "https://github.com/borhen68/TokenTamer",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-07T16:39:25.000Z",
-      "collected_at": "2026-06-08T06:05:39.992Z",
-      "thumbnail": "/thumbs/abd28fe257e1ae70db2de941db9150fe2bcffacd.png"
+      "published_at": "2026-06-08T11:25:21.000Z",
+      "collected_at": "2026-06-09T05:16:06.090Z",
+      "thumbnail": "/thumbs/82751cdee5cefbf996a09b52212d404d4d1382dc.jpg"
     }
   ]
 }
