@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-09T05:16:06.090Z",
+  "generated_at": "2026-06-10T05:47:13.683Z",
   "items": [
     {
-      "id": "75321fe7897024742fa1cc7bc7822a8362e9ead8",
-      "title": "xiaohuailabs/xiaohu-video-translate",
-      "content": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "summary": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "source": "github",
-      "source_url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-06-08T09:55:55.000Z",
-      "collected_at": "2026-06-09T05:16:03.067Z",
-      "thumbnail": "/thumbs/75321fe7897024742fa1cc7bc7822a8362e9ead8.png"
-    },
-    {
-      "id": "8a4e5dbef5fdd0c4a6cc9a3c98b820d677073669",
-      "title": "apple/coreai-models",
-      "content": "用于设备上AI的模型导出配方、Python原语和Swift运行时实用程序",
-      "summary": "用于设备上AI的模型导出配方、Python原语和Swift运行时实用程序",
-      "source": "github",
-      "source_url": "https://github.com/apple/coreai-models",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-06-08T04:32:27.000Z",
-      "collected_at": "2026-06-09T05:16:03.750Z",
-      "thumbnail": "/thumbs/8a4e5dbef5fdd0c4a6cc9a3c98b820d677073669.jpg"
-    },
-    {
-      "id": "3d5454fb3efa5e5382e8a86ebc1195673f049976",
-      "title": "Regert888/gpt-outlook-register",
+      "id": "f2cc4631d8ea6e28dc3046902c71fff6a09694f8",
+      "title": "jmmy9609-design/gpt-pp",
       "content": "",
       "summary": "",
       "source": "github",
-      "source_url": "https://github.com/Regert888/gpt-outlook-register",
+      "source_url": "https://github.com/jmmy9609-design/gpt-pp",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-08T01:37:06.000Z",
-      "collected_at": "2026-06-09T05:16:04.072Z",
-      "thumbnail": "/thumbs/3d5454fb3efa5e5382e8a86ebc1195673f049976.jpg"
+      "published_at": "2026-06-09T11:05:36.000Z",
+      "collected_at": "2026-06-10T05:47:11.790Z",
+      "thumbnail": "/thumbs/f2cc4631d8ea6e28dc3046902c71fff6a09694f8.png"
     },
     {
-      "id": "82751cdee5cefbf996a09b52212d404d4d1382dc",
-      "title": "borhen68/TokenTamer",
-      "content": "一种插入式代理，可实时压缩臃肿的代码上下文，将LLM API成本降低50–80% ，而不会丢失模型实际需要知道的内容。",
-      "summary": "一种插入式代理，可实时压缩臃肿的代码上下文，将LLM API成本降低50–80% ，而不会丢失模型实际需要知道的内容。",
+      "id": "26a62e531d3ccd6ae1ace53a51c6cf77aca815b4",
+      "title": "valkor-ai/织机",
+      "content": "一种开放式交付工具，可将Claude Code、Codex、OpenCode和其他编码代理转化为可重复的软件交付系统。",
+      "summary": "一种开放式交付工具，可将Claude Code、Codex、OpenCode和其他编码代理转化为可重复的软件交付系统。",
       "source": "github",
-      "source_url": "https://github.com/borhen68/TokenTamer",
+      "source_url": "https://github.com/valkor-ai/loom",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-08T11:25:21.000Z",
-      "collected_at": "2026-06-09T05:16:06.090Z",
-      "thumbnail": "/thumbs/82751cdee5cefbf996a09b52212d404d4d1382dc.jpg"
+      "published_at": "2026-06-09T03:46:34.000Z",
+      "collected_at": "2026-06-10T05:47:12.718Z",
+      "thumbnail": "/thumbs/26a62e531d3ccd6ae1ace53a51c6cf77aca815b4.png"
+    },
+    {
+      "id": "3999573020d3de1b0a1c7a440468b620886ab5ab",
+      "title": "kanna12580/kk-knowledge-agent",
+      "content": "轻量级知识库系统，支持知识库管理、文本/txt 上传、语义检索、流式返回，并将检索能力封装为 MCP Server，供 Agent 调用。",
+      "summary": "轻量级知识库系统，支持知识库管理、文本/txt 上传、语义检索、流式返回，并将检索能力封装为 MCP Server，供 Agent 调用。",
+      "source": "github",
+      "source_url": "https://github.com/kanna12580/kk-knowledge-agent",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-06-09T02:54:46.000Z",
+      "collected_at": "2026-06-10T05:47:13.154Z",
+      "thumbnail": "/thumbs/3999573020d3de1b0a1c7a440468b620886ab5ab.jpg"
+    },
+    {
+      "id": "1239d509076b3fb05059f152346332376549f748",
+      "title": "轩辕之峰/ai-video-agent",
+      "content": "AI生成图片轮播视频和HTML动画视频",
+      "summary": "AI生成图片轮播视频和HTML动画视频",
+      "source": "github",
+      "source_url": "https://github.com/xuanyuanzhifeng/ai-video-agent",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-06-09T06:44:23.000Z",
+      "collected_at": "2026-06-10T05:47:13.683Z",
+      "thumbnail": "/thumbs/1239d509076b3fb05059f152346332376549f748.jpg"
     }
   ]
 }
