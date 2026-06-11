@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-10T05:47:13.683Z",
+  "generated_at": "2026-06-11T06:04:49.709Z",
   "items": [
     {
-      "id": "f2cc4631d8ea6e28dc3046902c71fff6a09694f8",
-      "title": "jmmy9609-design/gpt-pp",
-      "content": "",
-      "summary": "",
+      "id": "c351b58b5dfbf9d483a4296ec75d607b05655b1a",
+      "title": "AI-NextGenApps/AI-IMG-VID-App",
+      "content": "The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free credits waiting - https://tinyurl.com/ai-nextgen",
+      "summary": "The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free credits waiting - https://tinyurl.com/ai-nextgen",
       "source": "github",
-      "source_url": "https://github.com/jmmy9609-design/gpt-pp",
+      "source_url": "https://github.com/AI-NextGenApps/AI-IMG-VID-App",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-09T11:05:36.000Z",
-      "collected_at": "2026-06-10T05:47:11.790Z",
-      "thumbnail": "/thumbs/f2cc4631d8ea6e28dc3046902c71fff6a09694f8.png"
+      "published_at": "2026-06-10T06:08:21.000Z",
+      "collected_at": "2026-06-11T06:04:24.624Z",
+      "thumbnail": "/thumbs/c351b58b5dfbf9d483a4296ec75d607b05655b1a.png"
     },
     {
-      "id": "26a62e531d3ccd6ae1ace53a51c6cf77aca815b4",
-      "title": "valkor-ai/织机",
-      "content": "一种开放式交付工具，可将Claude Code、Codex、OpenCode和其他编码代理转化为可重复的软件交付系统。",
-      "summary": "一种开放式交付工具，可将Claude Code、Codex、OpenCode和其他编码代理转化为可重复的软件交付系统。",
+      "id": "b47cf3219ebf9269d07e54b9b847564cfe2fa2b6",
+      "title": "SkyBlue997/enableMacosAI",
+      "content": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "summary": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
       "source": "github",
-      "source_url": "https://github.com/valkor-ai/loom",
+      "source_url": "https://github.com/SkyBlue997/enableMacosAI",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-09T03:46:34.000Z",
-      "collected_at": "2026-06-10T05:47:12.718Z",
-      "thumbnail": "/thumbs/26a62e531d3ccd6ae1ace53a51c6cf77aca815b4.png"
+      "published_at": "2026-06-10T13:23:39.000Z",
+      "collected_at": "2026-06-11T06:04:29.648Z",
+      "thumbnail": "/thumbs/b47cf3219ebf9269d07e54b9b847564cfe2fa2b6.jpg"
     },
     {
-      "id": "3999573020d3de1b0a1c7a440468b620886ab5ab",
-      "title": "kanna12580/kk-knowledge-agent",
-      "content": "轻量级知识库系统，支持知识库管理、文本/txt 上传、语义检索、流式返回，并将检索能力封装为 MCP Server，供 Agent 调用。",
-      "summary": "轻量级知识库系统，支持知识库管理、文本/txt 上传、语义检索、流式返回，并将检索能力封装为 MCP Server，供 Agent 调用。",
+      "id": "150a4acd1be2eeefeb8699992c31f7916e366986",
+      "title": "orange2ai/orange-line-illustration",
+      "content": "🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
+      "summary": "🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
       "source": "github",
-      "source_url": "https://github.com/kanna12580/kk-knowledge-agent",
+      "source_url": "https://github.com/orange2ai/orange-line-illustration",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-09T02:54:46.000Z",
-      "collected_at": "2026-06-10T05:47:13.154Z",
-      "thumbnail": "/thumbs/3999573020d3de1b0a1c7a440468b620886ab5ab.jpg"
+      "published_at": "2026-06-10T23:58:59.000Z",
+      "collected_at": "2026-06-11T06:04:39.680Z",
+      "thumbnail": "/thumbs/150a4acd1be2eeefeb8699992c31f7916e366986.png"
     },
     {
-      "id": "1239d509076b3fb05059f152346332376549f748",
-      "title": "轩辕之峰/ai-video-agent",
-      "content": "AI生成图片轮播视频和HTML动画视频",
-      "summary": "AI生成图片轮播视频和HTML动画视频",
+      "id": "a3568441c5be356d7e901a6c64cebea78a173d33",
+      "title": "BuilderIO/skills",
+      "content": "Skills for coding agents",
+      "summary": "Skills for coding agents",
       "source": "github",
-      "source_url": "https://github.com/xuanyuanzhifeng/ai-video-agent",
+      "source_url": "https://github.com/BuilderIO/skills",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-09T06:44:23.000Z",
-      "collected_at": "2026-06-10T05:47:13.683Z",
-      "thumbnail": "/thumbs/1239d509076b3fb05059f152346332376549f748.jpg"
+      "published_at": "2026-06-10T16:04:20.000Z",
+      "collected_at": "2026-06-11T06:04:49.709Z",
+      "thumbnail": "/thumbs/a3568441c5be356d7e901a6c64cebea78a173d33.png"
     }
   ]
 }
