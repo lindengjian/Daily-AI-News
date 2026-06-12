@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-11T06:04:49.709Z",
+  "generated_at": "2026-06-12T05:59:49.485Z",
   "items": [
     {
-      "id": "c351b58b5dfbf9d483a4296ec75d607b05655b1a",
-      "title": "AI-NextGenApps/AI-IMG-VID-App",
-      "content": "The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free credits waiting - https://tinyurl.com/ai-nextgen",
-      "summary": "The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free credits waiting - https://tinyurl.com/ai-nextgen",
+      "id": "dbd5adafc40739487d3203587de8fb38bbf92997",
+      "title": "DietrichGebert/马尾辫",
+      "content": "让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
+      "summary": "让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
       "source": "github",
-      "source_url": "https://github.com/AI-NextGenApps/AI-IMG-VID-App",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-10T06:08:21.000Z",
-      "collected_at": "2026-06-11T06:04:24.624Z",
-      "thumbnail": "/thumbs/c351b58b5dfbf9d483a4296ec75d607b05655b1a.png"
+      "published_at": "2026-06-12T00:52:37.000Z",
+      "collected_at": "2026-06-12T05:59:47.238Z",
+      "thumbnail": "/thumbs/dbd5adafc40739487d3203587de8fb38bbf92997.png"
     },
     {
-      "id": "b47cf3219ebf9269d07e54b9b847564cfe2fa2b6",
-      "title": "SkyBlue997/enableMacosAI",
-      "content": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "summary": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "id": "5d84da29f416f4dc18a8e176df7eb5d6abc46e76",
+      "title": "recursive-org/first-steps-toward-automated-ai-research",
+      "content": "Recursive自动化人工智能研究系统的研究制品",
+      "summary": "Recursive自动化人工智能研究系统的研究制品",
       "source": "github",
-      "source_url": "https://github.com/SkyBlue997/enableMacosAI",
+      "source_url": "https://github.com/recursive-org/first-steps-toward-automated-ai-research",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-10T13:23:39.000Z",
-      "collected_at": "2026-06-11T06:04:29.648Z",
-      "thumbnail": "/thumbs/b47cf3219ebf9269d07e54b9b847564cfe2fa2b6.jpg"
+      "published_at": "2026-06-11T07:53:35.000Z",
+      "collected_at": "2026-06-12T05:59:47.984Z",
+      "thumbnail": "/thumbs/5d84da29f416f4dc18a8e176df7eb5d6abc46e76.png"
     },
     {
-      "id": "150a4acd1be2eeefeb8699992c31f7916e366986",
-      "title": "orange2ai/orange-line-illustration",
-      "content": "🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
-      "summary": "🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
+      "id": "8e84e074574080e0054866806890d4244f3019e5",
+      "title": "desktop-hermes/hermes-agent-desktop",
+      "content": "Hermes Desktop github nous research hermes ai agent local ai ollama github下载开源PC Windows应用安装设置工作区llm模型运行时",
+      "summary": "Hermes Desktop github nous research hermes ai agent local ai ollama github下载开源PC Windows应用安装设置工作区llm模型运行时",
       "source": "github",
-      "source_url": "https://github.com/orange2ai/orange-line-illustration",
+      "source_url": "https://github.com/desktop-hermes/hermes-agent-desktop",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-10T23:58:59.000Z",
-      "collected_at": "2026-06-11T06:04:39.680Z",
-      "thumbnail": "/thumbs/150a4acd1be2eeefeb8699992c31f7916e366986.png"
+      "published_at": "2026-06-11T17:34:17.000Z",
+      "collected_at": "2026-06-12T05:59:48.735Z",
+      "thumbnail": "/thumbs/8e84e074574080e0054866806890d4244f3019e5.png"
     },
     {
-      "id": "a3568441c5be356d7e901a6c64cebea78a173d33",
-      "title": "BuilderIO/skills",
-      "content": "Skills for coding agents",
-      "summary": "Skills for coding agents",
+      "id": "d2ed01ce7e82bf6be1ee956dddf9ed9e76fb8753",
+      "title": "eadmin2/jarvis_ai",
+      "content": "爱马仕经纪人专用钢铁侠式语音助手+全息HUD。Local Whisper STT ， ElevenLabs语音，代理召唤的媒体面板，在您自己的硬件上运行。",
+      "summary": "爱马仕经纪人专用钢铁侠式语音助手+全息HUD。Local Whisper STT ， ElevenLabs语音，代理召唤的媒体面板，在您自己的硬件上运行。",
       "source": "github",
-      "source_url": "https://github.com/BuilderIO/skills",
+      "source_url": "https://github.com/eadmin2/jarvis_ai",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-10T16:04:20.000Z",
-      "collected_at": "2026-06-11T06:04:49.709Z",
-      "thumbnail": "/thumbs/a3568441c5be356d7e901a6c64cebea78a173d33.png"
+      "published_at": "2026-06-11T16:23:24.000Z",
+      "collected_at": "2026-06-12T05:59:49.485Z",
+      "thumbnail": "/thumbs/d2ed01ce7e82bf6be1ee956dddf9ed9e76fb8753.png"
     }
   ]
 }
