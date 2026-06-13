@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T05:59:49.485Z",
+  "generated_at": "2026-06-13T05:44:58.059Z",
   "items": [
     {
       "id": "dbd5adafc40739487d3203587de8fb38bbf92997",
@@ -11,47 +11,47 @@
       "embed_url": null,
       "media_type": "article",
       "published_at": "2026-06-12T00:52:37.000Z",
-      "collected_at": "2026-06-12T05:59:47.238Z",
+      "collected_at": "2026-06-13T05:44:56.409Z",
       "thumbnail": "/thumbs/dbd5adafc40739487d3203587de8fb38bbf92997.png"
     },
     {
-      "id": "5d84da29f416f4dc18a8e176df7eb5d6abc46e76",
-      "title": "recursive-org/first-steps-toward-automated-ai-research",
-      "content": "Recursive自动化人工智能研究系统的研究制品",
-      "summary": "Recursive自动化人工智能研究系统的研究制品",
+      "id": "293a344334cbd9b61c6312c8d58a6cd4b21abc24",
+      "title": "DanMcInerney/建筑师循环",
+      "content": "Claude Fable 5作为架构师， GPT-5.5 Codex作为构建者，存储库作为内存-研究支持的跨供应商代理循环的Claude Code技能",
+      "summary": "Claude Fable 5作为架构师， GPT-5.5 Codex作为构建者，存储库作为内存-研究支持的跨供应商代理循环的Claude Code技能",
       "source": "github",
-      "source_url": "https://github.com/recursive-org/first-steps-toward-automated-ai-research",
+      "source_url": "https://github.com/DanMcInerney/architect-loop",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-11T07:53:35.000Z",
-      "collected_at": "2026-06-12T05:59:47.984Z",
-      "thumbnail": "/thumbs/5d84da29f416f4dc18a8e176df7eb5d6abc46e76.png"
+      "published_at": "2026-06-12T01:54:12.000Z",
+      "collected_at": "2026-06-13T05:44:57.102Z",
+      "thumbnail": "/thumbs/293a344334cbd9b61c6312c8d58a6cd4b21abc24.jpg"
     },
     {
-      "id": "8e84e074574080e0054866806890d4244f3019e5",
-      "title": "desktop-hermes/hermes-agent-desktop",
-      "content": "Hermes Desktop github nous research hermes ai agent local ai ollama github下载开源PC Windows应用安装设置工作区llm模型运行时",
-      "summary": "Hermes Desktop github nous research hermes ai agent local ai ollama github下载开源PC Windows应用安装设置工作区llm模型运行时",
+      "id": "77c156a87ab7796833539094e54612cb3df43bea",
+      "title": "orange2ai/renwei-writing",
+      "content": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "summary": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
       "source": "github",
-      "source_url": "https://github.com/desktop-hermes/hermes-agent-desktop",
+      "source_url": "https://github.com/orange2ai/renwei-writing",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-11T17:34:17.000Z",
-      "collected_at": "2026-06-12T05:59:48.735Z",
-      "thumbnail": "/thumbs/8e84e074574080e0054866806890d4244f3019e5.png"
+      "published_at": "2026-06-12T21:45:48.000Z",
+      "collected_at": "2026-06-13T05:44:57.370Z",
+      "thumbnail": "/thumbs/77c156a87ab7796833539094e54612cb3df43bea.png"
     },
     {
-      "id": "d2ed01ce7e82bf6be1ee956dddf9ed9e76fb8753",
-      "title": "eadmin2/jarvis_ai",
-      "content": "爱马仕经纪人专用钢铁侠式语音助手+全息HUD。Local Whisper STT ， ElevenLabs语音，代理召唤的媒体面板，在您自己的硬件上运行。",
-      "summary": "爱马仕经纪人专用钢铁侠式语音助手+全息HUD。Local Whisper STT ， ElevenLabs语音，代理召唤的媒体面板，在您自己的硬件上运行。",
+      "id": "3420585aa663b0630483d715c9b2c0320b0f693a",
+      "title": "bozhouDev/xhs-article-to-images",
+      "content": "专员协助的Markdown文章-小红书图片卡片工作流程",
+      "summary": "专员协助的Markdown文章-小红书图片卡片工作流程",
       "source": "github",
-      "source_url": "https://github.com/eadmin2/jarvis_ai",
+      "source_url": "https://github.com/bozhouDev/xhs-article-to-images",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-11T16:23:24.000Z",
-      "collected_at": "2026-06-12T05:59:49.485Z",
-      "thumbnail": "/thumbs/d2ed01ce7e82bf6be1ee956dddf9ed9e76fb8753.png"
+      "published_at": "2026-06-12T02:26:39.000Z",
+      "collected_at": "2026-06-13T05:44:58.059Z",
+      "thumbnail": "/thumbs/3420585aa663b0630483d715c9b2c0320b0f693a.png"
     }
   ]
 }
