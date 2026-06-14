@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-13T05:44:58.059Z",
+  "generated_at": "2026-06-14T06:04:10.642Z",
   "items": [
     {
-      "id": "dbd5adafc40739487d3203587de8fb38bbf92997",
-      "title": "DietrichGebert/马尾辫",
-      "content": "让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
-      "summary": "让你的人工智能代理像房间里最懒惰的高级开发人员一样思考。最好的代码是你从未写过的代码。",
+      "id": "407c05dff1734d91f436fd2507b2aee4e6ad84cc",
+      "title": "eli-labz/第三眼",
+      "content": "生产级OSINT平台，提供跨多个情报领域的态势感知。",
+      "summary": "生产级OSINT平台，提供跨多个情报领域的态势感知。",
       "source": "github",
-      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "source_url": "https://github.com/eli-labz/Third-Eye",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-12T00:52:37.000Z",
-      "collected_at": "2026-06-13T05:44:56.409Z",
-      "thumbnail": "/thumbs/dbd5adafc40739487d3203587de8fb38bbf92997.png"
+      "published_at": "2026-06-13T03:15:46.000Z",
+      "collected_at": "2026-06-14T06:04:07.858Z",
+      "thumbnail": "/thumbs/407c05dff1734d91f436fd2507b2aee4e6ad84cc.jpg"
     },
     {
-      "id": "293a344334cbd9b61c6312c8d58a6cd4b21abc24",
-      "title": "DanMcInerney/建筑师循环",
-      "content": "Claude Fable 5作为架构师， GPT-5.5 Codex作为构建者，存储库作为内存-研究支持的跨供应商代理循环的Claude Code技能",
-      "summary": "Claude Fable 5作为架构师， GPT-5.5 Codex作为构建者，存储库作为内存-研究支持的跨供应商代理循环的Claude Code技能",
+      "id": "64ab28b24dbc3becd50e90a7b67da9615549ed1a",
+      "title": "mrtooher/fable-mode",
+      "content": "激活寓言式智能体行为的Claude技能：明确的多阶段计划、子智能体委派和自我验证。",
+      "summary": "激活寓言式智能体行为的Claude技能：明确的多阶段计划、子智能体委派和自我验证。",
       "source": "github",
-      "source_url": "https://github.com/DanMcInerney/architect-loop",
+      "source_url": "https://github.com/mrtooher/fable-mode",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-12T01:54:12.000Z",
-      "collected_at": "2026-06-13T05:44:57.102Z",
-      "thumbnail": "/thumbs/293a344334cbd9b61c6312c8d58a6cd4b21abc24.jpg"
+      "published_at": "2026-06-13T05:33:14.000Z",
+      "collected_at": "2026-06-14T06:04:08.620Z",
+      "thumbnail": "/thumbs/64ab28b24dbc3becd50e90a7b67da9615549ed1a.png"
     },
     {
-      "id": "77c156a87ab7796833539094e54612cb3df43bea",
-      "title": "orange2ai/renwei-writing",
-      "content": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "summary": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "id": "ab1c80fe12f8f3860e5e9b3603d630a66918a30f",
+      "title": "sgup/ai",
+      "content": "与AI编码代理合作的笔记和操作配置文件。",
+      "summary": "与AI编码代理合作的笔记和操作配置文件。",
       "source": "github",
-      "source_url": "https://github.com/orange2ai/renwei-writing",
+      "source_url": "https://github.com/sgup/ai",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-12T21:45:48.000Z",
-      "collected_at": "2026-06-13T05:44:57.370Z",
-      "thumbnail": "/thumbs/77c156a87ab7796833539094e54612cb3df43bea.png"
+      "published_at": "2026-06-13T09:43:34.000Z",
+      "collected_at": "2026-06-14T06:04:09.828Z",
+      "thumbnail": "/thumbs/ab1c80fe12f8f3860e5e9b3603d630a66918a30f.jpg"
     },
     {
-      "id": "3420585aa663b0630483d715c9b2c0320b0f693a",
-      "title": "bozhouDev/xhs-article-to-images",
-      "content": "专员协助的Markdown文章-小红书图片卡片工作流程",
-      "summary": "专员协助的Markdown文章-小红书图片卡片工作流程",
+      "id": "6a172ea937bc42367ab2b80cbd4e3a95dcbee717",
+      "title": "duolahypercho/fusion-fable",
+      "content": "将两个前沿模型融合成一个寓言层答案： Opus 4.8草稿，第二个模型（ Opus 4.8或GPT-5.5通过Codex ）检查， Opus FUSES。Claude Code技能。",
+      "summary": "将两个前沿模型融合成一个寓言层答案： Opus 4.8草稿，第二个模型（ Opus 4.8或GPT-5.5通过Codex ）检查， Opus FUSES。Claude Code技能。",
       "source": "github",
-      "source_url": "https://github.com/bozhouDev/xhs-article-to-images",
+      "source_url": "https://github.com/duolahypercho/fusion-fable",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-12T02:26:39.000Z",
-      "collected_at": "2026-06-13T05:44:58.059Z",
-      "thumbnail": "/thumbs/3420585aa663b0630483d715c9b2c0320b0f693a.png"
+      "published_at": "2026-06-13T23:24:39.000Z",
+      "collected_at": "2026-06-14T06:04:10.642Z",
+      "thumbnail": "/thumbs/6a172ea937bc42367ab2b80cbd4e3a95dcbee717.jpg"
     }
   ]
 }
