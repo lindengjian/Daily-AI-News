@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-15T06:36:53.222Z",
+  "generated_at": "2026-06-16T06:42:31.349Z",
   "items": [
     {
-      "id": "4e1a859d8f25099ce777e432d6a6844d6cf95f26",
-      "title": "gykim80/perfectpixel-studio",
-      "content": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "summary": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "id": "40902c01df8632b23fb9c231356dbe829697de89",
+      "title": "东蜀堰/指南针技能",
+      "content": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "summary": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
       "source": "github",
-      "source_url": "https://github.com/gykim80/perfectpixel-studio",
+      "source_url": "https://github.com/dongshuyan/compass-skills",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-14T04:23:45.000Z",
-      "collected_at": "2026-06-15T06:36:52.117Z",
-      "thumbnail": "/thumbs/4e1a859d8f25099ce777e432d6a6844d6cf95f26.png"
+      "published_at": "2026-06-15T06:28:04.000Z",
+      "collected_at": "2026-06-16T06:42:28.960Z",
+      "thumbnail": "/thumbs/40902c01df8632b23fb9c231356dbe829697de89.jpg"
     },
     {
-      "id": "846c4f9bcdb2ec8c8873345502dfe1dfed7253f7",
-      "title": "baskduf/FableCodex",
-      "content": "🧑🏿‍💻 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-      "summary": "🧑🏿‍💻 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "id": "322b54821183b82187b864882b35fe6b2e624f3e",
+      "title": "renee-jia/scholar-loop",
+      "content": "自主的人工智能科学家：对文献、实验、自我批评和写作的多智能体循环，具有针对奖励黑客和幻觉的确定性警卫。",
+      "summary": "自主的人工智能科学家：对文献、实验、自我批评和写作的多智能体循环，具有针对奖励黑客和幻觉的确定性警卫。",
       "source": "github",
-      "source_url": "https://github.com/baskduf/FableCodex",
+      "source_url": "https://github.com/renee-jia/scholar-loop",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-14T13:11:00.000Z",
-      "collected_at": "2026-06-15T06:36:52.487Z",
-      "thumbnail": "/thumbs/846c4f9bcdb2ec8c8873345502dfe1dfed7253f7.jpg"
+      "published_at": "2026-06-15T04:50:58.000Z",
+      "collected_at": "2026-06-16T06:42:29.735Z",
+      "thumbnail": "/thumbs/322b54821183b82187b864882b35fe6b2e624f3e.jpg"
     },
     {
-      "id": "8b6ea46bb1530b55d95f24852162ec8de112366b",
-      "title": "majidmanzarpour/threejs-game-skills",
-      "content": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-      "summary": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "id": "6bbf7fd283bbee900412905aa33dcbf85a784222",
+      "title": "nik1t7n/research-craft-skill",
+      "content": "代理技能，实现更好的研究循环",
+      "summary": "代理技能，实现更好的研究循环",
       "source": "github",
-      "source_url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "source_url": "https://github.com/nik1t7n/research-craft-skill",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-14T04:06:26.000Z",
-      "collected_at": "2026-06-15T06:36:52.808Z",
-      "thumbnail": "/thumbs/8b6ea46bb1530b55d95f24852162ec8de112366b.png"
+      "published_at": "2026-06-15T02:09:57.000Z",
+      "collected_at": "2026-06-16T06:42:30.411Z",
+      "thumbnail": "/thumbs/6bbf7fd283bbee900412905aa33dcbf85a784222.jpg"
     },
     {
-      "id": "cf9a4512918eab7deef40c9ba1d805f4ac99f66d",
-      "title": "Jeidoban/Ironsmith",
-      "content": "Create personal Mac apps instantly with on-device and cloud LLMs",
-      "summary": "Create personal Mac apps instantly with on-device and cloud LLMs",
+      "id": "aaa8faff0df4794247af9c4d0439a3719a143708",
+      "title": "shreyashankar/plain-writing-skill",
+      "content": "人工智能代理的简单语言写作技能，具有显示更改内容的修订视图。",
+      "summary": "人工智能代理的简单语言写作技能，具有显示更改内容的修订视图。",
       "source": "github",
-      "source_url": "https://github.com/Jeidoban/Ironsmith",
+      "source_url": "https://github.com/shreyashankar/plain-writing-skill",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-14T00:11:35.000Z",
-      "collected_at": "2026-06-15T06:36:53.222Z",
-      "thumbnail": "/thumbs/cf9a4512918eab7deef40c9ba1d805f4ac99f66d.jpg"
+      "published_at": "2026-06-15T23:49:32.000Z",
+      "collected_at": "2026-06-16T06:42:31.349Z",
+      "thumbnail": "/thumbs/aaa8faff0df4794247af9c4d0439a3719a143708.jpg"
     }
   ]
 }
