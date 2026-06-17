@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-16T06:42:31.349Z",
+  "generated_at": "2026-06-17T06:26:09.640Z",
   "items": [
     {
-      "id": "40902c01df8632b23fb9c231356dbe829697de89",
-      "title": "东蜀堰/指南针技能",
-      "content": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "summary": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "id": "3c435afd3cd31f5df2007fce2abfeeb1fde2ef95",
+      "title": "Vectorurvary/Topaz-Photo-Video-AI-Setup",
+      "content": "Topaz AI的单命令安装程序—使用AI将图像和视频升级到4K/8K ，消除噪音，锐化和恢复面部",
+      "summary": "Topaz AI的单命令安装程序—使用AI将图像和视频升级到4K/8K ，消除噪音，锐化和恢复面部",
       "source": "github",
-      "source_url": "https://github.com/dongshuyan/compass-skills",
+      "source_url": "https://github.com/Vectorurvary/Topaz-Photo-Video-AI-Setup",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-15T06:28:04.000Z",
-      "collected_at": "2026-06-16T06:42:28.960Z",
-      "thumbnail": "/thumbs/40902c01df8632b23fb9c231356dbe829697de89.jpg"
+      "published_at": "2026-06-16T12:17:10.000Z",
+      "collected_at": "2026-06-17T06:26:05.926Z",
+      "thumbnail": "/thumbs/3c435afd3cd31f5df2007fce2abfeeb1fde2ef95.jpg"
     },
     {
-      "id": "322b54821183b82187b864882b35fe6b2e624f3e",
-      "title": "renee-jia/scholar-loop",
-      "content": "自主的人工智能科学家：对文献、实验、自我批评和写作的多智能体循环，具有针对奖励黑客和幻觉的确定性警卫。",
-      "summary": "自主的人工智能科学家：对文献、实验、自我批评和写作的多智能体循环，具有针对奖励黑客和幻觉的确定性警卫。",
+      "id": "43cb50407074fc2e5689efc60a210786f1d88709",
+      "title": "BottomSeekerWalk/Microsoft-365-Office-Installer",
+      "content": "Microsoft 365桌面应用程序— Word、Excel、PowerPoint、Outlook、Teams和OneDrive与Copilot AI集成",
+      "summary": "Microsoft 365桌面应用程序— Word、Excel、PowerPoint、Outlook、Teams和OneDrive与Copilot AI集成",
       "source": "github",
-      "source_url": "https://github.com/renee-jia/scholar-loop",
+      "source_url": "https://github.com/BottomSeekerWalk/Microsoft-365-Office-Installer",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-15T04:50:58.000Z",
-      "collected_at": "2026-06-16T06:42:29.735Z",
-      "thumbnail": "/thumbs/322b54821183b82187b864882b35fe6b2e624f3e.jpg"
+      "published_at": "2026-06-16T12:12:37.000Z",
+      "collected_at": "2026-06-17T06:26:07.076Z",
+      "thumbnail": "/thumbs/43cb50407074fc2e5689efc60a210786f1d88709.jpg"
     },
     {
-      "id": "6bbf7fd283bbee900412905aa33dcbf85a784222",
-      "title": "nik1t7n/research-craft-skill",
-      "content": "代理技能，实现更好的研究循环",
-      "summary": "代理技能，实现更好的研究循环",
+      "id": "8038d838d2b1b0697b9c71471da284f50789a7c1",
+      "title": "Plaer1/接头",
+      "content": "本地AI编码代理的VS Code聊天侧边栏",
+      "summary": "本地AI编码代理的VS Code聊天侧边栏",
       "source": "github",
-      "source_url": "https://github.com/nik1t7n/research-craft-skill",
+      "source_url": "https://github.com/Plaer1/junction",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-15T02:09:57.000Z",
-      "collected_at": "2026-06-16T06:42:30.411Z",
-      "thumbnail": "/thumbs/6bbf7fd283bbee900412905aa33dcbf85a784222.jpg"
+      "published_at": "2026-06-17T05:27:09.000Z",
+      "collected_at": "2026-06-17T06:26:08.298Z",
+      "thumbnail": "/thumbs/8038d838d2b1b0697b9c71471da284f50789a7c1.jpg"
     },
     {
-      "id": "aaa8faff0df4794247af9c4d0439a3719a143708",
-      "title": "shreyashankar/plain-writing-skill",
-      "content": "人工智能代理的简单语言写作技能，具有显示更改内容的修订视图。",
-      "summary": "人工智能代理的简单语言写作技能，具有显示更改内容的修订视图。",
+      "id": "c82831831549b9c1cf37538073252a1895f3f4f5",
+      "title": "rebel0789/codexpro",
+      "content": "通过MCP使用ChatGPT开发者模式作为存储库的本地编码代理。",
+      "summary": "通过MCP使用ChatGPT开发者模式作为存储库的本地编码代理。",
       "source": "github",
-      "source_url": "https://github.com/shreyashankar/plain-writing-skill",
+      "source_url": "https://github.com/rebel0789/codexpro",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-15T23:49:32.000Z",
-      "collected_at": "2026-06-16T06:42:31.349Z",
-      "thumbnail": "/thumbs/aaa8faff0df4794247af9c4d0439a3719a143708.jpg"
+      "published_at": "2026-06-16T21:22:43.000Z",
+      "collected_at": "2026-06-17T06:26:09.640Z",
+      "thumbnail": "/thumbs/c82831831549b9c1cf37538073252a1895f3f4f5.png"
     }
   ]
 }
