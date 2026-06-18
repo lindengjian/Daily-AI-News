@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:26:09.640Z",
+  "generated_at": "2026-06-18T06:08:14.322Z",
   "items": [
-    {
-      "id": "3c435afd3cd31f5df2007fce2abfeeb1fde2ef95",
-      "title": "Vectorurvary/Topaz-Photo-Video-AI-Setup",
-      "content": "Topaz AI的单命令安装程序—使用AI将图像和视频升级到4K/8K ，消除噪音，锐化和恢复面部",
-      "summary": "Topaz AI的单命令安装程序—使用AI将图像和视频升级到4K/8K ，消除噪音，锐化和恢复面部",
-      "source": "github",
-      "source_url": "https://github.com/Vectorurvary/Topaz-Photo-Video-AI-Setup",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-06-16T12:17:10.000Z",
-      "collected_at": "2026-06-17T06:26:05.926Z",
-      "thumbnail": "/thumbs/3c435afd3cd31f5df2007fce2abfeeb1fde2ef95.jpg"
-    },
-    {
-      "id": "43cb50407074fc2e5689efc60a210786f1d88709",
-      "title": "BottomSeekerWalk/Microsoft-365-Office-Installer",
-      "content": "Microsoft 365桌面应用程序— Word、Excel、PowerPoint、Outlook、Teams和OneDrive与Copilot AI集成",
-      "summary": "Microsoft 365桌面应用程序— Word、Excel、PowerPoint、Outlook、Teams和OneDrive与Copilot AI集成",
-      "source": "github",
-      "source_url": "https://github.com/BottomSeekerWalk/Microsoft-365-Office-Installer",
-      "embed_url": null,
-      "media_type": "article",
-      "published_at": "2026-06-16T12:12:37.000Z",
-      "collected_at": "2026-06-17T06:26:07.076Z",
-      "thumbnail": "/thumbs/43cb50407074fc2e5689efc60a210786f1d88709.jpg"
-    },
     {
       "id": "8038d838d2b1b0697b9c71471da284f50789a7c1",
       "title": "Plaer1/接头",
@@ -37,21 +11,47 @@
       "embed_url": null,
       "media_type": "article",
       "published_at": "2026-06-17T05:27:09.000Z",
-      "collected_at": "2026-06-17T06:26:08.298Z",
+      "collected_at": "2026-06-18T06:08:11.779Z",
       "thumbnail": "/thumbs/8038d838d2b1b0697b9c71471da284f50789a7c1.jpg"
     },
     {
-      "id": "c82831831549b9c1cf37538073252a1895f3f4f5",
-      "title": "rebel0789/codexpro",
-      "content": "通过MCP使用ChatGPT开发者模式作为存储库的本地编码代理。",
-      "summary": "通过MCP使用ChatGPT开发者模式作为存储库的本地编码代理。",
+      "id": "cc81d92ec11440bd6085a9d3c8b069938a2ab0d3",
+      "title": "TrenchesofChirac/claude-fable-5-free-desktop-app",
+      "content": "claude fable 5 free anthropic mythos class large language model llm chatbot free api access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial",
+      "summary": "claude fable 5 free anthropic mythos class large language model llm chatbot free api access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial",
       "source": "github",
-      "source_url": "https://github.com/rebel0789/codexpro",
+      "source_url": "https://github.com/TrenchesofChirac/claude-fable-5-free-desktop-app",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-16T21:22:43.000Z",
-      "collected_at": "2026-06-17T06:26:09.640Z",
-      "thumbnail": "/thumbs/c82831831549b9c1cf37538073252a1895f3f4f5.png"
+      "published_at": "2026-06-17T16:52:26.000Z",
+      "collected_at": "2026-06-18T06:08:12.871Z",
+      "thumbnail": "/thumbs/cc81d92ec11440bd6085a9d3c8b069938a2ab0d3.png"
+    },
+    {
+      "id": "1049b9211a980c9d7d817a715549ba1f13a95a31",
+      "title": "wellwelwel/blue-spec",
+      "content": "🌊 Blue Spec是安全驱动强化（ SDH ）的工具包，这是一种防御性工作流程，可帮助人工智能代理检测系统的功能并强化重要的防御。",
+      "summary": "🌊 Blue Spec是安全驱动强化（ SDH ）的工具包，这是一种防御性工作流程，可帮助人工智能代理检测系统的功能并强化重要的防御。",
+      "source": "github",
+      "source_url": "https://github.com/wellwelwel/blue-spec",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-06-17T21:19:02.000Z",
+      "collected_at": "2026-06-18T06:08:13.682Z",
+      "thumbnail": "/thumbs/1049b9211a980c9d7d817a715549ba1f13a95a31.png"
+    },
+    {
+      "id": "821e720d17585756b170d362679df70b7622ff80",
+      "title": "HankLEE-1/AI-Guardian",
+      "content": "基于Agent驱动的网络安全流量监控与分析平台，下一代AI驱动的安全运营协作平台 — 智能告警研判、资产关联、协同处置与自动化报告生成，为护网行动增添一把利器。",
+      "summary": "基于Agent驱动的网络安全流量监控与分析平台，下一代AI驱动的安全运营协作平台 — 智能告警研判、资产关联、协同处置与自动化报告生成，为护网行动增添一把利器。",
+      "source": "github",
+      "source_url": "https://github.com/HankLEE-1/AI-Guardian",
+      "embed_url": null,
+      "media_type": "article",
+      "published_at": "2026-06-17T02:04:59.000Z",
+      "collected_at": "2026-06-18T06:08:14.322Z",
+      "thumbnail": "/thumbs/821e720d17585756b170d362679df70b7622ff80.jpg"
     }
   ]
 }
