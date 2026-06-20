@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-19T06:29:44.379Z",
+  "generated_at": "2026-06-20T05:42:33.946Z",
   "items": [
     {
-      "id": "cdd9f299775f33ab1504162c5d7851b10f55cb0b",
-      "title": "alkhudarigroupuae/PumpFun-Trainer_V1",
-      "content": "先进的人工智能驱动的Solana meme硬币交易实用程序，具有狙击手、自动销售、MEV保护、多钱包、警报和价格监控功能。",
-      "summary": "先进的人工智能驱动的Solana meme硬币交易实用程序，具有狙击手、自动销售、MEV保护、多钱包、警报和价格监控功能。",
+      "id": "e7a68c84cdb6dec8706378f17bedce33a8869a97",
+      "title": "joeseesun/qiaomu-llm-mcp",
+      "content": "把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions.",
+      "summary": "把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions.",
       "source": "github",
-      "source_url": "https://github.com/alkhudarigroupuae/PumpFun-Trainer_V1",
+      "source_url": "https://github.com/joeseesun/qiaomu-llm-mcp",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-18T18:33:00.000Z",
-      "collected_at": "2026-06-19T06:29:42.792Z",
-      "thumbnail": "/thumbs/cdd9f299775f33ab1504162c5d7851b10f55cb0b.jpg"
+      "published_at": "2026-06-19T03:27:42.000Z",
+      "collected_at": "2026-06-20T05:42:31.077Z",
+      "thumbnail": "/thumbs/e7a68c84cdb6dec8706378f17bedce33a8869a97.png"
     },
     {
-      "id": "7f81c551d55b096c92a04ca06d8f584282f5dc4b",
-      "title": "hbddevos/PumpFun-Trainer_V1",
-      "content": "先进的人工智能驱动的Solana meme硬币交易实用程序，具有狙击手、自动销售、MEV保护、多钱包、警报和价格监控功能。",
-      "summary": "先进的人工智能驱动的Solana meme硬币交易实用程序，具有狙击手、自动销售、MEV保护、多钱包、警报和价格监控功能。",
+      "id": "a1681bf549fa5443504cf4a2c8b81a6adbeb2861",
+      "title": "fivetaku/llm-wiki",
+      "content": "原始소스를Claude Code가 위키로 합성·유지하는 영구 마크다운 지식베이스 템플릿 （ LLM Wiki ， Karpathy 패턴）",
+      "summary": "原始소스를Claude Code가 위키로 합성·유지하는 영구 마크다운 지식베이스 템플릿 （ LLM Wiki ， Karpathy 패턴）",
       "source": "github",
-      "source_url": "https://github.com/hbddevos/PumpFun-Trainer_V1",
+      "source_url": "https://github.com/fivetaku/llm-wiki",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-18T18:33:01.000Z",
-      "collected_at": "2026-06-19T06:29:43.234Z",
-      "thumbnail": "/thumbs/7f81c551d55b096c92a04ca06d8f584282f5dc4b.jpg"
+      "published_at": "2026-06-19T09:08:30.000Z",
+      "collected_at": "2026-06-20T05:42:31.785Z",
+      "thumbnail": "/thumbs/a1681bf549fa5443504cf4a2c8b81a6adbeb2861.jpg"
     },
     {
-      "id": "0e67240df81f44cb5d8299b905131429051ebe93",
-      "title": "abdokhalil5555/AgenticDeFi-Trainer",
-      "content": "具有x402自动执行钱包的自主AI Agent Swarm框架。授权LLM驱动的代理商在没有人为干预的情况下交易、桥接和管理加密货币。2026年终极Agentic DeFi工具包。",
-      "summary": "具有x402自动执行钱包的自主AI Agent Swarm框架。授权LLM驱动的代理商在没有人为干预的情况下交易、桥接和管理加密货币。2026年终极Agentic DeFi工具包。",
+      "id": "726c7c7da72bef87c7cba47ca075d0913f7f3383",
+      "title": "zyn26/minimax-m3-desktop-app-free-api",
+      "content": "minimax m3 free model ai model free api large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face api access local llm推理",
+      "summary": "minimax m3 free model ai model free api large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face api access local llm推理",
       "source": "github",
-      "source_url": "https://github.com/abdokhalil5555/AgenticDeFi-Trainer",
+      "source_url": "https://github.com/zyn26/minimax-m3-desktop-app-free-api",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-18T15:02:39.000Z",
-      "collected_at": "2026-06-19T06:29:43.968Z",
-      "thumbnail": "/thumbs/0e67240df81f44cb5d8299b905131429051ebe93.png"
+      "published_at": "2026-06-19T17:33:34.000Z",
+      "collected_at": "2026-06-20T05:42:32.964Z",
+      "thumbnail": "/thumbs/726c7c7da72bef87c7cba47ca075d0913f7f3383.jpg"
     },
     {
-      "id": "90c779d95392a99befbcc73698f022c66f1a6de1",
-      "title": "IACKuchau/AgenticDeFi-Trainer",
-      "content": "具有x402自动执行钱包的自主AI Agent Swarm框架。授权LLM驱动的代理商在没有人为干预的情况下交易、桥接和管理加密货币。2026年终极Agentic DeFi工具包。",
-      "summary": "具有x402自动执行钱包的自主AI Agent Swarm框架。授权LLM驱动的代理商在没有人为干预的情况下交易、桥接和管理加密货币。2026年终极Agentic DeFi工具包。",
+      "id": "b605ad2035b207caf24b5bb9fa8280d556840b26",
+      "title": "briliwar0/glm-5.2-free-desktop-app",
+      "content": "glm 5.2 free z.ai llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup windows macos linux",
+      "summary": "glm 5.2 free z.ai llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup windows macos linux",
       "source": "github",
-      "source_url": "https://github.com/IACKuchau/AgenticDeFi-Trainer",
+      "source_url": "https://github.com/briliwar0/glm-5.2-free-desktop-app",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-18T15:02:39.000Z",
-      "collected_at": "2026-06-19T06:29:44.379Z",
-      "thumbnail": "/thumbs/90c779d95392a99befbcc73698f022c66f1a6de1.jpg"
+      "published_at": "2026-06-19T17:19:19.000Z",
+      "collected_at": "2026-06-20T05:42:33.946Z",
+      "thumbnail": "/thumbs/b605ad2035b207caf24b5bb9fa8280d556840b26.png"
     }
   ]
 }
