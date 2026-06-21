@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-20T05:42:33.946Z",
+  "generated_at": "2026-06-21T06:17:04.139Z",
   "items": [
     {
-      "id": "e7a68c84cdb6dec8706378f17bedce33a8869a97",
-      "title": "joeseesun/qiaomu-llm-mcp",
-      "content": "把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions.",
-      "summary": "把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions.",
+      "id": "a5fdec96d009c7d17cd7f4b13002fe05c9da9111",
+      "title": "itssosunny/im-not-strange-ai",
+      "content": "",
+      "summary": "",
       "source": "github",
-      "source_url": "https://github.com/joeseesun/qiaomu-llm-mcp",
+      "source_url": "https://github.com/itssosunny/im-not-strange-ai",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-19T03:27:42.000Z",
-      "collected_at": "2026-06-20T05:42:31.077Z",
-      "thumbnail": "/thumbs/e7a68c84cdb6dec8706378f17bedce33a8869a97.png"
+      "published_at": "2026-06-20T00:46:34.000Z",
+      "collected_at": "2026-06-21T06:17:01.971Z",
+      "thumbnail": "/thumbs/a5fdec96d009c7d17cd7f4b13002fe05c9da9111.png"
     },
     {
-      "id": "a1681bf549fa5443504cf4a2c8b81a6adbeb2861",
-      "title": "fivetaku/llm-wiki",
-      "content": "原始소스를Claude Code가 위키로 합성·유지하는 영구 마크다운 지식베이스 템플릿 （ LLM Wiki ， Karpathy 패턴）",
-      "summary": "原始소스를Claude Code가 위키로 합성·유지하는 영구 마크다운 지식베이스 템플릿 （ LLM Wiki ， Karpathy 패턴）",
+      "id": "561777f491760f1f21361a75a34fcd9e892ecdf3",
+      "title": "lyra81604/zhengxi-views",
+      "content": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "summary": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "source": "github",
-      "source_url": "https://github.com/fivetaku/llm-wiki",
+      "source_url": "https://github.com/lyra81604/zhengxi-views",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-19T09:08:30.000Z",
-      "collected_at": "2026-06-20T05:42:31.785Z",
-      "thumbnail": "/thumbs/a1681bf549fa5443504cf4a2c8b81a6adbeb2861.jpg"
+      "published_at": "2026-06-20T04:27:07.000Z",
+      "collected_at": "2026-06-21T06:17:02.291Z",
+      "thumbnail": "/thumbs/561777f491760f1f21361a75a34fcd9e892ecdf3.jpg"
     },
     {
-      "id": "726c7c7da72bef87c7cba47ca075d0913f7f3383",
-      "title": "zyn26/minimax-m3-desktop-app-free-api",
-      "content": "minimax m3 free model ai model free api large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face api access local llm推理",
-      "summary": "minimax m3 free model ai model free api large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face api access local llm推理",
+      "id": "eb2c23fc06b5f3cb7762f3f7e1a445045828cff4",
+      "title": "dikurdikur/palmier-pro-windows",
+      "content": "Palmier Pro AI视频编辑器macOS windows时间线多轨NLE素材模型上下文协议MCP服务器代理Claude Cursor Swift SwiftUI AVFoundation故事板音频专业版金属自动化渲染fx",
+      "summary": "Palmier Pro AI视频编辑器macOS windows时间线多轨NLE素材模型上下文协议MCP服务器代理Claude Cursor Swift SwiftUI AVFoundation故事板音频专业版金属自动化渲染fx",
       "source": "github",
-      "source_url": "https://github.com/zyn26/minimax-m3-desktop-app-free-api",
+      "source_url": "https://github.com/dikurdikur/palmier-pro-windows",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-19T17:33:34.000Z",
-      "collected_at": "2026-06-20T05:42:32.964Z",
-      "thumbnail": "/thumbs/726c7c7da72bef87c7cba47ca075d0913f7f3383.jpg"
+      "published_at": "2026-06-20T17:09:00.000Z",
+      "collected_at": "2026-06-21T06:17:03.092Z",
+      "thumbnail": "/thumbs/eb2c23fc06b5f3cb7762f3f7e1a445045828cff4.png"
     },
     {
-      "id": "b605ad2035b207caf24b5bb9fa8280d556840b26",
-      "title": "briliwar0/glm-5.2-free-desktop-app",
-      "content": "glm 5.2 free z.ai llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup windows macos linux",
-      "summary": "glm 5.2 free z.ai llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup windows macos linux",
+      "id": "d905c341feadc2f807b05c8dfeab3a2d3a043dae",
+      "title": "cahyoilahi/deepseek-v4-pro-flash-desktop-app",
+      "content": "DeepSeek v4 Pro LLM MoE推理编码器代理推理权重gguf ollama vllm huggingface api客户端本地cuda nvidia基准上下文令牌Python量化pytorch聊天提示数学r1张量",
+      "summary": "DeepSeek v4 Pro LLM MoE推理编码器代理推理权重gguf ollama vllm huggingface api客户端本地cuda nvidia基准上下文令牌Python量化pytorch聊天提示数学r1张量",
       "source": "github",
-      "source_url": "https://github.com/briliwar0/glm-5.2-free-desktop-app",
+      "source_url": "https://github.com/cahyoilahi/deepseek-v4-pro-flash-desktop-app",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-19T17:19:19.000Z",
-      "collected_at": "2026-06-20T05:42:33.946Z",
-      "thumbnail": "/thumbs/b605ad2035b207caf24b5bb9fa8280d556840b26.png"
+      "published_at": "2026-06-20T17:39:17.000Z",
+      "collected_at": "2026-06-21T06:17:04.139Z",
+      "thumbnail": "/thumbs/d905c341feadc2f807b05c8dfeab3a2d3a043dae.jpg"
     }
   ]
 }
