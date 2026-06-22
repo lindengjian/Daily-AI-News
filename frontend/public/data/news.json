@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-21T06:17:04.139Z",
+  "generated_at": "2026-06-22T06:40:12.402Z",
   "items": [
     {
-      "id": "a5fdec96d009c7d17cd7f4b13002fe05c9da9111",
-      "title": "itssosunny/im-not-strange-ai",
-      "content": "",
-      "summary": "",
+      "id": "1aab3a631829c5dbb6d50629ce4beed2a351adf9",
+      "title": "tianjiangqiji/nova-image-studio",
+      "content": "自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局",
+      "summary": "自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局",
       "source": "github",
-      "source_url": "https://github.com/itssosunny/im-not-strange-ai",
+      "source_url": "https://github.com/tianjiangqiji/nova-image-studio",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-20T00:46:34.000Z",
-      "collected_at": "2026-06-21T06:17:01.971Z",
-      "thumbnail": "/thumbs/a5fdec96d009c7d17cd7f4b13002fe05c9da9111.png"
+      "published_at": "2026-06-21T03:50:26.000Z",
+      "collected_at": "2026-06-22T06:40:10.249Z",
+      "thumbnail": "/thumbs/1aab3a631829c5dbb6d50629ce4beed2a351adf9.jpg"
     },
     {
-      "id": "561777f491760f1f21361a75a34fcd9e892ecdf3",
-      "title": "lyra81604/zhengxi-views",
-      "content": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "summary": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "id": "7f1708a03cf157723961f09e80d384b5953c8972",
+      "title": "Huxiaoyou97/ManvoTV",
+      "content": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
+      "summary": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
       "source": "github",
-      "source_url": "https://github.com/lyra81604/zhengxi-views",
+      "source_url": "https://github.com/Huxiaoyou97/ManvoTV",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-20T04:27:07.000Z",
-      "collected_at": "2026-06-21T06:17:02.291Z",
-      "thumbnail": "/thumbs/561777f491760f1f21361a75a34fcd9e892ecdf3.jpg"
+      "published_at": "2026-06-21T11:27:16.000Z",
+      "collected_at": "2026-06-22T06:40:10.873Z",
+      "thumbnail": "/thumbs/7f1708a03cf157723961f09e80d384b5953c8972.jpg"
     },
     {
-      "id": "eb2c23fc06b5f3cb7762f3f7e1a445045828cff4",
-      "title": "dikurdikur/palmier-pro-windows",
-      "content": "Palmier Pro AI视频编辑器macOS windows时间线多轨NLE素材模型上下文协议MCP服务器代理Claude Cursor Swift SwiftUI AVFoundation故事板音频专业版金属自动化渲染fx",
-      "summary": "Palmier Pro AI视频编辑器macOS windows时间线多轨NLE素材模型上下文协议MCP服务器代理Claude Cursor Swift SwiftUI AVFoundation故事板音频专业版金属自动化渲染fx",
+      "id": "83fd36e95e45e753b2c7e6705004008a8f455d16",
+      "title": "begin0808/LiveCaption",
+      "content": " 即時影音雙語字幕翻譯系統。本機離線 AI 語音辨識與翻譯，支援 SenseVoice、Ollama 與 DeepSeek。 | Real-time tab audio bilingual subtitle translation system using local ASR (SenseVoice) and LLMs (Ollama / DeepSeek). 100% offline & private.",
+      "summary": " 即時影音雙語字幕翻譯系統。本機離線 AI 語音辨識與翻譯，支援 SenseVoice、Ollama 與 DeepSeek。 | Real-time tab audio bilingual subtitle translation system using local ASR (SenseVoice) and LLMs (Ollama / DeepSeek). 100% offline & private.",
       "source": "github",
-      "source_url": "https://github.com/dikurdikur/palmier-pro-windows",
+      "source_url": "https://github.com/begin0808/LiveCaption",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-20T17:09:00.000Z",
-      "collected_at": "2026-06-21T06:17:03.092Z",
-      "thumbnail": "/thumbs/eb2c23fc06b5f3cb7762f3f7e1a445045828cff4.png"
+      "published_at": "2026-06-21T00:55:25.000Z",
+      "collected_at": "2026-06-22T06:40:11.595Z",
+      "thumbnail": "/thumbs/83fd36e95e45e753b2c7e6705004008a8f455d16.png"
     },
     {
-      "id": "d905c341feadc2f807b05c8dfeab3a2d3a043dae",
-      "title": "cahyoilahi/deepseek-v4-pro-flash-desktop-app",
-      "content": "DeepSeek v4 Pro LLM MoE推理编码器代理推理权重gguf ollama vllm huggingface api客户端本地cuda nvidia基准上下文令牌Python量化pytorch聊天提示数学r1张量",
-      "summary": "DeepSeek v4 Pro LLM MoE推理编码器代理推理权重gguf ollama vllm huggingface api客户端本地cuda nvidia基准上下文令牌Python量化pytorch聊天提示数学r1张量",
+      "id": "7b2f2980a83555f06635557a42de5fa12ed982c5",
+      "title": "Francis1998/nexus-llm-router",
+      "content": "具有任务感知路由策略、成本优化和生产安全控制的智能多LLM路由器—嵌入式OpenAI兼容API",
+      "summary": "具有任务感知路由策略、成本优化和生产安全控制的智能多LLM路由器—嵌入式OpenAI兼容API",
       "source": "github",
-      "source_url": "https://github.com/cahyoilahi/deepseek-v4-pro-flash-desktop-app",
+      "source_url": "https://github.com/Francis1998/nexus-llm-router",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-20T17:39:17.000Z",
-      "collected_at": "2026-06-21T06:17:04.139Z",
-      "thumbnail": "/thumbs/d905c341feadc2f807b05c8dfeab3a2d3a043dae.jpg"
+      "published_at": "2026-06-21T05:44:19.000Z",
+      "collected_at": "2026-06-22T06:40:12.402Z",
+      "thumbnail": "/thumbs/7b2f2980a83555f06635557a42de5fa12ed982c5.png"
     }
   ]
 }
