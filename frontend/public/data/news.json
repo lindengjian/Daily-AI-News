@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-22T06:40:12.402Z",
+  "generated_at": "2026-06-23T05:13:19.669Z",
   "items": [
     {
-      "id": "1aab3a631829c5dbb6d50629ce4beed2a351adf9",
-      "title": "tianjiangqiji/nova-image-studio",
-      "content": "自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局",
-      "summary": "自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局",
+      "id": "6ea3ee69ee6e04fcdccfe0b8be8bd33178fa70a6",
+      "title": "HKUDS/AgentSpace",
+      "content": "“AgentSpace ：人类+ Agent。一个团队，一个工作区\"",
+      "summary": "“AgentSpace ：人类+ Agent。一个团队，一个工作区\"",
       "source": "github",
-      "source_url": "https://github.com/tianjiangqiji/nova-image-studio",
+      "source_url": "https://github.com/HKUDS/AgentSpace",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-21T03:50:26.000Z",
-      "collected_at": "2026-06-22T06:40:10.249Z",
-      "thumbnail": "/thumbs/1aab3a631829c5dbb6d50629ce4beed2a351adf9.jpg"
+      "published_at": "2026-06-22T04:08:03.000Z",
+      "collected_at": "2026-06-23T05:13:17.003Z",
+      "thumbnail": "/thumbs/6ea3ee69ee6e04fcdccfe0b8be8bd33178fa70a6.jpg"
     },
     {
-      "id": "7f1708a03cf157723961f09e80d384b5953c8972",
-      "title": "Huxiaoyou97/ManvoTV",
-      "content": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
-      "summary": "Manvo TV — 想到什么就生成什么 · AI 原生创作平台(无限画布 + 漫剧剧本工厂) | https://manvo.tv",
+      "id": "b0901b8c68a11eab4ada2e06d338f09fafd21e78",
+      "title": "FieldofStrawberries/claude-code-fable-5-free-app",
+      "content": "claude fable 5免费api ai chatbot anthropic model chat online web api github下载桌面客户端访问高级帐户登录试用替代提示生成文本ui版本beta助手",
+      "summary": "claude fable 5免费api ai chatbot anthropic model chat online web api github下载桌面客户端访问高级帐户登录试用替代提示生成文本ui版本beta助手",
       "source": "github",
-      "source_url": "https://github.com/Huxiaoyou97/ManvoTV",
+      "source_url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-21T11:27:16.000Z",
-      "collected_at": "2026-06-22T06:40:10.873Z",
-      "thumbnail": "/thumbs/7f1708a03cf157723961f09e80d384b5953c8972.jpg"
+      "published_at": "2026-06-22T18:27:43.000Z",
+      "collected_at": "2026-06-23T05:13:17.882Z",
+      "thumbnail": "/thumbs/b0901b8c68a11eab4ada2e06d338f09fafd21e78.png"
     },
     {
-      "id": "83fd36e95e45e753b2c7e6705004008a8f455d16",
-      "title": "begin0808/LiveCaption",
-      "content": " 即時影音雙語字幕翻譯系統。本機離線 AI 語音辨識與翻譯，支援 SenseVoice、Ollama 與 DeepSeek。 | Real-time tab audio bilingual subtitle translation system using local ASR (SenseVoice) and LLMs (Ollama / DeepSeek). 100% offline & private.",
-      "summary": " 即時影音雙語字幕翻譯系統。本機離線 AI 語音辨識與翻譯，支援 SenseVoice、Ollama 與 DeepSeek。 | Real-time tab audio bilingual subtitle translation system using local ASR (SenseVoice) and LLMs (Ollama / DeepSeek). 100% offline & private.",
+      "id": "948ec3dc4cc1a7bba53ea6b119164999ac9bb986",
+      "title": "trotsky1997/OpenFugu",
+      "content": "打开Sakana Fugu的重新实现— “一个模型来指挥他们所有人” LLM编排器。阅读→RUN → TRAIN → SERVE。",
+      "summary": "打开Sakana Fugu的重新实现— “一个模型来指挥他们所有人” LLM编排器。阅读→RUN → TRAIN → SERVE。",
       "source": "github",
-      "source_url": "https://github.com/begin0808/LiveCaption",
+      "source_url": "https://github.com/trotsky1997/OpenFugu",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-21T00:55:25.000Z",
-      "collected_at": "2026-06-22T06:40:11.595Z",
-      "thumbnail": "/thumbs/83fd36e95e45e753b2c7e6705004008a8f455d16.png"
+      "published_at": "2026-06-22T11:37:21.000Z",
+      "collected_at": "2026-06-23T05:13:18.981Z",
+      "thumbnail": "/thumbs/948ec3dc4cc1a7bba53ea6b119164999ac9bb986.png"
     },
     {
-      "id": "7b2f2980a83555f06635557a42de5fa12ed982c5",
-      "title": "Francis1998/nexus-llm-router",
-      "content": "具有任务感知路由策略、成本优化和生产安全控制的智能多LLM路由器—嵌入式OpenAI兼容API",
-      "summary": "具有任务感知路由策略、成本优化和生产安全控制的智能多LLM路由器—嵌入式OpenAI兼容API",
+      "id": "b7b9f02b4e86609f5568be6b3ff2a78ad7f41823",
+      "title": "Johell1NS/浏览器搜索",
+      "content": "人工智能代理的技能：使用SearXNG搜索网页，使用Camofox浏览，使用CloakBrowser绕过保护。自托管、免费、无限制。",
+      "summary": "人工智能代理的技能：使用SearXNG搜索网页，使用Camofox浏览，使用CloakBrowser绕过保护。自托管、免费、无限制。",
       "source": "github",
-      "source_url": "https://github.com/Francis1998/nexus-llm-router",
+      "source_url": "https://github.com/Johell1NS/browser-search",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-21T05:44:19.000Z",
-      "collected_at": "2026-06-22T06:40:12.402Z",
-      "thumbnail": "/thumbs/7b2f2980a83555f06635557a42de5fa12ed982c5.png"
+      "published_at": "2026-06-22T13:43:13.000Z",
+      "collected_at": "2026-06-23T05:13:19.669Z",
+      "thumbnail": "/thumbs/b7b9f02b4e86609f5568be6b3ff2a78ad7f41823.png"
     }
   ]
 }
