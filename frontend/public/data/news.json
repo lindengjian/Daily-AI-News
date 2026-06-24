@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-23T05:13:19.669Z",
+  "generated_at": "2026-06-24T05:10:57.934Z",
   "items": [
     {
-      "id": "6ea3ee69ee6e04fcdccfe0b8be8bd33178fa70a6",
-      "title": "HKUDS/AgentSpace",
-      "content": "“AgentSpace ：人类+ Agent。一个团队，一个工作区\"",
-      "summary": "“AgentSpace ：人类+ Agent。一个团队，一个工作区\"",
+      "id": "f2f214bfd4b9ea9e1f74a8c9b58113e4837dc6ce",
+      "title": "goehou/tabbit-toy",
+      "content": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "summary": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
       "source": "github",
-      "source_url": "https://github.com/HKUDS/AgentSpace",
+      "source_url": "https://github.com/goehou/tabbit-toy",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-22T04:08:03.000Z",
-      "collected_at": "2026-06-23T05:13:17.003Z",
-      "thumbnail": "/thumbs/6ea3ee69ee6e04fcdccfe0b8be8bd33178fa70a6.jpg"
+      "published_at": "2026-06-23T03:37:12.000Z",
+      "collected_at": "2026-06-24T05:10:42.544Z",
+      "thumbnail": "/thumbs/f2f214bfd4b9ea9e1f74a8c9b58113e4837dc6ce.jpg"
     },
     {
-      "id": "b0901b8c68a11eab4ada2e06d338f09fafd21e78",
-      "title": "FieldofStrawberries/claude-code-fable-5-free-app",
-      "content": "claude fable 5免费api ai chatbot anthropic model chat online web api github下载桌面客户端访问高级帐户登录试用替代提示生成文本ui版本beta助手",
-      "summary": "claude fable 5免费api ai chatbot anthropic model chat online web api github下载桌面客户端访问高级帐户登录试用替代提示生成文本ui版本beta助手",
+      "id": "6ee0ccd96993a64f6c593d2478b55090fdad6a50",
+      "title": "Valorant-AI/Valorant-ai-aimbot-未检测到",
+      "content": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
+      "summary": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
       "source": "github",
-      "source_url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app",
+      "source_url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-22T18:27:43.000Z",
-      "collected_at": "2026-06-23T05:13:17.882Z",
-      "thumbnail": "/thumbs/b0901b8c68a11eab4ada2e06d338f09fafd21e78.png"
+      "published_at": "2026-06-23T18:48:45.000Z",
+      "collected_at": "2026-06-24T05:10:50.669Z",
+      "thumbnail": "/thumbs/6ee0ccd96993a64f6c593d2478b55090fdad6a50.png"
     },
     {
-      "id": "948ec3dc4cc1a7bba53ea6b119164999ac9bb986",
-      "title": "trotsky1997/OpenFugu",
-      "content": "打开Sakana Fugu的重新实现— “一个模型来指挥他们所有人” LLM编排器。阅读→RUN → TRAIN → SERVE。",
-      "summary": "打开Sakana Fugu的重新实现— “一个模型来指挥他们所有人” LLM编排器。阅读→RUN → TRAIN → SERVE。",
+      "id": "bed8e9882e778966f4cde89aa037949588ac89f6",
+      "title": "Simpl3x3/ESEILANE",
+      "content": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
+      "summary": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
       "source": "github",
-      "source_url": "https://github.com/trotsky1997/OpenFugu",
+      "source_url": "https://github.com/Simpl3x3/ESEILANE",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-22T11:37:21.000Z",
-      "collected_at": "2026-06-23T05:13:18.981Z",
-      "thumbnail": "/thumbs/948ec3dc4cc1a7bba53ea6b119164999ac9bb986.png"
+      "published_at": "2026-06-23T08:22:43.000Z",
+      "collected_at": "2026-06-24T05:10:56.547Z",
+      "thumbnail": "/thumbs/bed8e9882e778966f4cde89aa037949588ac89f6.jpg"
     },
     {
-      "id": "b7b9f02b4e86609f5568be6b3ff2a78ad7f41823",
-      "title": "Johell1NS/浏览器搜索",
-      "content": "人工智能代理的技能：使用SearXNG搜索网页，使用Camofox浏览，使用CloakBrowser绕过保护。自托管、免费、无限制。",
-      "summary": "人工智能代理的技能：使用SearXNG搜索网页，使用Camofox浏览，使用CloakBrowser绕过保护。自托管、免费、无限制。",
+      "id": "92ca285741d855a391da62db9699081336e2e2d3",
+      "title": "ObsidianOwl123/AgentLens",
+      "content": "LLM代理的轻量级AI上下文压缩器",
+      "summary": "LLM代理的轻量级AI上下文压缩器",
       "source": "github",
-      "source_url": "https://github.com/Johell1NS/browser-search",
+      "source_url": "https://github.com/ObsidianOwl123/AgentLens",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-22T13:43:13.000Z",
-      "collected_at": "2026-06-23T05:13:19.669Z",
-      "thumbnail": "/thumbs/b7b9f02b4e86609f5568be6b3ff2a78ad7f41823.png"
+      "published_at": "2026-06-23T10:22:51.000Z",
+      "collected_at": "2026-06-24T05:10:57.934Z",
+      "thumbnail": "/thumbs/92ca285741d855a391da62db9699081336e2e2d3.png"
     }
   ]
 }
