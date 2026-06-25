@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-24T05:10:57.934Z",
+  "generated_at": "2026-06-25T05:14:39.270Z",
   "items": [
     {
-      "id": "f2f214bfd4b9ea9e1f74a8c9b58113e4837dc6ce",
-      "title": "goehou/tabbit-toy",
-      "content": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "summary": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "id": "018f030d887310e5ac44880795c5a14e6dfcef7c",
+      "title": "benchflow-ai/awesome-evals",
+      "content": "一个精心策划的非BS资源库，其中包含用于构建和评估人工智能代理的最佳资源--论文、博客、讲座、工具、基准。由BenchFlow维护。",
+      "summary": "一个精心策划的非BS资源库，其中包含用于构建和评估人工智能代理的最佳资源--论文、博客、讲座、工具、基准。由BenchFlow维护。",
       "source": "github",
-      "source_url": "https://github.com/goehou/tabbit-toy",
+      "source_url": "https://github.com/benchflow-ai/awesome-evals",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-23T03:37:12.000Z",
-      "collected_at": "2026-06-24T05:10:42.544Z",
-      "thumbnail": "/thumbs/f2f214bfd4b9ea9e1f74a8c9b58113e4837dc6ce.jpg"
+      "published_at": "2026-06-24T08:10:33.000Z",
+      "collected_at": "2026-06-25T05:14:35.858Z",
+      "thumbnail": "/thumbs/018f030d887310e5ac44880795c5a14e6dfcef7c.png"
     },
     {
-      "id": "6ee0ccd96993a64f6c593d2478b55090fdad6a50",
-      "title": "Valorant-AI/Valorant-ai-aimbot-未检测到",
-      "content": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
-      "summary": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
+      "id": "fcb08deef6d4086c4313dcfbf5f7f52d0252375d",
+      "title": "benlamiro/ShipGenAI",
+      "content": "🚀 50个生产就绪的生成式人工智能SaaS应用程序—为它们打造品牌、发货，并保留100%的收入。Stripe计费· Google OAuth · Vercel部署· MIT许可",
+      "summary": "🚀 50个生产就绪的生成式人工智能SaaS应用程序—为它们打造品牌、发货，并保留100%的收入。Stripe计费· Google OAuth · Vercel部署· MIT许可",
       "source": "github",
-      "source_url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
+      "source_url": "https://github.com/benlamiro/ShipGenAI",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-23T18:48:45.000Z",
-      "collected_at": "2026-06-24T05:10:50.669Z",
-      "thumbnail": "/thumbs/6ee0ccd96993a64f6c593d2478b55090fdad6a50.png"
+      "published_at": "2026-06-24T19:15:25.000Z",
+      "collected_at": "2026-06-25T05:14:37.297Z",
+      "thumbnail": "/thumbs/fcb08deef6d4086c4313dcfbf5f7f52d0252375d.jpg"
     },
     {
-      "id": "bed8e9882e778966f4cde89aa037949588ac89f6",
-      "title": "Simpl3x3/ESEILANE",
-      "content": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
-      "summary": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
+      "id": "2357d6fbd7eb1787f00b9ea9624cc00d34de290c",
+      "title": "amplifthq/opentag",
+      "content": "Slack和GitHub的开源@ agent提及。OpenTag将标记的请求路由到Codex、Claude Code ，然后在线程中返回结果。",
+      "summary": "Slack和GitHub的开源@ agent提及。OpenTag将标记的请求路由到Codex、Claude Code ，然后在线程中返回结果。",
       "source": "github",
-      "source_url": "https://github.com/Simpl3x3/ESEILANE",
+      "source_url": "https://github.com/amplifthq/opentag",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-23T08:22:43.000Z",
-      "collected_at": "2026-06-24T05:10:56.547Z",
-      "thumbnail": "/thumbs/bed8e9882e778966f4cde89aa037949588ac89f6.jpg"
+      "published_at": "2026-06-24T08:05:12.000Z",
+      "collected_at": "2026-06-25T05:14:38.508Z",
+      "thumbnail": "/thumbs/2357d6fbd7eb1787f00b9ea9624cc00d34de290c.png"
     },
     {
-      "id": "92ca285741d855a391da62db9699081336e2e2d3",
-      "title": "ObsidianOwl123/AgentLens",
-      "content": "LLM代理的轻量级AI上下文压缩器",
-      "summary": "LLM代理的轻量级AI上下文压缩器",
+      "id": "240a9110ed533ad0536059d8894ffdb2680c282c",
+      "title": "todd866/codex-adversary",
+      "content": "招募Codex （ GPT ）作为Claude Code内部的自动对抗性评审员— Claude是思想的多样性领导者。",
+      "summary": "招募Codex （ GPT ）作为Claude Code内部的自动对抗性评审员— Claude是思想的多样性领导者。",
       "source": "github",
-      "source_url": "https://github.com/ObsidianOwl123/AgentLens",
+      "source_url": "https://github.com/todd866/codex-adversary",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-23T10:22:51.000Z",
-      "collected_at": "2026-06-24T05:10:57.934Z",
-      "thumbnail": "/thumbs/92ca285741d855a391da62db9699081336e2e2d3.png"
+      "published_at": "2026-06-24T09:40:40.000Z",
+      "collected_at": "2026-06-25T05:14:39.270Z",
+      "thumbnail": "/thumbs/240a9110ed533ad0536059d8894ffdb2680c282c.png"
     }
   ]
 }
