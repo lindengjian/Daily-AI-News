@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-25T05:14:39.270Z",
+  "generated_at": "2026-06-26T05:20:47.229Z",
   "items": [
     {
-      "id": "018f030d887310e5ac44880795c5a14e6dfcef7c",
-      "title": "benchflow-ai/awesome-evals",
-      "content": "一个精心策划的非BS资源库，其中包含用于构建和评估人工智能代理的最佳资源--论文、博客、讲座、工具、基准。由BenchFlow维护。",
-      "summary": "一个精心策划的非BS资源库，其中包含用于构建和评估人工智能代理的最佳资源--论文、博客、讲座、工具、基准。由BenchFlow维护。",
+      "id": "647eb221b2daf2c623cb0276183b38886355f404",
+      "title": "GraeLefix/GITVERSE",
+      "content": "将任何代码库🔍反向工程到构建提示中—架构故障、ASCII蓝图和AI-ready重建提示",
+      "summary": "将任何代码库🔍反向工程到构建提示中—架构故障、ASCII蓝图和AI-ready重建提示",
       "source": "github",
-      "source_url": "https://github.com/benchflow-ai/awesome-evals",
+      "source_url": "https://github.com/GraeLefix/GITVERSE",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-24T08:10:33.000Z",
-      "collected_at": "2026-06-25T05:14:35.858Z",
-      "thumbnail": "/thumbs/018f030d887310e5ac44880795c5a14e6dfcef7c.png"
+      "published_at": "2026-06-25T16:50:48.000Z",
+      "collected_at": "2026-06-26T05:20:43.929Z",
+      "thumbnail": "/thumbs/647eb221b2daf2c623cb0276183b38886355f404.jpg"
     },
     {
-      "id": "fcb08deef6d4086c4313dcfbf5f7f52d0252375d",
-      "title": "benlamiro/ShipGenAI",
-      "content": "🚀 50个生产就绪的生成式人工智能SaaS应用程序—为它们打造品牌、发货，并保留100%的收入。Stripe计费· Google OAuth · Vercel部署· MIT许可",
-      "summary": "🚀 50个生产就绪的生成式人工智能SaaS应用程序—为它们打造品牌、发货，并保留100%的收入。Stripe计费· Google OAuth · Vercel部署· MIT许可",
+      "id": "032a260595165b87d2692e54e85e7c29908d98f8",
+      "title": "samuto69/claude-ai-desktop-app",
+      "content": "免费claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+      "summary": "免费claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
       "source": "github",
-      "source_url": "https://github.com/benlamiro/ShipGenAI",
+      "source_url": "https://github.com/samuto69/claude-ai-desktop-app",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-24T19:15:25.000Z",
-      "collected_at": "2026-06-25T05:14:37.297Z",
-      "thumbnail": "/thumbs/fcb08deef6d4086c4313dcfbf5f7f52d0252375d.jpg"
+      "published_at": "2026-06-25T06:20:57.000Z",
+      "collected_at": "2026-06-26T05:20:45.039Z",
+      "thumbnail": "/thumbs/032a260595165b87d2692e54e85e7c29908d98f8.png"
     },
     {
-      "id": "2357d6fbd7eb1787f00b9ea9624cc00d34de290c",
-      "title": "amplifthq/opentag",
-      "content": "Slack和GitHub的开源@ agent提及。OpenTag将标记的请求路由到Codex、Claude Code ，然后在线程中返回结果。",
-      "summary": "Slack和GitHub的开源@ agent提及。OpenTag将标记的请求路由到Codex、Claude Code ，然后在线程中返回结果。",
+      "id": "af1e9b8c3cc3bd7230b05535353775c75ca13af7",
+      "title": "澎浩江/自动收纸机",
+      "content": "📚🔭 您的个人研究雷达—由LLM提供支持的工具，可自动汇总arXiv/Crossref/Semantic Scholar/GitHub/RSS中关键词的最新论文。",
+      "summary": "📚🔭 您的个人研究雷达—由LLM提供支持的工具，可自动汇总arXiv/Crossref/Semantic Scholar/GitHub/RSS中关键词的最新论文。",
       "source": "github",
-      "source_url": "https://github.com/amplifthq/opentag",
+      "source_url": "https://github.com/PenghaoJiang/auto-paper-collecter",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-24T08:05:12.000Z",
-      "collected_at": "2026-06-25T05:14:38.508Z",
-      "thumbnail": "/thumbs/2357d6fbd7eb1787f00b9ea9624cc00d34de290c.png"
+      "published_at": "2026-06-25T06:10:54.000Z",
+      "collected_at": "2026-06-26T05:20:46.061Z",
+      "thumbnail": "/thumbs/af1e9b8c3cc3bd7230b05535353775c75ca13af7.jpg"
     },
     {
-      "id": "240a9110ed533ad0536059d8894ffdb2680c282c",
-      "title": "todd866/codex-adversary",
-      "content": "招募Codex （ GPT ）作为Claude Code内部的自动对抗性评审员— Claude是思想的多样性领导者。",
-      "summary": "招募Codex （ GPT ）作为Claude Code内部的自动对抗性评审员— Claude是思想的多样性领导者。",
+      "id": "08ee9dd34b513257cee267e6c042298edc169513",
+      "title": "PROGRMGEEK/glm-5.2-free-desktop-app",
+      "content": "glm-5.2 z.ai zhipu ai llm大型语言模型github下载库hugging face local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode 1m context window long horizon tasks api access developer utility programming agent swe bench pro terminal bench setup windows macos linux stable",
+      "summary": "glm-5.2 z.ai zhipu ai llm大型语言模型github下载库hugging face local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode 1m context window long horizon tasks api access developer utility programming agent swe bench pro terminal bench setup windows macos linux stable",
       "source": "github",
-      "source_url": "https://github.com/todd866/codex-adversary",
+      "source_url": "https://github.com/PROGRMGEEK/glm-5.2-free-desktop-app",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-24T09:40:40.000Z",
-      "collected_at": "2026-06-25T05:14:39.270Z",
-      "thumbnail": "/thumbs/240a9110ed533ad0536059d8894ffdb2680c282c.png"
+      "published_at": "2026-06-25T16:39:55.000Z",
+      "collected_at": "2026-06-26T05:20:47.229Z",
+      "thumbnail": "/thumbs/08ee9dd34b513257cee267e6c042298edc169513.png"
     }
   ]
 }
