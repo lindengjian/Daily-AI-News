@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-26T05:20:47.229Z",
+  "generated_at": "2026-06-27T05:02:48.383Z",
   "items": [
     {
-      "id": "647eb221b2daf2c623cb0276183b38886355f404",
-      "title": "GraeLefix/GITVERSE",
-      "content": "将任何代码库🔍反向工程到构建提示中—架构故障、ASCII蓝图和AI-ready重建提示",
-      "summary": "将任何代码库🔍反向工程到构建提示中—架构故障、ASCII蓝图和AI-ready重建提示",
+      "id": "83bd56a36c600eb7ff24d52f1774071f9c7e9261",
+      "title": "Pluviobyte/视频制作技能",
+      "content": "可重复使用的人工智能视频制作技能库，用于创作、娱乐、运动设计、开场白和质量保证。",
+      "summary": "可重复使用的人工智能视频制作技能库，用于创作、娱乐、运动设计、开场白和质量保证。",
       "source": "github",
-      "source_url": "https://github.com/GraeLefix/GITVERSE",
+      "source_url": "https://github.com/Pluviobyte/video-production-skills",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-25T16:50:48.000Z",
-      "collected_at": "2026-06-26T05:20:43.929Z",
-      "thumbnail": "/thumbs/647eb221b2daf2c623cb0276183b38886355f404.jpg"
+      "published_at": "2026-06-26T05:50:51.000Z",
+      "collected_at": "2026-06-27T05:02:46.166Z",
+      "thumbnail": "/thumbs/83bd56a36c600eb7ff24d52f1774071f9c7e9261.jpg"
     },
     {
-      "id": "032a260595165b87d2692e54e85e7c29908d98f8",
-      "title": "samuto69/claude-ai-desktop-app",
-      "content": "免费claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
-      "summary": "免费claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+      "id": "85a6a7892f493fb983886c6f672f9c5c48814310",
+      "title": "hackonmon/agent-rules",
+      "content": "我的个人代理规则和准则。",
+      "summary": "我的个人代理规则和准则。",
       "source": "github",
-      "source_url": "https://github.com/samuto69/claude-ai-desktop-app",
+      "source_url": "https://github.com/hackonmon/agent-rules",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-25T06:20:57.000Z",
-      "collected_at": "2026-06-26T05:20:45.039Z",
-      "thumbnail": "/thumbs/032a260595165b87d2692e54e85e7c29908d98f8.png"
+      "published_at": "2026-06-26T07:58:17.000Z",
+      "collected_at": "2026-06-27T05:02:47.039Z",
+      "thumbnail": "/thumbs/85a6a7892f493fb983886c6f672f9c5c48814310.png"
     },
     {
-      "id": "af1e9b8c3cc3bd7230b05535353775c75ca13af7",
-      "title": "澎浩江/自动收纸机",
-      "content": "📚🔭 您的个人研究雷达—由LLM提供支持的工具，可自动汇总arXiv/Crossref/Semantic Scholar/GitHub/RSS中关键词的最新论文。",
-      "summary": "📚🔭 您的个人研究雷达—由LLM提供支持的工具，可自动汇总arXiv/Crossref/Semantic Scholar/GitHub/RSS中关键词的最新论文。",
+      "id": "c06213c42a50bf1c3289bdc17fb9c1358d0dee14",
+      "title": "ik190/macos-chatgpt-overlay-bar",
+      "content": "Mac版ChatGPT ，位于您的菜单栏中。",
+      "summary": "Mac版ChatGPT ，位于您的菜单栏中。",
       "source": "github",
-      "source_url": "https://github.com/PenghaoJiang/auto-paper-collecter",
+      "source_url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-25T06:10:54.000Z",
-      "collected_at": "2026-06-26T05:20:46.061Z",
-      "thumbnail": "/thumbs/af1e9b8c3cc3bd7230b05535353775c75ca13af7.jpg"
+      "published_at": "2026-06-26T08:39:46.000Z",
+      "collected_at": "2026-06-27T05:02:47.727Z",
+      "thumbnail": "/thumbs/c06213c42a50bf1c3289bdc17fb9c1358d0dee14.png"
     },
     {
-      "id": "08ee9dd34b513257cee267e6c042298edc169513",
-      "title": "PROGRMGEEK/glm-5.2-free-desktop-app",
-      "content": "glm-5.2 z.ai zhipu ai llm大型语言模型github下载库hugging face local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode 1m context window long horizon tasks api access developer utility programming agent swe bench pro terminal bench setup windows macos linux stable",
-      "summary": "glm-5.2 z.ai zhipu ai llm大型语言模型github下载库hugging face local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode 1m context window long horizon tasks api access developer utility programming agent swe bench pro terminal bench setup windows macos linux stable",
+      "id": "714feea52733160b7a08292ef4c815b7d766e245",
+      "title": "joelhooks/pi-bellwether",
+      "content": "Bellwether 🐏🔔 —用于从Pi管理Herdr代理、窗格和运行时会话的Pi包",
+      "summary": "Bellwether 🐏🔔 —用于从Pi管理Herdr代理、窗格和运行时会话的Pi包",
       "source": "github",
-      "source_url": "https://github.com/PROGRMGEEK/glm-5.2-free-desktop-app",
+      "source_url": "https://github.com/joelhooks/pi-bellwether",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-25T16:39:55.000Z",
-      "collected_at": "2026-06-26T05:20:47.229Z",
-      "thumbnail": "/thumbs/08ee9dd34b513257cee267e6c042298edc169513.png"
+      "published_at": "2026-06-26T17:40:32.000Z",
+      "collected_at": "2026-06-27T05:02:48.383Z",
+      "thumbnail": "/thumbs/714feea52733160b7a08292ef4c815b7d766e245.jpg"
     }
   ]
 }
