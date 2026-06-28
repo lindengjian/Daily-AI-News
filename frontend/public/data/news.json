@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-27T05:02:48.383Z",
+  "generated_at": "2026-06-28T05:43:35.024Z",
   "items": [
     {
-      "id": "83bd56a36c600eb7ff24d52f1774071f9c7e9261",
-      "title": "Pluviobyte/视频制作技能",
-      "content": "可重复使用的人工智能视频制作技能库，用于创作、娱乐、运动设计、开场白和质量保证。",
-      "summary": "可重复使用的人工智能视频制作技能库，用于创作、娱乐、运动设计、开场白和质量保证。",
+      "id": "9590ac846680ab825f892d01b5d0dff0638c8281",
+      "title": "eli-labz/Godcoder",
+      "content": "适用于您的桌面的本地第一个开源编码代理。带上您自己的LLM密钥；您的代码保留在您的机器上，只留给模型提供商。AI Agent构建自己的Harnes。",
+      "summary": "适用于您的桌面的本地第一个开源编码代理。带上您自己的LLM密钥；您的代码保留在您的机器上，只留给模型提供商。AI Agent构建自己的Harnes。",
       "source": "github",
-      "source_url": "https://github.com/Pluviobyte/video-production-skills",
+      "source_url": "https://github.com/eli-labz/Godcoder",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-26T05:50:51.000Z",
-      "collected_at": "2026-06-27T05:02:46.166Z",
-      "thumbnail": "/thumbs/83bd56a36c600eb7ff24d52f1774071f9c7e9261.jpg"
+      "published_at": "2026-06-27T00:56:36.000Z",
+      "collected_at": "2026-06-28T05:43:32.401Z",
+      "thumbnail": "/thumbs/9590ac846680ab825f892d01b5d0dff0638c8281.jpg"
     },
     {
-      "id": "85a6a7892f493fb983886c6f672f9c5c48814310",
-      "title": "hackonmon/agent-rules",
-      "content": "我的个人代理规则和准则。",
-      "summary": "我的个人代理规则和准则。",
+      "id": "867ba1162d89b3546aa714219786fac8b8579b2e",
+      "title": "XBuilderLAB/技能作弊",
+      "content": "帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。",
+      "summary": "帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。",
       "source": "github",
-      "source_url": "https://github.com/hackonmon/agent-rules",
+      "source_url": "https://github.com/XBuilderLAB/cheat-on-skill",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-26T07:58:17.000Z",
-      "collected_at": "2026-06-27T05:02:47.039Z",
-      "thumbnail": "/thumbs/85a6a7892f493fb983886c6f672f9c5c48814310.png"
+      "published_at": "2026-06-27T03:21:42.000Z",
+      "collected_at": "2026-06-28T05:43:32.847Z",
+      "thumbnail": "/thumbs/867ba1162d89b3546aa714219786fac8b8579b2e.png"
     },
     {
-      "id": "c06213c42a50bf1c3289bdc17fb9c1358d0dee14",
-      "title": "ik190/macos-chatgpt-overlay-bar",
-      "content": "Mac版ChatGPT ，位于您的菜单栏中。",
-      "summary": "Mac版ChatGPT ，位于您的菜单栏中。",
+      "id": "f0b2fefd853f67ffdb13e486648dd7082b8e7d98",
+      "title": "sums001/Deepseek-API",
+      "content": "将Deepseek聊天反向设计为OpenAI兼容的API。通过简单的REST界面访问V4和R1模型，无需API密钥或计费。",
+      "summary": "将Deepseek聊天反向设计为OpenAI兼容的API。通过简单的REST界面访问V4和R1模型，无需API密钥或计费。",
       "source": "github",
-      "source_url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+      "source_url": "https://github.com/sums001/Deepseek-API",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-26T08:39:46.000Z",
-      "collected_at": "2026-06-27T05:02:47.727Z",
-      "thumbnail": "/thumbs/c06213c42a50bf1c3289bdc17fb9c1358d0dee14.png"
+      "published_at": "2026-06-27T13:55:27.000Z",
+      "collected_at": "2026-06-28T05:43:33.778Z",
+      "thumbnail": "/thumbs/f0b2fefd853f67ffdb13e486648dd7082b8e7d98.jpg"
     },
     {
-      "id": "714feea52733160b7a08292ef4c815b7d766e245",
-      "title": "joelhooks/pi-bellwether",
-      "content": "Bellwether 🐏🔔 —用于从Pi管理Herdr代理、窗格和运行时会话的Pi包",
-      "summary": "Bellwether 🐏🔔 —用于从Pi管理Herdr代理、窗格和运行时会话的Pi包",
+      "id": "bf6d6cf474ba7c467acf42081e95dc1a4e52a9da",
+      "title": "MADEVAL/AngleCraft",
+      "content": "通过7 +2的新闻角度类型，将枯燥的专家话题转化为高参与度的内容。适用于任何法学硕士、任何利基市场、任何语言的人工智能技能。",
+      "summary": "通过7 +2的新闻角度类型，将枯燥的专家话题转化为高参与度的内容。适用于任何法学硕士、任何利基市场、任何语言的人工智能技能。",
       "source": "github",
-      "source_url": "https://github.com/joelhooks/pi-bellwether",
+      "source_url": "https://github.com/MADEVAL/AngleCraft",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-26T17:40:32.000Z",
-      "collected_at": "2026-06-27T05:02:48.383Z",
-      "thumbnail": "/thumbs/714feea52733160b7a08292ef4c815b7d766e245.jpg"
+      "published_at": "2026-06-27T10:33:05.000Z",
+      "collected_at": "2026-06-28T05:43:35.024Z",
+      "thumbnail": "/thumbs/bf6d6cf474ba7c467acf42081e95dc1a4e52a9da.jpg"
     }
   ]
 }
