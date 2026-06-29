@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-28T05:43:35.024Z",
+  "generated_at": "2026-06-29T06:04:23.481Z",
   "items": [
     {
-      "id": "9590ac846680ab825f892d01b5d0dff0638c8281",
-      "title": "eli-labz/Godcoder",
-      "content": "适用于您的桌面的本地第一个开源编码代理。带上您自己的LLM密钥；您的代码保留在您的机器上，只留给模型提供商。AI Agent构建自己的Harnes。",
-      "summary": "适用于您的桌面的本地第一个开源编码代理。带上您自己的LLM密钥；您的代码保留在您的机器上，只留给模型提供商。AI Agent构建自己的Harnes。",
+      "id": "4fda47aa05e645d661e90543357f1e06ec8c0542",
+      "title": "ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "content": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
+      "summary": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
       "source": "github",
-      "source_url": "https://github.com/eli-labz/Godcoder",
+      "source_url": "https://github.com/ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-27T00:56:36.000Z",
-      "collected_at": "2026-06-28T05:43:32.401Z",
-      "thumbnail": "/thumbs/9590ac846680ab825f892d01b5d0dff0638c8281.jpg"
+      "published_at": "2026-06-28T07:13:41.000Z",
+      "collected_at": "2026-06-29T06:04:20.749Z",
+      "thumbnail": "/thumbs/4fda47aa05e645d661e90543357f1e06ec8c0542.jpg"
     },
     {
-      "id": "867ba1162d89b3546aa714219786fac8b8579b2e",
-      "title": "XBuilderLAB/技能作弊",
-      "content": "帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。",
-      "summary": "帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。",
+      "id": "83a10b4759c40f3f2a7753affa666797a24741c8",
+      "title": "giorgigelashvili12/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "content": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
+      "summary": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
       "source": "github",
-      "source_url": "https://github.com/XBuilderLAB/cheat-on-skill",
+      "source_url": "https://github.com/giorgigelashvili12/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-27T03:21:42.000Z",
-      "collected_at": "2026-06-28T05:43:32.847Z",
-      "thumbnail": "/thumbs/867ba1162d89b3546aa714219786fac8b8579b2e.png"
+      "published_at": "2026-06-28T07:14:29.000Z",
+      "collected_at": "2026-06-29T06:04:21.642Z",
+      "thumbnail": "/thumbs/83a10b4759c40f3f2a7753affa666797a24741c8.png"
     },
     {
-      "id": "f0b2fefd853f67ffdb13e486648dd7082b8e7d98",
-      "title": "sums001/Deepseek-API",
-      "content": "将Deepseek聊天反向设计为OpenAI兼容的API。通过简单的REST界面访问V4和R1模型，无需API密钥或计费。",
-      "summary": "将Deepseek聊天反向设计为OpenAI兼容的API。通过简单的REST界面访问V4和R1模型，无需API密钥或计费。",
+      "id": "b1146c9b661e653845a9bbeeac185ae7e944b7b5",
+      "title": "Aliu-AiRobot/ESEILANE",
+      "content": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
+      "summary": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
       "source": "github",
-      "source_url": "https://github.com/sums001/Deepseek-API",
+      "source_url": "https://github.com/Aliu-AiRobot/ESEILANE",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-27T13:55:27.000Z",
-      "collected_at": "2026-06-28T05:43:33.778Z",
-      "thumbnail": "/thumbs/f0b2fefd853f67ffdb13e486648dd7082b8e7d98.jpg"
+      "published_at": "2026-06-28T19:14:42.000Z",
+      "collected_at": "2026-06-29T06:04:22.459Z",
+      "thumbnail": "/thumbs/b1146c9b661e653845a9bbeeac185ae7e944b7b5.jpg"
     },
     {
-      "id": "bf6d6cf474ba7c467acf42081e95dc1a4e52a9da",
-      "title": "MADEVAL/AngleCraft",
-      "content": "通过7 +2的新闻角度类型，将枯燥的专家话题转化为高参与度的内容。适用于任何法学硕士、任何利基市场、任何语言的人工智能技能。",
-      "summary": "通过7 +2的新闻角度类型，将枯燥的专家话题转化为高参与度的内容。适用于任何法学硕士、任何利基市场、任何语言的人工智能技能。",
+      "id": "ff96da8dff4f0fe6c8919d2dc900573ab633801a",
+      "title": "Hunteryawatch/FreeAI-Desktop",
+      "content": "适用于Windows的免费离线AI聊天。Llama 3.2 3B型号。无需API密钥、无需审查、无需互联网。100%私密。",
+      "summary": "适用于Windows的免费离线AI聊天。Llama 3.2 3B型号。无需API密钥、无需审查、无需互联网。100%私密。",
       "source": "github",
-      "source_url": "https://github.com/MADEVAL/AngleCraft",
+      "source_url": "https://github.com/Hunteryawatch/FreeAI-Desktop",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-27T10:33:05.000Z",
-      "collected_at": "2026-06-28T05:43:35.024Z",
-      "thumbnail": "/thumbs/bf6d6cf474ba7c467acf42081e95dc1a4e52a9da.jpg"
+      "published_at": "2026-06-28T10:14:15.000Z",
+      "collected_at": "2026-06-29T06:04:23.481Z",
+      "thumbnail": "/thumbs/ff96da8dff4f0fe6c8919d2dc900573ab633801a.jpg"
     }
   ]
 }
