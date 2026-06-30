@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-29T06:04:23.481Z",
+  "generated_at": "2026-06-30T05:16:20.769Z",
   "items": [
     {
-      "id": "4fda47aa05e645d661e90543357f1e06ec8c0542",
-      "title": "ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
-      "content": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
-      "summary": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
+      "id": "e816369589b5f35501bd7ead17420b2b5fa7b05f",
+      "title": "Sophomoresty/gemini-search-mcp",
+      "content": "由Google AI模式（ Gemini ）提供支持的免费MCP服务器，用于网络搜索。无限制，无API密钥。",
+      "summary": "由Google AI模式（ Gemini ）提供支持的免费MCP服务器，用于网络搜索。无限制，无API密钥。",
       "source": "github",
-      "source_url": "https://github.com/ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source_url": "https://github.com/Sophomoresty/gemini-search-mcp",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-28T07:13:41.000Z",
-      "collected_at": "2026-06-29T06:04:20.749Z",
-      "thumbnail": "/thumbs/4fda47aa05e645d661e90543357f1e06ec8c0542.jpg"
+      "published_at": "2026-06-29T13:17:52.000Z",
+      "collected_at": "2026-06-30T05:16:18.626Z",
+      "thumbnail": "/thumbs/e816369589b5f35501bd7ead17420b2b5fa7b05f.jpg"
     },
     {
-      "id": "83a10b4759c40f3f2a7753affa666797a24741c8",
-      "title": "giorgigelashvili12/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
-      "content": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
-      "summary": "MECCHA变色龙的终极2026外部训练器。包括可定制的ESP、aimbot、飞行模式和定时器编辑器，以获得最佳的捉迷藏体验。",
+      "id": "94d763ee1f8a3786f5afb83655847a28d65287f9",
+      "title": "实践-社会/实践-斗篷",
+      "content": "设备上PII清洗+云LLM的再水合—与Claude/GPT聊天，而本地模型在发送提示之前交换您的PII ，然后将答案映射回您的真实实体。由Qwen打造。",
+      "summary": "设备上PII清洗+云LLM的再水合—与Claude/GPT聊天，而本地模型在发送提示之前交换您的PII ，然后将答案映射回您的真实实体。由Qwen打造。",
       "source": "github",
-      "source_url": "https://github.com/giorgigelashvili12/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
+      "source_url": "https://github.com/Praxis-Society/praxis-cloak",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-28T07:14:29.000Z",
-      "collected_at": "2026-06-29T06:04:21.642Z",
-      "thumbnail": "/thumbs/83a10b4759c40f3f2a7753affa666797a24741c8.png"
+      "published_at": "2026-06-29T15:02:22.000Z",
+      "collected_at": "2026-06-30T05:16:19.700Z",
+      "thumbnail": "/thumbs/94d763ee1f8a3786f5afb83655847a28d65287f9.jpg"
     },
     {
-      "id": "b1146c9b661e653845a9bbeeac185ae7e944b7b5",
-      "title": "Aliu-AiRobot/ESEILANE",
-      "content": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
-      "summary": "适用于AI、LLM和GraphRAG的高性能知识图引擎—专为下一代智能应用而构建。",
+      "id": "d7e5b257659de8ffdfa4fee8b6ea70b8843c8649",
+      "title": "玄玄321/玄玄提示",
+      "content": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
+      "summary": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
       "source": "github",
-      "source_url": "https://github.com/Aliu-AiRobot/ESEILANE",
+      "source_url": "https://github.com/xuanxuan321/xuanxuan-prompts",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-28T19:14:42.000Z",
-      "collected_at": "2026-06-29T06:04:22.459Z",
-      "thumbnail": "/thumbs/b1146c9b661e653845a9bbeeac185ae7e944b7b5.jpg"
+      "published_at": "2026-06-29T01:43:10.000Z",
+      "collected_at": "2026-06-30T05:16:20.021Z",
+      "thumbnail": "/thumbs/d7e5b257659de8ffdfa4fee8b6ea70b8843c8649.png"
     },
     {
-      "id": "ff96da8dff4f0fe6c8919d2dc900573ab633801a",
-      "title": "Hunteryawatch/FreeAI-Desktop",
-      "content": "适用于Windows的免费离线AI聊天。Llama 3.2 3B型号。无需API密钥、无需审查、无需互联网。100%私密。",
-      "summary": "适用于Windows的免费离线AI聊天。Llama 3.2 3B型号。无需API密钥、无需审查、无需互联网。100%私密。",
+      "id": "6af3d4a3477ba86ab3745b60d4fbfe830d2635d2",
+      "title": "oxbshw/Agent-Span",
+      "content": "人工智能代理的Web访问网关— 52个通道， 92个MCP工具， 9个SDK ，自修复后端，异步Rust",
+      "summary": "人工智能代理的Web访问网关— 52个通道， 92个MCP工具， 9个SDK ，自修复后端，异步Rust",
       "source": "github",
-      "source_url": "https://github.com/Hunteryawatch/FreeAI-Desktop",
+      "source_url": "https://github.com/oxbshw/Agent-Span",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-28T10:14:15.000Z",
-      "collected_at": "2026-06-29T06:04:23.481Z",
-      "thumbnail": "/thumbs/ff96da8dff4f0fe6c8919d2dc900573ab633801a.jpg"
+      "published_at": "2026-06-29T03:40:39.000Z",
+      "collected_at": "2026-06-30T05:16:20.769Z",
+      "thumbnail": "/thumbs/6af3d4a3477ba86ab3745b60d4fbfe830d2635d2.jpg"
     }
   ]
 }
