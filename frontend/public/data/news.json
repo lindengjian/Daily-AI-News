@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-06-30T05:16:20.769Z",
+  "generated_at": "2026-07-01T05:52:48.551Z",
   "items": [
     {
-      "id": "e816369589b5f35501bd7ead17420b2b5fa7b05f",
-      "title": "Sophomoresty/gemini-search-mcp",
-      "content": "由Google AI模式（ Gemini ）提供支持的免费MCP服务器，用于网络搜索。无限制，无API密钥。",
-      "summary": "由Google AI模式（ Gemini ）提供支持的免费MCP服务器，用于网络搜索。无限制，无API密钥。",
+      "id": "ef73d907fc9b6616078ddb69d1496af14009759a",
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "content": "构建数字人类—自主、协作和社交智能代理。FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "summary": "构建数字人类—自主、协作和社交智能代理。FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
       "source": "github",
-      "source_url": "https://github.com/Sophomoresty/gemini-search-mcp",
+      "source_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-29T13:17:52.000Z",
-      "collected_at": "2026-06-30T05:16:18.626Z",
-      "thumbnail": "/thumbs/e816369589b5f35501bd7ead17420b2b5fa7b05f.jpg"
+      "published_at": "2026-06-30T01:04:13.000Z",
+      "collected_at": "2026-07-01T05:52:45.753Z",
+      "thumbnail": "/thumbs/ef73d907fc9b6616078ddb69d1496af14009759a.jpg"
     },
     {
-      "id": "94d763ee1f8a3786f5afb83655847a28d65287f9",
-      "title": "实践-社会/实践-斗篷",
-      "content": "设备上PII清洗+云LLM的再水合—与Claude/GPT聊天，而本地模型在发送提示之前交换您的PII ，然后将答案映射回您的真实实体。由Qwen打造。",
-      "summary": "设备上PII清洗+云LLM的再水合—与Claude/GPT聊天，而本地模型在发送提示之前交换您的PII ，然后将答案映射回您的真实实体。由Qwen打造。",
+      "id": "e9459f2040f168cc812a3be17a908848679b9bd7",
+      "title": "Fdani007/PUBG_Battlegrounds_ESP ___ Aimbot",
+      "content": "ESP、AIMBOT和PUBG BATTLEGROUNDS无后坐力。透过墙壁看到敌人，自动瞄准和零后坐力。适用于FPP和TPP。",
+      "summary": "ESP、AIMBOT和PUBG BATTLEGROUNDS无后坐力。透过墙壁看到敌人，自动瞄准和零后坐力。适用于FPP和TPP。",
       "source": "github",
-      "source_url": "https://github.com/Praxis-Society/praxis-cloak",
+      "source_url": "https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-29T15:02:22.000Z",
-      "collected_at": "2026-06-30T05:16:19.700Z",
-      "thumbnail": "/thumbs/94d763ee1f8a3786f5afb83655847a28d65287f9.jpg"
+      "published_at": "2026-07-01T00:19:19.000Z",
+      "collected_at": "2026-07-01T05:52:46.532Z",
+      "thumbnail": "/thumbs/e9459f2040f168cc812a3be17a908848679b9bd7.png"
     },
     {
-      "id": "d7e5b257659de8ffdfa4fee8b6ea70b8843c8649",
-      "title": "玄玄321/玄玄提示",
-      "content": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
-      "summary": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
+      "id": "316fd15ca3f91fc05bef5940f764728045f02456",
+      "title": "OpenCPIL/prima.cpp",
+      "content": "[官方] prima.cpp ：在异类和日常家用设备上快速推断30-70B LLM",
+      "summary": "[官方] prima.cpp ：在异类和日常家用设备上快速推断30-70B LLM",
       "source": "github",
-      "source_url": "https://github.com/xuanxuan321/xuanxuan-prompts",
+      "source_url": "https://github.com/OpenCPIL/prima.cpp",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-29T01:43:10.000Z",
-      "collected_at": "2026-06-30T05:16:20.021Z",
-      "thumbnail": "/thumbs/d7e5b257659de8ffdfa4fee8b6ea70b8843c8649.png"
+      "published_at": "2026-06-30T06:36:24.000Z",
+      "collected_at": "2026-07-01T05:52:47.509Z",
+      "thumbnail": "/thumbs/316fd15ca3f91fc05bef5940f764728045f02456.jpg"
     },
     {
-      "id": "6af3d4a3477ba86ab3745b60d4fbfe830d2635d2",
-      "title": "oxbshw/Agent-Span",
-      "content": "人工智能代理的Web访问网关— 52个通道， 92个MCP工具， 9个SDK ，自修复后端，异步Rust",
-      "summary": "人工智能代理的Web访问网关— 52个通道， 92个MCP工具， 9个SDK ，自修复后端，异步Rust",
+      "id": "9344525c4184dd4ef1466b040f4e2bed44118d79",
+      "title": "mixidifussion/stable-diffusion-web-ui-free",
+      "content": "稳定扩散web ui免费comfyui sd webui视频git克隆github ai艺术生成图像生成器本地部署python 3.10 gradio接口txt2img img2img修补外绘controlnet ip-adapter lora检查点模型加载器嵌入文本反转lycoris civitai拥抱面部扩展管理器",
+      "summary": "稳定扩散web ui免费comfyui sd webui视频git克隆github ai艺术生成图像生成器本地部署python 3.10 gradio接口txt2img img2img修补外绘controlnet ip-adapter lora检查点模型加载器嵌入文本反转lycoris civitai拥抱面部扩展管理器",
       "source": "github",
-      "source_url": "https://github.com/oxbshw/Agent-Span",
+      "source_url": "https://github.com/mixidifussion/stable-diffusion-web-ui-free",
       "embed_url": null,
       "media_type": "article",
-      "published_at": "2026-06-29T03:40:39.000Z",
-      "collected_at": "2026-06-30T05:16:20.769Z",
-      "thumbnail": "/thumbs/6af3d4a3477ba86ab3745b60d4fbfe830d2635d2.jpg"
+      "published_at": "2026-06-30T16:45:06.000Z",
+      "collected_at": "2026-07-01T05:52:48.551Z",
+      "thumbnail": "/thumbs/9344525c4184dd4ef1466b040f4e2bed44118d79.png"
     }
   ]
 }
